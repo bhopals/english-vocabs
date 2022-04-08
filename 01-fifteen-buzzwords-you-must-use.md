@@ -150,7 +150,7 @@
 
 - PRONUNCIATION - (pru·dent) - /ˈpro͞odnt/
 - PART OF SPEECH - adjective
-- MEANING - acting with or shound care and thought for the future.
+- MEANING - acting with or should care and thought for the future.
 - SYNONYMS - judicious, sensible, cautious, wary,
 - ANTONYM - unwise, unprudent, incautious, extravagant
 - WORD COMBINATIONS
