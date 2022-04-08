@@ -62,16 +62,16 @@
     - MEANING - fond of company of others; sociable; a very sociable person
     - SYNONYMS - outgoing, socialble, friendly, welcoming
     - WORD COMBINATIONS
-       - gragarious energy/smile/personality/crowd/people/birds/man/fellow/friend/host
+       - gregarious energy/smile/personality/crowd/people/birds/man/fellow/friend/host
     - EXAMPLES
-       - She is such a gragarious and outgoing person.
+       - She is such a gregarious and outgoing person.
        - These animals are highly gregarious.
        - He was warm, gregarious, and humorous.
        - Kim is gregarious and fun-loving.
        - I am a moderately gregarious fellow
        - I become friends with anyone because of my gregarious personality
        - If you want to be more approachable, show a gregarious smile.
-       - When you walk in a room, your radiate gragarious energy, surly brighten all gloomy souls.
+       - When you walk in a room, your radiate gregarious energy, surly brighten all gloomy souls.
        - As gregarious as you are with me, I am sure everyone will admire you.
        - Ravi, being gregariou, was always the life of the party.
 
