@@ -164,3 +164,54 @@
   - A prudent traveller never disparages(disregard) his own country.
   - My prudent personality makes me the right fit for the team leader's position.
   - Only can a prudent teacher change the level of English of his/her students for good.
+
+#### COMPLICIT
+
+- PRONUNCIATION - (com·plic·it) - /kəmˈplisit/
+- PART OF SPEECH - adjective
+- MEANING - involved with others in an illegal activity or wrongdoing.
+- WORD COMBINATIONS
+  - complicit in <something>
+  - complicit in fradulent conduct/terror activities/ corruption
+- EXAMPLES
+  - All of these people are complicit in some criminal conspiracy
+  - This trend reflects the reality that private equity can both control and be complicit in fraudulent conduct.
+  - A mother who does not report the abuse is said to be complicit.
+  - Victims also alleged that members of hospital staff were complicit in the abuse.
+
+#### COMPLICITY
+
+- PRONUNCIATION - (com·plic·i·ty) - /kəmˈplisədē/
+- PART OF SPEECH - noun
+- MEANING - involved with others in an illegal activity or wrongdoing; the condition of being involved in an act of wrongdoing
+- SYNONYMS - involvement, collaboration
+- WORD COMBINATIONS
+  - complicity in <something>
+    - complicity in murder/hateful crimes/crimes against humanity
+  - complicity for <something>
+    - complicity for financial deception/tax evasion/financial frauds
+- EXAMPLES
+
+  - He was arrested for complicity in the crime
+  - She is suspected of complicity in the fraud.
+  - Jennings denied complicity in the murder.
+  - Your complicity in the crime is probably going to earn you five years in prison
+  - Because the bartender kept selling drinks to the intoxicated man, she is being indicted for complicity in drunk driving.
+  - The politician blamed the fraud on his staff members and refused to accept any complicity for the financial deception.
+
+  #### INDICT
+
+- PRONUNCIATION - (in·dict) - /inˈdīt/
+- PART OF SPEECH - verb
+- MEANING -
+- SYNONYMS - accuse, charge, criminate, impeach, incriminate
+- ANTONYM - absolve, acquit, clear, vindicate
+- WORD COMBINATIONS
+  - induct <someone> for <something>
+    - induct him/her for murder/fraud
+- EXAMPLES
+  - A grand jury is expected to indict him for murder.
+  - The grand jury could indict the mayor for fraud and embezzlement
+  - A grand jury voted to indict the parents of the murdered toddler on charges of child abuse resulting in death.
+  - The District Attorney moved to indict the suspect in the murder case.
+  - Officials believed that they had enough evidence to indict Casey for aggravated child abuse, but she was acquitted during the trial.
