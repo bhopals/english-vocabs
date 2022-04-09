@@ -215,3 +215,20 @@
   - A grand jury voted to indict the parents of the murdered toddler on charges of child abuse resulting in death.
   - The District Attorney moved to indict the suspect in the murder case.
   - Officials believed that they had enough evidence to indict Casey for aggravated child abuse, but she was acquitted during the trial.
+
+#### INEXPLICABLE
+
+- PRONUNCIATION - (in·ex·pli·ca·ble) - /ˌinekˈsplikəb(ə)l/
+- PART OF SPEECH - adjective
+- MEANING - unable to be explained or accounted for; incapable of being explained or interpreted
+- SYNONYMS - unaccountable, inexplainable, incomprehensive
+- ANTONYM - understandable
+- WORD COMBINATIONS
+  - inexplicable absence/reason/delay/behavior/action/feeling
+- EXAMPLES
+  - Her inexplicable absence worried me.
+  - For some inexplicable reason he gave up a fantastic job.
+  - The airline was unable to give us a reason for the inexplicable departure delay.
+  - Although Will is normally a good kid, his inexplicable behavior today surprised everyone and got him kicked out of school.
+  - Stop your apologies to me because your behavior is simply inexplicable!
+  - Their actions are completely inexplicable.
