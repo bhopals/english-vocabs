@@ -25,9 +25,10 @@
 - broken woodean club
 - start burning with increasing strength
 - dispose to attack
+- he seems dispose to talk
 - he tore strips from his shirt to bandage his leg wound
 - festering wound
-- fester - (of a wound or sore) forming pus; septic.
+- fester - (of a wound or sore) - forming pus; septic.
 - a narrow hole had been bored in the tooth
 - it was strung on a piece of cord
 - cool observant eyes and deliberate gestures
@@ -36,3 +37,14 @@
 - the day outside grew brighter
 
 ### Chapter 6 / 7 / 8 / 9 / 10
+
+- sunlights finally faded away
+- grew impatient
+- luminous blue eye never lost their cool intelligence
+- shout obvious insults
+- he had been richly amused
+- extremely amusing
+- it maddened them
+- multitude of vocabularies
+- he was deeply humiliated
+- more talkative person
