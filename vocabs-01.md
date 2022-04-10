@@ -1,4 +1,4 @@
-### 15 Buzzwords you must use
+### Vocabs you must use
 
 #### Meticulous
 
