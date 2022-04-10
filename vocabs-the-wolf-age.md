@@ -1,6 +1,6 @@
 ## THE WOLF AGE
 
-### Chapter 1 / 2
+### Chapter 1 / 2 / 3 / 4 / 5
 
 - Emanated anger/concern/happiness/contempt
 - I have a kind of solution to purpose.
@@ -28,3 +28,11 @@
 - he tore strips from his shirt to bandage his leg wound
 - festering wound
 - fester - (of a wound or sore) forming pus; septic.
+- a narrow hole had been bored in the tooth
+- it was strung on a piece of cord
+- cool observant eyes and deliberate gestures
+- cosiderable attainment
+- crafted something (herb or medicine)
+- the day outside grew brighter
+
+### Chapter 6 / 7 / 8 / 9 / 10
