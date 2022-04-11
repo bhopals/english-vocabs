@@ -48,3 +48,5 @@
 - multitude of vocabularies
 - he was deeply humiliated
 - more talkative person
+- the most bullheaded man I have ever met
+- indictaments against the real perpetrators
