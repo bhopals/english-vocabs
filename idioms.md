@@ -19,3 +19,9 @@
 - Breakout your best trash talk
 - You do not have to put your money where your mouth is
 - Unnerve your rivals with ...
+
+- I think you are getting senile
+  - senile - exhibiting a loss of cognitive abilities
+- I am in excruciating pain, but I appreciate your concern
+- To be honest, you do tend towards a glass-half-full attitude.
+- "Tend towards a glass-half-full attitiude"
