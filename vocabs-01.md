@@ -250,3 +250,41 @@
   - Because Jim suffers from anxiety, he frequently has fears of impending disaster.
   - The emergency alert instructed everyone to prepare for the impending tornado.
   - As soon as the boss arrived, the workers became silent and waited for the impending announcement about layoffs.
+
+### Relent
+
+- PRONUNCIATION - (re·lent) - /rəˈlent/
+- PART OF SPEECH - verb
+- MEANING - To become more lenient, compassionate, or forgiving; give in
+  To soften in temper, resolution, etc.; become less severe, stern, or stubborn.
+- EXAMPLES
+  - Because my father is very angry, he won’t relent on my harsh punishment.
+  - I'm sure if he sees how important this is to you, he'll relent.
+  - We will not relent until justice is done and our nation is secure.
+  - Do you think the guy will relent and let me in the bar if I show him my fake identification?
+
+### Torment
+
+- PRONUNCIATION
+- PART OF SPEECH - noun/verb
+- MEANING - severe physical or mental suffering; cause to experience severe mental or physical suffering.
+- SYNONYMS - agonize, afflict
+- EXAMPLES
+  - Background music can help extroverts focus, but tends to torment introverts.
+  - Whatever was done to her, it drained her of all memories and caused much mental torment.
+  - Some children, especially nowadays, will torment an animal too.
+  - My older sister loved to torment me.
+
+### Give in -
+
+- Meaning - cease fighting or arguing; yield; surrender; to finally agree to what someone wants, after refusing for a period of time:
+
+- EXAMPLES
+  - He reluctantly gave in to the pressure.
+  - He nagged me so much for a new bike that eventually I gave in.
+  - The government cannot be seen as giving in to terrorists' demands.
+  - After a heated debate, the employers gave in to the union's demands.
+  - I don't think he will give in to your requests if you keep pestering him.
+  - He gave in to my suggestion after I had shown him the plans.
+  - Keep asking and eventually she'll give in.
+  - The government finally gave in to the company's plea for help.
