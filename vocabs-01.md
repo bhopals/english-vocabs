@@ -232,3 +232,21 @@
   - Although Will is normally a good kid, his inexplicable behavior today surprised everyone and got him kicked out of school.
   - Stop your apologies to me because your behavior is simply inexplicable!
   - Their actions are completely inexplicable.
+
+#### IMPENDING
+
+- PRONUNCIATION - /imˈpendiNG/
+- PART OF SPEECH - adjective
+- MEANING - (of an event regarded as threatening or significant) about to happen; forthcoming.
+- SYNONYMS - imminent, at hand, nearing, approaching, upcoming, on the way, forthcoming
+- WORD COMBINATIONS
+  - impending disaster/danger/doom/economic crisis/war/battle/divorce/dinner/election/announcements
+  - A terrible sense of impending doom/crisis/war/disaster
+- EXAMPLES
+  - It seemed that nothing could prevent the impending disaster.
+  - She washed some more broccoli and thought about the impending dinner.
+  - He'd spoken to Simon that morning of his impending marriage.
+  - Suddenly the terrible sense of impending doom seemed to have withdrawn.
+  - Because Jim suffers from anxiety, he frequently has fears of impending disaster.
+  - The emergency alert instructed everyone to prepare for the impending tornado.
+  - As soon as the boss arrived, the workers became silent and waited for the impending announcement about layoffs.
