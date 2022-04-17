@@ -181,7 +181,64 @@
 - Hang out
 - Grab a bite
 - Little League
-- Speaking of which
+- `Speaking of which`
   - It is an expression that indicates that something mentioned reminds one of other information about it.
   - Examples
-    - I am going to apply to the state university. Speaking of which, did you know Melissa is going there?
+    - I am going to apply to the state university. `Speaking of which`, did you know Melissa is going there?
+
+### Chapter 03 - Describing people, places, and things
+
+- To be like
+
+  - Examples
+    - What's his wife like? Is she nice?
+
+- Look like/Smell like/Sound like/Seem like - express similarity of appearance, smell, and sound.
+- Look alike/Smell alike/Sound alike - When things are similar
+- Actually/The truth is
+  - The term `actually` and `the truth is` indicate that the speaker is telling the truth even if it is surprising.
+  - Examples
+    - Do you like your new job? `Actually`, yes - even though I work nine hours a day.
+  - Another expression that means the same things is `As a matter of fact`
+    - Are you moving? `As a matter of fact`, I am!
+- `Hardly ever`
+  - Means almost never
+  - Examples
+    - You `hardly ever` call me anymore. Are you mad at me?
+- `At least`
+
+  - `At least` indicates that a situation could be worse.
+  - Examples
+    - Ohh, it is so cold outside today! Well `at least` it is not raining.
+    - At least he does not leave a mess in the kitchen.
+
+- `Wonder`
+
+  - I wonder expresses an unanswered question or doubt.
+  - Examples
+    - I `wonder` where Ellie is?
+    - I `wonder` if Jon's married.
+  - `No wonder`
+    - It indicates that `something is obvious`.
+    - Examples
+      - He is smart, engergetic, well educated and charming. `No wonder` you like him.
+      - He sounds a lot like you. No wonder you get along so well!
+
+- Quite the character
+
+  - To be `quite the character` is to be unusual in some way.
+  - Examples
+    - She never stops talking but can always make you laugh. Yeah, I hear she is quite the character.
+    - He is really quiet and never talks to anybody, yet the girls all like him. He must be quite the character.
+
+- `In the first place`
+  - `In the first place` is used to present the first example of why you do or don't like something.
+  - `Second/in the second place` or `Plus` can precede the next examples.
+  - A final example can be preceded by `not to mention that`.
+  - Examples
+    - We are not happy in the suburbs. `In the first place`, it takes us almost two hours to get to work.
+      `In the second place`, when we get home, we are exhausted.
+      `Plus`, we spend so much on gas.
+      `Not to mention` that kids are in day care for more than ten hours!
+    - `In the first place`, he always leaves a mess in the kitchen. He does not wash the dishes or take out trash.
+      `Plus`, he throws his clothes all over the place. `Not to mention` how he leaves the bathroom.
