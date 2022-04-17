@@ -181,3 +181,7 @@
 - Hang out
 - Grab a bite
 - Little League
+- Speaking of which
+  - It is an expression that indicates that something mentioned reminds one of other information about it.
+  - Examples
+    - I am going to apply to the state university. Speaking of which, did you know Melissa is going there?
