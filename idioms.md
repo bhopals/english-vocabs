@@ -29,5 +29,12 @@
 - Zip the lips
 - I am willing to put it behind us
 - on the trot (In a Row)
+
   - The class has been cancelled three weeks on the trot now.
   - Four wins on the trot for Sunrise Hyderabad
+
+- Prevalent (adjective) - widespread in a particular area or at a particular time.
+  - The social ills prevalent in society today
+- Prevailing (adjective) - Existing at a particular time; current; most frequent; common;
+  - Unfavourable prevailing economic conditions
+  - prevailing argument/wind/society/fasion
