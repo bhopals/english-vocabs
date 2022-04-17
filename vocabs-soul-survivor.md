@@ -1,6 +1,6 @@
 ## Soul Survivors Novel (Author - Navi Robins)
 
-### CHAPTER 01
+### CHAPTER 01 - Inner Demons never sleep
 
 - terrified screams
 - scorching hot African sun
@@ -13,7 +13,7 @@
 - They did not heed her screaming pleas for mercy
 - pleaded for mercy
 - there was a smack of malice in her reply.
-- They violated her small, innocent body with vicious malice that seemed more demonic that human
+- They violated her small, innocent body with vicious malice that seemed more demonic than human
 - Stripped her of the happiness she stored within her soul.
 - Stripping her of the happiness she stored withing her soul.
 - Her body shook violently from the force of the countless bullets that pierced her tiny and broken body
@@ -49,6 +49,8 @@
 - Leaning on the sink, he turned on the cold water, and threw a handful on his face.
 - Strikingly handsome and successful doctor
 - He slowly walked into the shower and turned on the cold water to wake up an already frightened body.
+- You appear to be ...
+- He has got a very dark hostile attitude which I did not like
 
 - VOCABS
 
@@ -148,6 +150,7 @@
         - Isabella frowned when she heard that she hadn’t won the prize, her lips turning down as she sulked.
 
     - 10. Sulk - /səlk/ - verb / noun
+
       - Meaning
         - be silent, morose, and bad-tempered out of annoyance or disappointment;
         - a period of gloomy and bad-tempered silence stemming from annoyance and resentment, bad mood
@@ -156,3 +159,21 @@
         - You just dropped your cupcake, but there’s no need to pout and sulk because we have more.
         - I’d rather you try not to sulk and be in a mad mood when we have visitors in our home.
         - When his teacher told him to stop being silly, he decided to frown and sulk the rest of the afternoon.
+
+    - 11. Pretentious - Adjective
+      - Meaning - acting as though more important, valuable, or special than is warranted
+      - Examples
+        - Because the weight loss product seemed fake and pretentious to me, I decided to buy an alternative item.
+        - Niles was pretentious and always made time to brag about his adventures.
+        - Even though Jake was a millionaire, he avoided hanging out with pretentious people who liked to flaunt their wealth.
+        - Dressed in a tuxedo, Hank made a pretentious entrance at the high school basketball game.
+        - Mary prefers the simple things in life and is not pretentious by any means.
+
+### CHAPTER 02 - Empty Routines
+
+- Daniel sat behind his desk
+- Staring off into nothing
+- His mind drowned in the memory of his past
+- Staring off into nothing as his mind drowned in the memory of his past until an uninvited voice snapped him out of his daydream
+- Uninvited voice snapped him out of his daydream
+- on the trot
