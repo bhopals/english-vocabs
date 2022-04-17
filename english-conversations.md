@@ -1,6 +1,6 @@
 ## English Conversation
 
-### Chapter 1 -Introducing yourself and others
+### Chapter 01 -Introducing yourself and others
 
 - Tell me about yourself
 - I can assure you that
@@ -85,3 +85,99 @@
     - Examples
       - We were in town, so we decided to drop in to see you.
       - Please drop by for a while. I miss seeing you.
+
+### Chapter 02 - Expressing Opinions, likes, and dislikes
+
+- `Like`
+
+  - Do you `like` a ice cream?
+  - What do you `like` to do?
+  - What would you `like` for yout birthday? (A way of asking what someone wants)
+  - What would you `like` to do today?
+
+- `Love`
+
+  - I `love` ice cream.
+  - I `love` it.
+
+- `What do you think of` ... ?
+
+  - `What do you think of` the new teacher? She is strict, but I think she is great. I like her
+
+- `Are you kidding me`?
+
+  - It is an expression that indicates that something is so true - or untrue - that it does not need to be said.
+  - Examples
+    - Do you like to dance? `Are you kidding me`? I'd rather dance than eat!
+
+- `Up for`
+
+  - To be up for something means to want to do it.
+  - Examples
+    - Are you `up for` going to the movies with us? - Yes I would love to go
+    - I am not really `up for` doing anything tonight. I am too tired.
+  - Alternative expressions are to `feel like doing something` OR `to be in the mood for doing something`
+    - Examples
+      - Do you `feel like going` to a movie?
+      - No I `am not in the mood for` (going to) a museum today.
+
+- `Stand`
+
+  - To stand means to tolerate / to accept
+  - Examples
+    - It is pretty hot today, but I can `stand` it.
+    - He went to home because he couldn't `stand` the hot sun.
+  - `Can't stand` often means to no like
+    - Examples
+      - He say he `cannot stand` his littler sister, but we know it is not true.
+
+- Big fan
+
+  - To (not) be a (big) fan indicates that someone does or does not like something.
+    - I like movies, but I am not a big fan of science fiction.
+    - Other ways of indicating something one likes include `AWESOME / COOL / FANTASTIC / GREAT / AMAZING`
+      - Examples
+        - College is AWESOME / COOL / FANTASTIC / GREAT / AMAZING
+        - My professors are AWESOME / COOL / FANTASTIC / GREAT / AMAZING
+        - My friends are AWESOME / COOL / FANTASTIC / GREAT / AMAZING
+      - Other ways of indicating dislike include `HORRIBLE / TERRIBLE / DEPRESSING / GROSS / DISGUISTING`
+      - Examples
+        - I did not like the show; I thought it was horrible. The plot was depressing, and the dance was gross.
+
+- `Going-away Present`
+
+  - A `going-away present` is a gift customarily given to someone who is leaving for an extended period,
+    perhaps to go to college, to move to another area, or to work in another place.
+  - Examples
+    - They gave me a picture of everyone in the office as a `going-away present` when I left for my new job.
+
+- `Even if`
+
+  - `Even if` can introduce a fact that seems a little hard to believe
+  - Examples
+    - I am going to finish this paper `even if` I have to work on it all night.
+
+- Plus
+
+  - Plus adds additional information that reinforce an opinion or argument.
+  - Examples
+    - I like him. He is really nice. Plus, he is good-looking.
+
+- To be honest with you
+
+  - The phrase `to be honest with you` introduces a statement that you think a person might not want to hear.
+  - Examples
+
+    - Thank you for inviting me to the movies, but `to be honest with you`, I am not really a big fan of horror movies.
+    - To be honest with you, I can't stand that dark color on the walls. It is like really depressing.
+      I prefer light color. Plus, I would like to change the rug and bedspreads.
+      With a couple of coats of paint, and few small changes.
+
+    - Bedspreads - A bedspread is a lightweight, quilted cover used as a decorative element on your bed.
+      They are usually the full size of the bed, able to cover everything including pillows and have enough room to
+      drape over the edges
+
+- Get along
+- Hang out
+- Grab a bite
+- Little League
