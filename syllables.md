@@ -1,3 +1,13 @@
+### VOWELS
+
+- A vowel is any sound with no audible noise produced by constriction in the vocal tract.
+- 5 LETTERS (A, E, I, O, U) always represent a vowel.
+
+### CONSONANTS
+
+- A Consonant is a sound with audible noice produced by a constriction.
+- There are 21 LETTERS(b,c,d,f,g,h,j,k,l,m,n,p,q,r,s,t,v,w,x,y,z) that usually represents a consonant.
+
 ### Six Kinds of Syllables
 
 - There are six different kinds of syllables in English
@@ -73,3 +83,28 @@
   - The other syllables are UNSTRESSED or WEAK (Means they are not said or pronounced as strongly or for as long as stressed syllables)
   - Example
     - pre-`pare`, sig-`ni`-fi-cance, com-`pu`-ter, in-con-`spic`-u-ous
+
+### Linking Consonant to Vowel
+
+- When a word ends in a CONSONANT sound, we often move the consonant sound to the begining of the next word if it
+  starts with a VOWEL sound. Remember that it's the sound that matters.
+  - Examples
+    - Can I have a bit of eggs? / Ca-nI-ha-va-bi-to-fegg?
+    - The `have` ends with `e` (vowel) but sound as (v) consonant, hence we linked it to the next word.
+
+### Linking Vowel to Vowel
+
+- When one word ends with a VOWEL sound and the next word begins with a vowel sound, we link the words
+  with a sort of `W` or `Y` sound.
+- If our lips are round at the end of the first word, we insert a `W` sound.
+- Example
+  - Who is / Who wis
+
+### Rules about Long Vowels
+
+- 1. When two vowels are together such as a double o `oo`, the long vowel sound `u` is used.
+  - Example - `zoom`
+- 2. This can also be used with (`ee`) to make the long vowel `e` sound and so on.
+  - Example - `deep`
+- 3. In most cases when there is an `e` at the end of the word, the vowel in the middle of the world will have a long vowel sound.
+  - Example - `dance`
