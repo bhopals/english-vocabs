@@ -110,3 +110,31 @@
   - Example - `deep`
 - 3. In most cases when there is an `e` at the end of the word, the vowel in the middle of the world will have a long vowel sound.
   - Example - `dance`
+
+### Linking Vowel to Vowel
+
+- When one word ends with a vowel sound and the next word begins with a vowel sound, we link the words
+  with a sort of Y or W sound. It depends on the shape of our mouth at the end of the first word.
+
+- 1. `Y Sounds` - When the first word ends in an a, e, i vowel sound [ eɪ / i: / aɪ ], our lips are wide. Then we
+     insert a Y sound at the beginning of the next word:
+
+- Examples
+  - pay all - /eɪ/ - pay(y)all
+  - the end - /i:/ - the(y)end
+  - lie on - /aɪ/ - lie(y)on
+- Example (Sentence)
+
+  - They all buy at the arcade.
+  - They(y)all buy(y)at the(y)arcade
+
+- 2. `W Sounds` - When the first word ends in an o, u vowel sound [ əʊ / u: ], our lips are round.
+     Then we insert a W sound at the beginning of the next word
+- Examples
+
+  - go out - /əʊ/ - go(w)out
+  - too often - /u:/- too(w)often
+
+- Example (Sentence)
+  - You all go out too often.
+  - you(w)all go(w)out too(w)often
