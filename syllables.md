@@ -1,3 +1,5 @@
+## Vowels and Consonants RULES
+
 ### VOWELS
 
 - A vowel is any sound with no audible noise produced by constriction in the vocal tract.
