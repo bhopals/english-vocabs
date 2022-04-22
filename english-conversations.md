@@ -334,3 +334,117 @@
 
 - I will probably be home after midnight.
 - Have too much on one's plate
+
+### Chapter 06 - Expressing Wants and Needs
+
+- NEED
+
+  - 1. `need` - is used to require urgent attention or action to prevent damage.
+
+    - I `need` a doctor. I am really dizzy.
+    - We `need` to rest. We have been working for six hours.
+    - Flowers `need` water.
+
+  - 2. `need` can also indicate a requirement dicatated by someone else.
+
+    - I `need` six more credits in order to graduate.
+    - The children `need` to bring pencils and erasers to class.
+    - To be a taxi driver, you `need` to have a special driver's license.
+
+  - 3. To `have to` can indicate a personal need or an obligation to someone else.
+
+    - I `have to` get my car fixed.
+    - He `has to` work on Saturdays.
+    - You `have to` complete the prerequisite before you can take advanced courses.
+    - She was speeding and `has to` pay a $100 fine.
+
+  - 4. `To be required to` indicates you have to do something that is imposed by some sort of AUTHORITY
+
+    - The children are `required to` do their homework before watching television.
+    - The cadets are `required to` wear their uniform to class.
+    - the warrant means you are `required to` allow the police to search your office.
+
+  - 5. A `requirement` is a standard imposed on someone by some sort of authority.
+
+    - Ability to speak another language is a `requirement` for this position
+    - It is a `requirement` of the home owners association that you keep your yard neat.
+
+  - 6. A `prerequisite` is proof of previous instruction or ability necessary for a certain job/course/position.
+
+    - This course is open to beginners. There are no prerequisite.
+    - A master's degree in business is a prerequisite for this job.
+
+  - `WANT`
+
+    - 1. To `want` means to have a desire for something and indicates some belief that will be attained.
+
+      - We `want` to move to a better neighborhood. (We are saving our money for that)
+      - She `wants` to go to college. (She is trying to make good grades in high school for that)
+      - He `wants` an ice-cream cone. (He is going to the ice-cream store/ordering ice cream.)
+
+    - 2.  `would like` indicates a desire that may or may not be possible to satisfy.
+      - We `would like` a house with four bedrooms.
+      - I `would like` to go on a vacation.
+      - He `would like` to be able to visit his family at last once a year.
+
+- `Mind`
+
+  - 1. To `have in mind` means to have a good idea of the kind of thing you want.
+    - Sure, I will help you decorate your living room. What kind of look do you `have in mind`?
+  - 2. To `have a mind to` means to be strongly considering an action.
+    - He stole money from me! I have a mind to report him.
+  - 3. To `mind` can mean to not to be happy about something. This is the meaning used in the example conversation.
+    - I do not mind going to the store. I am happy to do it.
+  - 4. To `mind` can mean to take charge of a store or shop.
+    - That you for `minding` the store while I had lunch.
+  - 5. To `mind` can also means to babysit
+    - Could you `mind` the children while I go to the store.
+  - 6. To `mind` can also mean to pay attention to.
+    - No I won't babysit for your children, because they won't `mind` me.
+    - Don't `mind` her - she does not know what she is talking about.
+  - 7. To `make up your mind` means to decide
+    - Do you want pizza or pasta? `Make up your mind`!
+    - I can't `make up my mind` between the SUV and the van.
+  - 8. To `change your mind` means to have a different idea or opinion than before
+    - I was goingto paint the dining room red, but I `changed my mind` and painted it blue.
+  - 9. `Never mind` means to disregard what was said. `Forget it` is another way of expressing this.
+    - What did you say? `Never mind` - It wasn't important. / `Forget it` - It wasn't important.
+  - 10. `Mind` is also noun that refers to the brain.
+    - At the age of ninety-five, her body is weak, but her `mind` is still perfect.
+  - 11. A `mind reader` is someone who knows what someone else is thinking.
+    - How was I supposed to know that you had a headaches? I am not a `mind reader`.
+
+- get rid of - make sure to no longer have something.
+- go-to - It is an expression to describe a person, place, or object that people depend on
+  or `go to first` for what they need.
+
+  - I love Cherrydale Hardware. It is my go-to store for supplies.
+
+- Worthwhile
+  - The translation course is intensive, but it is really worthwhile.
+  - Cancer research is a worthwhile cause.
+- out there
+
+  - There are a lot of nice people out there.
+
+- `All the bells and whistles`
+
+  - It refers to the most modern, up-to-date - usually expensive - features of homes and other buildings
+  - The apartment has `all the bells and whistles` - a soaking tub with jets, multiple showerheads,
+    granite countertops and stainless-steel appliances in the kitchen, energy-efficient appliances, and
+    many more exclusive features.
+
+- `Country`
+
+  - `Country` can refer to a nation
+    - what `country` are your from?
+  - `Country` can also refer to the areas that distant from cities, often where there are farms.
+    - We like to go to the `country` on weekends, to get some peace and quiet.
+
+- `A heads-up`
+
+  - `A heads-up` is a warming that something is going to happen.
+  - Hey mom, I am bringing a friend home for dinner and wanted to give you `a heads-up`.
+
+- `In the meantime`
+  - `In the meantime`, Julie went to classes and learned to cook.
