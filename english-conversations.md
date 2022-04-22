@@ -242,3 +242,51 @@
       `Not to mention` that kids are in day care for more than ten hours!
     - `In the first place`, he always leaves a mess in the kitchen. He does not wash the dishes or take out trash.
       `Plus`, he throws his clothes all over the place. `Not to mention` how he leaves the bathroom.
+
+### Chapter 04 - Striking up a conversation
+
+- Fancy running into you - what a coincidence we meet today.
+- `for ages` / `in ages`
+  - I have not seen him `for ages`. It has been a long time
+- `Before you know it` - means very quickly
+  - Don't worry, I will be back `before you know it`.
+- `as soon as`
+- `used to` (do) - something once habitual but is no longer done - past habit
+  - I `used to` smoke.
+- `used to` (something) - indicates a custom or habit
+  - I am `used to` cold weather
+- TRY
+
+  - `try on` - means to put clothing
+    - Try this dress on
+  - `try out` - means to use a car or other equipment
+    - I bought a new car. Would you like to try it out.
+  - `try to`/`try and` - indicate an effort to do somethong that may not be easy.
+    - Try to be here before eight o'clock/ Try and be here before 8 o'clock.
+  - `try + verb + ing` (something) - indicates a suggestion for solving a problem or problematical situation
+    - I can't get the door open. Try running the key in the other direction.
+
+- Run of the mill
+  - It is a way to describe something very ordinary or nondescript.
+  - Examples
+    - My shoes are comfortable but not trendy. They are quite run of the mill.
+    - This book is quite interesting. It is not just a run-of-the-mill romance novel.
+- A step in the right direction
+- Which reminds me of / speaking of which
+- Have one's fingers crossed
+  - I have my fingers crossed that we will win the game tonight.
+- pumped - to be pumped means to be very excited and ready for the occasion or event.
+
+  - The whole team is really pumped about the game tomorrow. We are ready to win.
+
+- bank on - It means to rely on, count on, trust certain infromation
+  - I am banking on you for helping me in my mid-term exam.
+- get together
+- keep in touch
+- catch up
+- get ahead of yourself / to count one's chicken before they hatch - make plans of something that may not happen.
+  - You just met him and you are already planning what to name your children.
+    Aren't you getting ahead of yourself? You should never count your chickens before they hatch.
+- have a feeling
+- make sure
+- let someone know
