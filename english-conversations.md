@@ -266,27 +266,71 @@
   - `try + verb + ing` (something) - indicates a suggestion for solving a problem or problematical situation
     - I can't get the door open. Try running the key in the other direction.
 
-- Run of the mill
+- `Run of the mill`
   - It is a way to describe something very ordinary or nondescript.
   - Examples
-    - My shoes are comfortable but not trendy. They are quite run of the mill.
-    - This book is quite interesting. It is not just a run-of-the-mill romance novel.
-- A step in the right direction
-- Which reminds me of / speaking of which
-- Have one's fingers crossed
-  - I have my fingers crossed that we will win the game tonight.
-- pumped - to be pumped means to be very excited and ready for the occasion or event.
+    - My shoes are comfortable but not trendy. They are quite `run of the mill`.
+    - This book is quite interesting. It is not just a `run-of-the-mill` romance novel.
+- `A step in the right direction`
+- `Which reminds me of` / `speaking of which`
+- `Have one's fingers crossed`
+  - I have `my fingers crossed` that we will win the game tonight.
+- `pumped` - to be `pumped` means to be very excited and ready for the occasion or event.
 
-  - The whole team is really pumped about the game tomorrow. We are ready to win.
+  - The whole team is really `pumped` about the game tomorrow. We are ready to win.
 
-- bank on - It means to rely on, count on, trust certain infromation
+- `bank on` - It means to rely on, count on, trust certain infromation
   - I am banking on you for helping me in my mid-term exam.
-- get together
-- keep in touch
-- catch up
-- get ahead of yourself / to count one's chicken before they hatch - make plans of something that may not happen.
+- `get together`
+- `keep in touch`
+- `catch up`
+- `get ahead of yourself` / `to count one's chicken before they hatch` - make plans of something that may not happen.
   - You just met him and you are already planning what to name your children.
-    Aren't you getting ahead of yourself? You should never count your chickens before they hatch.
-- have a feeling
-- make sure
-- let someone know
+    `Aren't you getting ahead of yourself`? You should never `count your chickens before they hatch`.
+- `have a feeling`
+- `make sure`
+- `let someone know`
+- it is actually quite fulfilling
+
+### Chapter 05 - Making dates and an appointments
+
+- `I would much rather `come in the early morning
+- IN/ON/AT to indicative events
+
+  - IN indicates the month or year of an event.
+
+    - Her birthday dinner is in October.
+    - The celebration is in 2014.
+
+  - ON indicates the day or date of an event
+
+    - The appointment is one Friday.
+    - Our clases are on Tuesdays and Thursdays.
+    - Her party is on August 13.
+
+  - AT indicates the time of the event.
+
+    - The reception is at ten o'clock.
+    - The concert is at 04:30.
+
+  - IN/AT - Periods of the day are indicated as follows:
+
+    - in the morning
+    - in the afternoon
+    - at night
+
+  - AT indicates the location of an event or number in the street address.
+
+    - The movie is at the State Theater
+    - The State Theater is at 405 S. Washington Street.
+
+  - ON indicates the name of the street in the address of the location
+
+    - The movie is at the theater on State Street.
+
+  - IN Indicates a location of an event where the address is already understood.
+    - The movie is in Theater A.
+    - The meeting is in the boss office.
+
+- I will probably be home after midnight.
+- Have too much on one's plate
