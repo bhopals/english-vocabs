@@ -447,4 +447,35 @@
   - Hey mom, I am bringing a friend home for dinner and wanted to give you `a heads-up`.
 
 - `In the meantime`
+
   - `In the meantime`, Julie went to classes and learned to cook.
+
+- `one more thing`
+
+### Chapter 07 - Making requests and offers
+
+- Making a request
+
+  - 1. A direct command is the strongest way to request urgent attention.
+
+    - Take her to the hospital!
+    - Let us rest!
+    - Call the police!
+    - Help me!
+
+  - 2. Can you also be used to request attention to a need.
+    - Can you get me to a hospital right away?
+    - Can you call the police?
+    - Can you help me?
+  - 3. Will you is the most direct way yo request what you want and should ALWAYS preceded and followed by PLEASE
+    - Will you please take me to the airport?
+    - Please, will you bring me a glass of water?
+  - 4. Could you (please) is a more polite way to request what you want
+    - Could you babysit for my daughter this weekend?
+    - Could you tell me how to get to Main Street from here?
+  - 5. Would you (please) is an even more polite way to request what you want.
+    - Would you (be able to) mow the lawn for me this weekend?
+    - Would you take me to the store this afternoon?
+  - 6. Would you mind +-ing is the MOST formal way to request what you want.
+    - Would you mind helping me with these packages?
+    - Would you mind telling us how to get to the main hightway?

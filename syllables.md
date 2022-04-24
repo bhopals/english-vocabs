@@ -138,3 +138,10 @@
 - Example (Sentence)
   - You all go out too often.
   - you(w)all go(w)out too(w)often
+
+#### `t` as a `d` (Flap T)
+
+- If the `t` comes between two vowels, it will be pronounsed as a `d`(flap T)
+- Examples
+  - native ==> na(d)ive
+  - a lot of ==> a lo(d) of
