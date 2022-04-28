@@ -488,3 +488,87 @@
   - 9. A favor is something that someone does to help someone else out
     - Will you do me a `favor`? Of course, what do you need?
     - `Would you mind if` I ask`ed` you a `favor`? Of course not. What can I do for you?
+
+- Offering Assistanc
+
+  - 1.  `I'll + verb` indicates that you are taking action in an emergency. An alternative way to express this is to use the
+        present progressive tense.
+    - `I'll take` you to the hospital.
+    - `I'm calling` the police.
+  - 2. `Would you like to + basic verb` OR `would you like me to + basic verb` can be used when
+       what the person needs is obvious not urgent.
+    - I see you are tired.` Would you like to sit` down?
+    - I see you need a ride. `Would you like me to take` you home?
+  - 3. `Let me know if I can help you` OR `I'll be glad to help you` are formal expressions used by receptionists, secretaries,
+       saleclerks, or other people whose jobs involve providing services to the public.
+    - The doctor will be with you shortly. In this meantime, `let me know if I can help you`.
+    - Feel free to look through our merchandise, and if you see anything you like or have any questions. `I'll be glad to help you`.
+  - 4. `Can I help you?` is a way to offer assistance to a `stranger` in need. An alternative expression is `Let me help you`.
+    - You look lost. `Can I help you?`
+    - You took quite a fall. `Let me help you` get up.
+  - 5. `How can I help you?` is a way to offer assistance to someone who seems to want something.
+       An alternative expression is `Let me help you?`
+    - I am the doctor's receptionist. `How can I help you?`
+    - I see you are waiting for a salesperson. `What can I do for you?`
+  - 6. `Is there any way I can help you?` indicates a sincere offer to help to someone you know well.
+       Alternative expressions are `Is there anything I can do for you?`/`Is there anything I can do to help?`
+    - Mom, I know you are not feeling well. `Is there any way I can help you?`
+    - So your are moving to your new house next week. `Is there anything I can do to help?`
+
+- `It's (just) that`
+- I am sorry professor. `It's that` I had two exams and other papers due last week.
+- `The thing is`
+
+  - `the thing is`, I always seem to be in hurry to go somewhere.
+
+- Totally
+
+  - totally awesome
+  - totally confused
+
+- `be Willing`
+
+  - To `be willing` means to accept participation in an activity.
+    - Are you `willing` to pick me up at the airport?
+    - I am not `willing` to quit my job and go with him.
+
+- `back on track`
+
+  - To `be back on track` means to be back to normal after a difficult period
+    - He is `back on track` with rest of the team.
+
+- `on top of it`
+
+  - To `be on top of it` means to fully understand something or to be able to handle something.
+    - The math course is hard, but I think he's `on top of it`.
+
+- `a load off my shoulders/mind`
+
+  - `A load off my shoulders/mind` is a big relief from responsibility or worry.
+    - When Jan offered to take care of my mother, it was `a huge load off my shoulders`.
+    - After the accident, the insurance company paid for my car repairs. That sure was `a load off my mind`.
+
+- `Any chance`
+- `Any chance`...? is used to ask informally if something is possible or true.
+
+  - `Any chance` you have a lawn mower I could borrow?
+  - `Any chance` we could get together for a cup of coffee?
+
+- `I'll get back to you`
+
+  - `I'll get back to you` is a promise to find information for someone and contact him or her as soon as you have it.
+    - I'll find it and `get back to you` right away.
+
+- `By the way`
+
+  - `By the way` introduces a new topic or a change in subject in the middle of a conversation.
+    - Yes, I really like my new job. `By the way`, have you heard from Kevin?
+
+- `Don't hesitate`
+
+  - `Don't hesitate` is a way to indicate your willingness to be available for someone.
+    - If you need anything, `don't hesitate` to call me.
+
+- `See you later`
+  - `See you later` is an informal way to saying good-bye. Alternative expressions include `see ya/later/bye/ciao`
+    - Ok, I've gotta run. `See you later`.
