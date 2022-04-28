@@ -492,7 +492,7 @@
     - `Do you mind if` I `borrow` your car? No you can use it for couple of hours.
     - `Do you mind if` we `stay` one more night?
 
-- Offering Assistanc
+- Offering Assistance
 
   - 1.  `I'll + verb` indicates that you are taking action in an emergency. An alternative way to express this is to use the
         present progressive tense.
@@ -575,3 +575,144 @@
 - `See you later`
   - `See you later` is an informal way to saying good-bye. Alternative expressions include `see ya/later/bye/ciao`
     - Ok, I've gotta run. `See you later`.
+
+### Chapter 08 - Expressing doubts and uncertainty
+
+- `in the first place`
+  - It is an expression that precedes the first point or argument you present when trying to convince someone of something.
+    - I don't want to live in the southern part of the country. `In the first place`, the schools are not very good there.
+- `for a start`
+
+  - It is an expression that precedes the first suggestion related to a plan.
+    - We both want to buy a new house, but `for a start`, we need to see if we have enough money.
+  - Alternatives to this expression are `for starters` and `to begin with`.
+    - I will consider your marriage proposal, but `for starters`, we need to work out some of our problems.
+    - Let's talk about our plans for the new house. `To begin with`, we need to decide exatly what we want.
+
+- `plus` / `in addition` / `besides`
+
+  - It introduces a second, third, or further point in a positive or negative argument.
+    - I loved that movie. It was westerns; Clint Eastwood was in it; `plus`, it lasted three hours.
+    - I loved that movie. It was westerns; Clint Eastwood was in it; `in addition`, it lasted three hours.
+    - I loved that movie. It was westerns; Clint Eastwood was in it; `besides`, it lasted three hours.
+
+- `As if that weren't enough`
+
+  - It introduces a final point at the end of a series of positives or negative arguments.
+    - It was a terrible date. He arrived late. He was rude to my parents. And as `if that weren't enough`, he was in a
+      bad mood the whole evening.
+
+- `at least`
+- `after all`
+- `cry on someone's shoulder`
+
+  - It means to tell someone that you need sympathy and support.
+    - I just got fired from my job. Will you let me `cry on your shoulder` tonight?
+
+- `matter`
+- `just the opposite`
+
+  - It indicates that the truth is very different from what was just said.
+    - You must really be excited about your promotion! It's `just the opposite`! They are transferring me to another city.
+
+- `out to get`
+  - To `be out to get` someone means to want to hurt or make trouble for that person.
+    - The president of the club refused to listen to any of our suggestions. I think he is really `out to get` us.
+- `on someone's case`
+  - To be `on someone's case` means to constantly criticize or scold someone
+    - My dad's always `on my case` about my long hair. He really wants me to cut it.
+- `take it all out on`
+
+  - To `take it all out on` someone means to build up anger and frustration over a problem and then show that anger
+    toward a person unrelated to the problem.
+    - I know you are disappointed that you didn't get better grades at school, but don't `take it out on` your litter sister.
+
+- `work out`
+
+  - To `work out` a problem is to solve it.
+    - We are not going to get married until we can `work out` our problems.
+  - To `work out` can also mean to be satisfactory.
+    - The new arrangement of desks at the office is `working out` very well. Everybody likes it.
+    - Our relationship isn't `working out`. It's better that we not see each other anymore.
+  - To `work out` can also mean to exercise
+    - You look fantastic - I can tell you have been `working out`.
+
+- `not have a clue`
+  - It means to not know what is happening or what others are thinking.
+    - I `do not have a clue` what is going on between you two?
+- `not lift a finger`
+  - It means to not to do anything to help or contribute.
+    - She is so spoiled. She does not` lift a finger` to help her parents with the housework.
+- `pig out`
+
+  - It means to eat too much
+    - Oh, I really `pigged out` on that cake. It was so delicious.
+
+- `sick and tired`
+
+  - To `be sick and tired` means to no longer tolerate something.
+    - He has been pigging out all week. I am `sick and tired` of this behaviour.
+
+- `out of the blue`
+
+  - To `be out of the blue` means to appear or happen with no warning.
+    - So I am driving down the turnpike when `out of the blue` I get a call from Freddie!
+
+- `want one's space`
+
+  - To `want one's space` is a delicate way of saying you want to end a romantic relationship.
+    - I really feel like I `want my space` for a while, so I can think things over.
+
+- `throw in towel` / `give up`
+
+  - It means to stop trying to do something. An alternative expression is to `give up`.
+    - I `threw in towel` a couple months ago. I just didn't have enough time to practice.
+    - You can't `give up` now! You only have a couple of semesters left.
+
+- `cheer someone up`
+
+  - It means to make someone feel happier
+    - She was feeling lonely, so we went over and `cheered her up`.
+
+- `count on`
+
+  - It means to expect that that person will support you when necessary.
+    - We can always `count on` Bob to make you laugh.
+    - You are always late! I can't rely on you when I need you.
+  - To `be there for someone` means to support someone whenever necessary.
+    - I `count on` Ann. She is always `there for me`.
+    - He is a great dad, always `there for his kids`.
+
+-` do you mind` ....?
+
+- It is a way of asking someone's permission to do something.
+
+  - `Do you mind` if I sit here?
+  - `Do you mind` if I smoke?
+
+- `why don't` ....?
+
+  - It is another way of suggesting an activity to one or more people. This may or may not include you.
+    - `Why don't` you study Japanese?
+    - `Why don't` we invite the neighbours over?
+
+- `strengths` / `weaknesss`
+- `not exactly`
+- `from the get-go`
+
+  - It means from the beginning.
+    - He has been enthusiastic about this project `from the get-go`.
+    - She has been a pain in the neck `from the get-go`. Let's get her off the committee.
+
+- `from time to time`
+
+  - It means sometimes.
+  - other expression with the same meaning are `(every) once in a while`/`(every) now and then`/`every so often`/`occasionally`
+    - I am not still in love with him, but I think of him `from time to time`.
+    - She is not a big football fan, but `every once in a while` she goes to a game with me.
+    - `Now and then` she sends me an email.
+    - We have a family reunion `every so often`.
+    - `Occasionally`, I get together with my high school friends.
+
+- `sick and tired`
+  - I am `sick and tired` of their behaviour.
