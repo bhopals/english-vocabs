@@ -799,6 +799,7 @@
 
   - `A (whole) bunch` of means a lot of. Alternative expressions include `quite a few` and `a number of`.
     - `A whole bunch of` friends are coming over tonight.
+    - I am going to clean up my office, pay bills, write letters, and take care of `a bunch of` paperwork.
     - She has `quite a few` admirers.
     - There are still `a number of` tickets available.
 
