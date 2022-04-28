@@ -488,6 +488,9 @@
   - 9. A favor is something that someone does to help someone else out
     - Will you do me a `favor`? Of course, what do you need?
     - `Would you mind if` I ask`ed` you a `favor`? Of course not. What can I do for you?
+  - 10. `Do you mind if + subject + verb base form` is a very polite way to ask permission to do something
+  - `Do you mind if` I `borrow` your car? No you can use it for couple of hours.
+  - `Do you mind if` we `stay` one more night?
 
 - Offering Assistanc
 
