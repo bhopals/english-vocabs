@@ -716,3 +716,110 @@
 
 - `sick and tired`
   - I am `sick and tired` of their behaviour.
+
+### Chapter 09 - Talking about future events
+
+- Scheduled Events
+
+  - The present tense is used to talk about the `future`. It is used to give the time of scheduled events (99 percents probability)
+    - The flight `leaves` at four o'clock this afternoon.
+    - The movie `starts` at five o'clock, so don't be late.
+  - The present tense is also used to tell what normally happens and is expected to be the same in the future(99 percents probability)
+    - The stores `open` at ten o'clock tomorrow morning.
+    - The children `go` back to school in September.
+    - Class `ends` at 03:15.
+    - The train `stops` near our building every hour.
+
+- `I'll bet`
+
+  - The present tense is used after the expression `I'll bet`, meaning I am pretty sure it will happen.
+    - `I'll bet` she wins the election.
+    - `I'll bet` he calls me as soon as he gets home.
+
+- `going to`
+
+  - It is used to indicate events planned for the near future (95 percent probability)
+    - We're going to move to our new house next month.
+    - They're going to get married in June.
+
+- `will probably`
+
+  - `Will probably` + `basic verb` is used to indicate about a 75 percent probability of happening.
+    - She'll probably be late.
+    - We'll probably leave early.
+  - `Probably won't` + `basic verb` is used to indicate about a 25 percent probability of happening.
+    - He probably `won't come` with me.
+    - You probably `won't like` this movie.
+
+- `may/might`
+
+  - `may/might + basic verb` can be used to express about 50 percent of possibility of happening.
+  - He `may be late`, because he has to work until 6.
+  - She `might be late` too.
+  - I might come over tomorrow. It depends on what time I get home.
+
+- `Maybe`
+
+  - `Maybe` is also expresses about a 50 percent possibility of something happening.
+  - Unlike may and might, it is placed before the subject.
+    - `Maybe` they'll be late.
+    - `Maybe` I'll come over tomorrow.
+
+- `hit the sack`
+
+  - It is very informal way to say to go to bed and sleep.
+    - Man, I was exhausted last night. I `hit the sack` as soon as I got home.
+
+- `pack light`
+
+  - It means to prepare only for a very small suitcase or carry-on for travelling.
+    - Be sure to `pack light`, becuase we will have to carry our bags part of the way.
+
+- `catch up on`
+
+  - It means to do or learn something that you didn't do earlier.
+    - When we are at the beach, I plan to `catch up on` some important reading.
+
+- `take care of`
+
+  - To `take care of` can mean to preform a task.
+    - Don't worry. I will `take care of` the lawn.
+
+- `happy medium`
+
+  - `To reach a happy medium` means to agree by accepting some parts of one argument and some parts of oppossing argument.
+
+    - His style was modern, and hers was traditional. The `reached a happy medium` by buying an old house and putting
+      in modern furniture.
+
+  - A verb with the same meaning is to `compromise`.
+    - The only way to keep everybody happy is to `compromise`.
+
+- `a bunch of `
+
+  - `A (whole) bunch` of means a lot of. Alternative expressions include `quite a few` and `a number of`.
+    - `A whole bunch of` friends are coming over tonight.
+    - She has `quite a few` admirers.
+    - There are still `a number of` tickets available.
+
+- `the same old thing`
+
+  - It is a way to indicate that activities are routine.
+    - What are you up to these days? Oh, you know, `the same old things` - working, taking care of the kids, going to school at night.
+
+- `on the other hand`
+- `overseas/abroad`
+
+  - It refers to places on the other side of the ocean. A broad refers to all countries except the one you are in.
+    - We lived `overseas` for the number of years.
+    - Many collage students have the opportunity to study `abroad`.
+
+- `freshman`
+
+  - It refers to a student in the first year. second year students are called `sophomores`.
+  - Third-year students are `juniours`, and fourth year students are `seniors`.
+    - She may look like a `freshman`, but actually she is in her `senior` year.
+
+- `good luck with that`
+- `no way`
+- `just think`
