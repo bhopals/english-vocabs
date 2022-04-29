@@ -824,3 +824,92 @@
 - `good luck with that`
 - `no way`
 - `just think`
+
+### Chapter 10 - Making a case or arguing a point
+
+- `Pros` and `Cons`
+
+  - `Pro` can be used as a shortened form of `professional`
+  - `Pro` can be refer to the positive characteristics or positions in an argument.
+  - `Con` refers to the `negative` ones.
+    - This issue has both `pros` and `cons`.
+    - On the `pro` side, he is a hard worker.
+    - On the `con` side, he often comes to work late.
+
+- `In the first place`/`in the second place`/`plus`/`in addition`/`furthermore`/`what's more`
+- `finally`/`for the frosting on the cake`/`As if that weren't enough`/`To top it all off`
+
+- `besides`
+
+  - in a `con` (negative) argument, the same expressions are used, with one exception: instead of
+    `in addition`, `besides` is used.
+
+- so far
+
+  - It indicates what has happened between the begining of something and the present.
+
+- good grief
+
+  - This is an expression that indicates mild displeasure.
+    - More homework? Good grief, Miss Sarah, you've already given us a paper to write!
+
+- `just saying`
+- `I mean`
+- `friction`
+
+  - It can mean unrest, difficulty, or disagreement between two or more people.
+    - You guys have got to learn to get along. There is too much `friction` in this office.
+
+- `squat`
+
+  - It means nothing at all.
+    - I went to every class and I didn't learn `squat`. IT was all a review of the previous class.
+    - Her fancy degree isn't worth `squat` because she has a zero experience.
+
+- `not exactly`
+- `inside out`
+
+  - `Inside out` can indicate that an inner surface has become the outer surface.
+  - It can also indicate a thorough knowledge of something.
+    - Get pierre to help you with your French. He know the grammar `inside out`.
+
+- `keep on`
+
+  - to `keep on` means to continue or not stop. It is followed by in `-ing` form.
+    - We cannot take a break. We have to `keep on` studying.
+
+- `think outside the box`
+
+  - To `think outside the box` means to be creative or to always have new ideas for solving problems.
+    - When we solved the school's traffic problem, she was really thinking outside the box.
+
+- `fall off`
+  - To `fall off` can mean, literrally, to accidentally disappear from a high point.
+    - He broke his leg when he `fall off` the diving board.
+  - It can also mean to decline or be reduced.
+    - Sales of new houses began to `fall off` during the month of January.
+- `put one's two cents in`
+  - To `put ones two cents in` means to offer one's opinion.
+    - Everybody is arguing about it. Let me `put my two cents in`. We would go home and have drinks.
+- `a bit uppity`
+
+  - To be `a bit uppity` means to act as if you were a superior to other people.
+  - Alternative expressions include `to be stuck-up`/`to be snooty`/`to be a snob`
+    - Maybe she's just not used to the job, but the new secretary seems to be `a bit uppity`.
+
+- `put someone's name up `
+
+  - To `put someone's name up` means to nominate someone from a position or office.
+    - No, I am not running for president of the fraternity. I don't know who `put my name up`.
+
+- `go along with`
+
+  - To go along with means to accept an idea or decision.
+    - I really don't agree with some of these rules, but I will `go along with` whatever the majority decides.
+
+- `had better`
+  - It indicates a warning and implies that if something isn't done, there will be negative consequences.
+  - It is usually used in the form of contraction.
+    - `They'd better` arrive on time. [Otherwise they will miss the bus]
+    - `I'd better` not go out tonight. [I have a test tomorrow that I need to study for]
+    - `You'd better` not tell anyone my secret. [If you do, I will be very angry]
