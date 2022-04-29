@@ -83,7 +83,7 @@
 
 ### 4. He Don't Understand
 
-- THE IRREGULAR VERB TO DO
+- THE IRREGULAR VERB `TO DO`
 - The most common error with the irregular verb `to do` occurs when making the first-person singular
   a contraction with `not`. (Do not/Does not)
 
@@ -97,3 +97,24 @@
   - Pudge `doesn't` know what to do with his money.
   - Spike `doesn't` remember his hometown very well.
   - Gertrude `doesn't` travel internationally.
+
+### 5. They Had Wen to My Office Earlier in the Day
+
+- THE IRREGULAR VERB `TO GO`
+- The irregular verb `to go` gives people problems most often in the present and past tenses.
+  That is, they mistakenly, use `went` with the helping verb `has`, `have`, and `had`.
+
+- INCORRECT
+
+  - Fritz had `went` to the paris exhibit last year.
+  - They had `went` to that conference earlier in the year.
+  - I have `went` to the major power borkers to try to negotiate the deal.
+
+- CORRECT
+
+  - Fritz had `gone` to the paris exhibit last year.
+  - They had `gone` to that conference earlier in the year.
+  - I have `gone` to the major power borkers to try to negotiate the deal.
+
+- MEMORY TIP
+  - Remember that the classic movie is titled `Gone with the wind`, not `Went with the Wind`.
