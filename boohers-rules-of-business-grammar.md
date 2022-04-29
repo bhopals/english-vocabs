@@ -74,3 +74,9 @@
 
 - Strong VERBS deserve a life of their own. Why sap(erode, reduce, lower, lessen, wear away) their
   strength by turning them into NOUNS.
+
+### 3. Staying Regular
+
+- IRREGULAR VERBS
+- Make sure you use the correct verb forms
+- Pay special attention to IRREGULAR Verbs
