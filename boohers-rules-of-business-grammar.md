@@ -98,7 +98,7 @@
   - Spike `doesn't` remember his hometown very well.
   - Gertrude `doesn't` travel internationally.
 
-### 5. They Had Wen to My Office Earlier in the Day
+### 5. They Had Went to My Office Earlier in the Day
 
 - THE IRREGULAR VERB `TO GO`
 - The irregular verb `to go` gives people problems most often in the present and past tenses.
@@ -118,3 +118,14 @@
 
 - MEMORY TIP
   - Remember that the classic movie is titled `Gone with the wind`, not `Went with the Wind`.
+
+### 6. He Come Back From Overseas Early
+
+- THE IRREGULAR VERB `TO COME`
+- The most common error with the irregular verb `to come` occurs in the past tense.
+
+- INCORRECT - Eldor `come` home from work early yesterday
+- CORRECT - Eldor `came` home from work early yesterday
+- MEMORY TIP
+  - C`A`ME = P`A`ST
+  - C`O`ME = N`O`W
