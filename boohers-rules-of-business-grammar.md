@@ -80,3 +80,20 @@
 - IRREGULAR VERBS
 - Make sure you use the correct verb forms
 - Pay special attention to IRREGULAR Verbs
+
+### 4. He Don't Understand
+
+- THE IRREGULAR VERB TO DO
+- The most common error with the irregular verb `to do` occurs when making the first-person singular
+  a contraction with `not`. (Do not/Does not)
+
+- INCORRECT
+
+  - Pudge `don't` know what to do with his money.
+  - Spike `don't` remember his hometown very well.
+  - Gertrude `don't` travel internationally.
+
+- CORRECT
+  - Pudge `doesn't` know what to do with his money.
+  - Spike `doesn't` remember his hometown very well.
+  - Gertrude `doesn't` travel internationally.
