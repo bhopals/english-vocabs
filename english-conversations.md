@@ -904,7 +904,7 @@
 
 - `go along with`
 
-  - To go along with means to accept an idea or decision.
+  - `To go along` with means to accept an idea or decision.
     - I really don't agree with some of these rules, but I will `go along with` whatever the majority decides.
 
 - `had better`
