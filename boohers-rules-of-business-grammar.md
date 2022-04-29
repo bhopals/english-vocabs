@@ -60,7 +60,7 @@
 
 - Managers often `dialogue` about important projects and hope the entire team `nets` the essentials.
 
-### 2. "She Went Missing"
+### 2. She Went Missing
 
 - SUCKING THE LIFE OUT OF A STRONG VERBS
 - The following are not errors; they just weaken your writing, so always avoid it
@@ -126,6 +126,17 @@
 
 - INCORRECT - Eldor `come` home from work early yesterday
 - CORRECT - Eldor `came` home from work early yesterday
+- MEMORY TIP
+  - C`A`ME = P`A`ST
+  - C`O`ME = N`O`W
+
+### 7. I Seen Him Leave
+
+- THE IRREGULAR VERB `TO SEE`
+- The most common error with the irregular verb `to see` occurs in the past tense, with `seen`
+
+- INCORRECT - We `seen` them go into the building.
+- CORRECT - We `saw` them go into the building. / We have `seen` them go into the building.
 - MEMORY TIP
   - C`A`ME = P`A`ST
   - C`O`ME = N`O`W
