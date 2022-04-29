@@ -913,3 +913,99 @@
     - `They'd better` arrive on time. [Otherwise they will miss the bus]
     - `I'd better` not go out tonight. [I have a test tomorrow that I need to study for]
     - `You'd better` not tell anyone my secret. [If you do, I will be very angry]
+
+### Chapter 11 - Narrating a story
+
+- `first`/`second`/`next`/`then`/`after that`
+- `thank goodness` / `thank good`
+
+  - Both words are used to express relief, joy, or satisfaction.
+    - `Thank goodness` you arrived safely. Now we can celebrate.
+  - Both can case express appreciation
+    - We have enough money to live on, `thank god`.
+    - All of the children are healthy, `thank goodness`.
+
+- `to top it all off`
+
+  - Sometimes a series of events are meant to tell a convincing story. To top it all off
+    is an expression that is used to introduce a final event that adds weight to the sum of previous events.
+  - Other expression with the same functions are for `the forsting on the cake`/`as if it weren't enough`.
+
+- `all of sudden`/`suddenly`/`out of the blue`/`before I knew it`/`out of nowhere`/`just like that`
+
+- `the best thing` / `the worst thing`
+- `the upshot` / `the bottom line`
+
+  - `The upshot` of an issue is its result or outcome. This is often used to avoid telling a complete story
+    or explaining an issue in detail.
+
+    - I am not going to give you all the details. `The upshot` is that Caitlyn has left town and won't be back.
+
+  - An expression that has a similar function is `the bottom line`
+    - I just had a long conversation with the chairman. `The bottom line` is that I have been promoted.
+    - `The bottom line`/`the upshot` is that I got fired.
+
+- `bummer` / `shame`
+
+  - A `bummer` is an item of bad news or bad luck.
+    - Snow again! what a `bummer`! Now our flight will be cancelled.
+  - For serious occasions or tragedies, `a shame` would be a better expression.
+    - I am sorry to hear about your dad's illness. What `a shame`!
+
+- `pain in the neck`
+- `cop out on someone` / `copped out`
+- It means stop participating in an activity in which other people are counting on you. It indicates that
+  the speaker is unhappy with his decision.
+
+  - We had five players for the basketball team, but Steve `copped out`, and now we can't play a proper game.
+  - Sandy promised to drive me to the game, but he `copped out` on me at the last minute,
+    so now I'll have to take the bus.
+
+- `pouring donw rain`
+- To be `pouring down rain` means to be raining heavily.
+- An alternative expression is `raining cats and dogs`.
+
+  - The kids cannot play outside; it's `pouring down rain`.
+  - I had to pull the car off to the side of the raod because it was `raining cats and dogs`.
+
+- `pumped up`
+- `To be pumped `(up) means to be excited. An alternative expression is to be `all excited`.
+
+  - We are both `pumped up` for the concert this weekend.
+  - She is `all excited` about her date with you. Where are you guys going?
+
+- `Stressed out`
+- To be `stressed out` means to be very tense, nervous, or worried about something.
+  - Her chilren are sick. No wonder she is `stressed out`.
+- Another way to express this feeling is to say that something is `stresses you out`.
+
+  - Having two sick children at home really `stresses me out`.
+
+- `freaked out`
+
+  - `To freak out` or `be freaked out` means to be extremely scared, angry, or excited. Also,
+    something can `freak you out`.
+    - He `freaked out` when he saw his brother driving his new car.
+    - She is `freaked out` because she has three exams tomorrow.
+    - That car speeding toward us really `freaked me out`.
+
+- `creeped someone out` / `creeped out`
+
+  - To be `creeped out` means to be disgusted or frightened by something.
+  - Also something can creep you out.
+    - Those pictures of dead bodies really `creeped me out`.
+    - It `creeps me out` that he just sits there and never says a word.
+  - Another way to indicate disgust is to be `grossed out` / `gross someone out`.
+    - It really `grosses me out` when the kids have food fights.
+
+- `stuck with`
+
+  - My brother went out with his friends, I am `stuck with` looking after my little sister.
+
+- `chill out`
+
+- `to tell you the truth`
+
+- `wish`
+  - I `wish` you were here.
+  - I `wish` I could go with you.
