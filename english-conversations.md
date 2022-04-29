@@ -1092,3 +1092,15 @@
 - `pick up`
   - To `pick up` meanst to go in a vehicle to where someone is waiting, for the purpose of giving him/her a ride.
     - I'll be glad to give you a ride. I'll `pick you up` in front of the school.
+
+### Chapter 13 - Electronic conversation
+
+While `face-to-face` `conversation` are still considered to be the best ones, people everywhere are depending
+more and more on `electronic devices` for `communication`. Apart from the fixed telephone, which has been
+around since 1876 - `and is still going strong` - communication are now also `carried`
+through cell phones, email, and other electronic devices.
+
+- E-mail
+  E-mail (electronic email) `enables` `written conversations` that are either typed on a computer
+  or cell phone keyboard or entered on a touch screen on a cell phone or other electronic device.
+  These message are sent to desired recipient via the internet.
