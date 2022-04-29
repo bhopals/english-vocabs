@@ -59,3 +59,18 @@
       - `capitalize` on their investments
 
 - Managers often `dialogue` about important projects and hope the entire team `nets` the essentials.
+
+### 2. "She Went Missing"
+
+- SUCKING THE LIFE OUT OF A STRONG VERBS
+- The following are not errors; they just weaken your writing, so always avoid it
+
+  - Call and make a reservation (Call and `Reserve`)
+  - Run a test to see if... (`Test` to see if...)
+  - Carry out experiments to ... (`Experiment`)
+  - Perform an analysis of ... (`Analyze`)
+  - Provide for the elimination of ... (`Eliminate`)
+  - They experienced a reduction in .. (They `reduced`)
+
+- Strong VERBS deserve a life of their own. Why sap(erode, reduce, lower, lessen, wear away) their
+  strength by turning them into NOUNS.
