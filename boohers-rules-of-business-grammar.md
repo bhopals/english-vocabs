@@ -24,3 +24,38 @@
 - Remove obstacles to career advancement and make yourself more promotable
 - You can correct deficiencies in a matter of a few hours or days of diligent study.
 - The more elaborate a visualization
+
+## Verbosity About Verbs: The Big Blunders
+
+- When it comes to sport, you know what thye say: no guts, no glory.
+- We will try to tackle the troublesome verbs in the following chapters
+
+### 1. Let's Dialogue About Verbing Words
+
+- TURNING PERFECTLY FINE NOUNS INTO VERBS
+
+- `-ing`
+
+  - `trending`, `impacting`, `glabalizing`, `fast-tracking`, `complimenting`
+  - Examples
+    - Managers become particularly adept at `globalizing` new trends and `fast-tracking` their way around obstacles
+    - Manager often `incentivize` outstanding performers by `complimenting` them
+
+- `-ize`
+
+  - `incentivize`, `downsized`, `right-sized`, `strategize`, `prioritize`
+  - `operationalize`, `utilize`, `marginalize`, `institutionalize`, `mobilize`, `capitalize`
+  - Examples
+    - Manager often `incentivize` outstanding performers by `complimenting` them
+    - Whether `down-sized` or `right-sized`, teams can
+      - `strategize` organizational initiatives,
+      - `prioritize` divisional goals,
+      - `operationalize` tactical plans,
+      - `utilize` their best resources,
+      - `marginalize` any deficiencies in their system,
+      - `institutionalize` project outcomes,
+      - `optimize` their opportunities,
+      - `mobilize` human talent,
+      - `capitalize` on their investments
+
+- Managers often `dialogue` about important projects and hope the entire team `nets` the essentials.
