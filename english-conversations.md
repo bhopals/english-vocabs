@@ -1009,3 +1009,86 @@
 - `wish`
   - I `wish` you were here.
   - I `wish` I could go with you.
+
+### Chapter 12 - Retelling a conversation
+
+- `already`
+
+  - `already` means at some time in the past and can indicate that the action does not need to be repeated.
+    - I am not hungry. I have `already` eaten.
+    - You don't need to close the window. We have `already` closed it.
+  - `already` can be used in a question, indicating surprise that something has been done.
+    - Have you finished high school `already`? (I can't believe you are old enough).
+
+- `yet`
+
+  - `Yet` can be used in a question to find out something has been done.
+    - have you eaten `yet`?
+    - have you taken the test `yet`?
+
+- `not yet`
+
+  - `Not yet` is used to indicate that something has not been done - and that is should be done in the future.
+    - We are hungry. We have`n't` eaten `yet`.
+    - I am not finished traveling. I have `not` been to Africa `yet`.
+
+- `so far`
+
+  - `So far` means as of this date and time.
+    - She has come to class on time everyday, `so far`.
+    - How many continents have you been to? `So far`, I have been to North and South America
+
+- `ever`
+
+  - `Ever` means at anytime in the past or future. It is placed between the modal verb and the main verb.
+    - Have you `ever` been in California?
+    - I won't `ever` do that again.
+  - `Ever` can be used after `never` to emphasize its meaning.
+    - He was never, `ever`, there.
+
+- `how's it going?`
+  - `How's it going?` is an informal greeting. It is often answered with pretty well.
+    - Hey Ethan, `How's it going?` Pretty well, thanks. How are you?
+- `At the last minute`
+
+  - `At the last minute` indicates that something happened immediately before it was too late.
+    - The man packed up his tickets `at the last minute` - just before the show started.
+
+- `pressure`
+
+  - There is so much `pressure` at work
+
+- `learning the ropes`
+
+  - `To be learning the ropes` means to be getting acquainted with a new job or routine.
+    - There's a lot of pressure at first, but once you `learn the ropes`, you will be fine.
+    - I'm `learning the ropes` of management.
+
+- `at a loose end`
+
+  - `To be at a loose end` means to temporarily not have anything to do or not know what to do.
+    - Would you like me to paint your room? I am `at a bit of a loose end`.
+    - I am kind of `at a loose end`.
+
+- `end up`
+
+  - To` end up` means to find one's self doing something unplanned or in an unexpected situation.
+    - I fell asleep on the train and `ended up` in New Jersey.
+    - She worked here as a temporary secretary and `ended up` getting a full time job with the company.
+
+- `babysit`
+
+  - `To babysit` means to `take care of` OR `look after` someone else's children.
+    - She makes extra money `babysitting` on weekends.
+    - Will you `take care of the baby` for a couple of hours.
+    - I hope you can `look after` the kids while I go to the store.
+    - I went over to my sister's house to `babysit` for her kids.
+
+- `give someone a ride`
+
+  - `To give someone a ride` means to offer to take someone somewhere in your car or other vehicle.
+    - I see you missed the bus. If you like, I'll `give you a ride` home.
+
+- `pick up`
+  - To `pick up` meanst to go in a vehicle to where someone is waiting, for the purpose of giving him/her a ride.
+    - I'll be glad to give you a ride. I'll `pick you up` in front of the school.
