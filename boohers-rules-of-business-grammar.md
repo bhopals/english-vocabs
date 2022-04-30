@@ -302,3 +302,34 @@
 - MEMORY TIP
   - These expletive words are comforting but meaningless.
   - Find the real subject, and select the verb accordingly.
+
+### 13. "I WISH I MAY, I WISH I MIGHT" Tell Me Which Verb to Use Tonight?
+
+- THE MAY/MIGHT DILEMMA
+- MAY
+
+  - `may` means that things are possilbe, even likely.
+
+- MIGHT
+
+  - `might` means that there is less likelihood of something happening.
+
+- `may` implies `strong certainty about hypothetical events` and `might` expresses `a lesser degree of certainty`
+- Examples
+
+  - I may get to take an African safari. (Possible on my next trip to Africa)
+  - I might get to take an African safari. (Not very likely, but I'm wishing and I'm hoping)
+  - Percival may have to resign if he can't explain the errors. (Possible, even likely)
+  - Percival might have to resign if he can't explain the errors. (Unlikely, teasing him)
+
+- Now, let's add one more layer of complexity: `Might` is also the past tense of `may`.
+- In those situation, the degree of complexity is the the criterion for using might.
+  If the other verbs in the sentence are past tense, `may` becomes `might` (past tense)
+
+- Examples
+
+  - The report `stated` that the buyers `might` conduct plant tours unannounced.
+  - Percival `said` he `might` resign.
+
+- MEMORY TIP
+  - `MAY` implies that things are more likely than `MIGHT` does.
