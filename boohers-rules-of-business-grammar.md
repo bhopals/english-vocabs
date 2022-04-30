@@ -206,3 +206,65 @@
 
 - MEMORY TIP
   - When you hear phrases like "IF I WERE YOU, WHAT I WOULD DO IS...", you know that you are about to get ADVICE.
+
+### 11. Pushy People Demanding Their Way
+
+- THE SUBJUNCTIVE MOOD CONTINUED
+- Subjenctive-mood verbs also express strong wishes, demands, concessions, and resolutions.
+- The verbs follow in the minor clause after such words as
+
+  - `command`, `demand`, `insist`, `order`, `recommend`, `require`, `wish`, `suggest`.
+
+- INCORRECT
+
+  - I wish she `was` able to transfer to headquarters.
+  - Mortimer tiptoed through the trade show as though networking `was` a nasty business.
+
+- INCORRECT
+
+  - I wish she `were` able to transfer to headquarters.
+  - Mortimer tiptoed through the trade show as though networking `were` a nasty business.
+
+- Past Tense Subjenctive -
+
+  - to be - `were`
+
+- Present Tense Subjenctive
+
+  - dropping the `s` from the third-person singular
+  - to be - `be`
+  - Example
+    - They suggested that he `come` with them.
+    - It was essential (that) he listen to me.
+    - I prefer that he go alone.
+  - In English, the present subjunctive functions independently of time. It is formed by taking
+    the infinitive form of the verb and removing to.
+  - Examples
+
+    - Bruno asked that everyone `be` on time.
+    - She had suggested that they `be` polite.
+
+  - In essence these be construction sound similar to command forms (Imperative mood) of the verb.
+    - Be careful, Be quiet, Be specific, Be thorough
+  - If the switching to the word be sounds odd to you, consider the word should inserted (virtually) in front of it.
+    - Executive demanded that Fritz should `write` the reports. (Should write)
+    - Eldore insisted that Mortimer fire the team (should) `negotiate` the cruise fares (Should negotiate)
+    - I insist that Fritz (should) `be` promoted. (Should be promoted)
+
+- INCORRECT
+
+  - The client requirement is that all consultants `are` financially literate.
+  - He demands that the report `is` mailed rather than sent electronically.
+
+- CORRECT
+
+  - The client requirement is that all consultants `be` financially literate.
+  - He demands that the report `be` mailed rather than sent electronically.
+
+- NOTE: The subjunctive mood is found only in the minor (`subordinate clause`),
+  never in the main clause of the sentence
+
+- MEMORT TIP
+  - `Subjunctive` sounds like `subjective`. Let the subjunctive mood remind you of subjective emotions:
+    `demands`, `urges`, and `wishes`. Just as emotions frequently reverse peoples action, the subjunctive
+    mood reverse the normal verb.
