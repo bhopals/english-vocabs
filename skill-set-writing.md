@@ -40,7 +40,7 @@ Author - Lucia Engkent
   - meagre student budget
   - Driving on highways `presents` fewer distraction
   - The traffic is all travelling in the same direction
-  - occasional traffic jam
+  - `occasional traffic jam`
   - There is `no use crying over spill milk`.
   - The team did a `commendable` job on that project.
   - They all worked `dilgently` to assemble the required information.
@@ -49,4 +49,8 @@ Author - Lucia Engkent
   - The protocol to `reduce` global warming is going straight into the toilet.
   - It is time to `consider` ...
   - The deal to `cut` `greenhouse-gas emissions` has gone up in smoke
-  - The world will be devastated by global warming.
+  - The world will be `devastated` by global warming.
+  - As responsible nations we are committed to the `financial well-being` of our citizens.
+  - `Strict environmental protection` rules `stifle` `economic growth`.
+  - substantial campaign donations from the leaders of business community
+  - aforementioned business community has to pay the cost of `greater environmental controls`
