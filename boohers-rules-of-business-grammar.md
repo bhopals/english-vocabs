@@ -137,6 +137,42 @@
 
 - INCORRECT - We `seen` them go into the building.
 - CORRECT - We `saw` them go into the building. / We have `seen` them go into the building.
+
+### 8. Lie or Lay Before I Knock You Off Your Feet
+
+- THE LIE/LAY LIMBO
+- The most commong error with these two verbs pops up in sentences like these:
+
+  - INCORRECT
+    - Wilmo is going to `lay` down for a few minutes to rest.
+    - That paperwork has been `laying` on my desks for days.
+    - Her photo `laid` on my kitchen table for weeks before I could bear to put it away
+  - CORRECT
+    - Wilmo is going to `lie` down for a few minutes to rest.
+    - That paperwork has been `lying` on my desks for days.
+    - Her photo `lay` on my kitchen table for weeks before I could bear to put it away
+
+- In these instances, somebody or something is `reclining`. The verb meaning `to recline` is `to lie`.
+  (`To lie` also means `to tell a falsehood`, but nobody makes an error with that use)
+- To lay means to place something. Once you place something, it then lies or reclines.
+
+  - I `liad` the photo on my task yesterday; it has been `lying` there ever since.
+
+- present ==> past ==> present participle ==> past participle
+- lie ==> lied ==> lied ==> lied (To recline)
+- lie ==> lay ==> lying ==> lain (To tell a falsehood)
+- lay ==> laid ==> laid ==> laid (To place )
+
+### 9. He Came, He Saw, He Conquered
+
+- DON'T BE LAX ABOUT TENSE CHANGES
+- Verbs have tense to reflect the time: PRESENT, PAST, FUTURE
+- Don't chance Tenses carelessly without reason.
+- INCORRECT
+  - He e-mail included pricing; it also provides a volume-discount schedule
+- CORRECT
+
+  - He e-mail includees pricing; it also provides a volume-discount schedule
+
 - MEMORY TIP
-  - C`A`ME = P`A`ST
-  - C`O`ME = N`O`W
+- Time is money. Be careful with your tenses as with your tens.
