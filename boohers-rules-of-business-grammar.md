@@ -176,3 +176,33 @@
 
 - MEMORY TIP
 - Time is money. Be careful with your tenses as with your tens.
+
+### 10. If I Was You
+
+- WISHFUL THINKING AND THE SUBJUNCTIVE MOOD
+
+- Subjenctive-Mood sentences State Conditions That Are Contrary to Fact or Highly Unlikely
+  (They also express strong wishes, demands, or commands)
+
+- Examples
+
+  - If she `were` a billionaire, she `would` fund cancer research (She is not a billionaire)
+  - If I `were` a CEO of that company, I `would` hire 200 more sales people next month (I am not the CEO)
+
+- INCORRECT
+  - If I `was` you, I would resign.
+  - Pongo walked into the gym as if he `was` a Greek god.
+- CORRECT
+
+  - If I `were` you, I would resign.
+  - Pongo walked into the gym as if he `were` a Greek god.
+
+- In typical situations when the `if` part may actually be true, the verb following I or he/she remains `was`.
+- Examples
+
+  - If Fritz was told about the trouble in Atlanta, I guess he forgot it.(He may have been told)
+  - If the caller was a client, Sarah must have not recognixed the name.
+    (The caller may have been a client, but Sarah still didn't recognize the name)
+
+- MEMORY TIP
+  - When you hear phrases like "IF I WERE YOU, WHAT I WOULD DO IS...", you know that you are about to get ADVICE.
