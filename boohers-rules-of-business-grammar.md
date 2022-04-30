@@ -333,3 +333,32 @@
 
 - MEMORY TIP
   - `MAY` implies that things are more likely than `MIGHT` does.
+
+### 14. "Sue is one Who..."
+
+- THE ONE OF A KIND OR ONE OF A CATEGORY ARGUMENT
+
+- Select the wrong verb in these sentences and you have changed the meaning dramatically.
+  - Example (Vague meaning)
+    - Trixy is one of the managers who `falsifies` time sheets.
+    - Trixy is one of the managers who `falsify` time sheets.
+- The dilemma is deciding which verb goes with the subject `who`. `who` is an indefinite pronoun, meaning that
+  it can refer to either `Trixy` or `managers`. In such cases, flip the sentence around to reword it
+  but retain the original meaning. Then the verb choise will become clear:
+
+  - Example (Precise Meaning)
+    - Of the managers, Trixy is one `falsifies` time sheets.
+    - Of the managers `falsifying` time sheets, Trixy is one.
+
+- Example (Vague meaning)
+
+  - Wilmo lost one of his accounts that (`generate` or `generates`) hundreds of leads annually.
+
+- Example (Precise meaning)
+
+  - Of his accounts that `generate` hundreds of leads annually, Wilmo lost one.
+  - Of his accounts Wilmo lost one that `generates` hundreds of leads annually,.
+
+- MEMORY TIP
+  - To find the right verb, flip the sentence, keeping the meaning intact.
+  - The correct verb will rise to the occassion.
