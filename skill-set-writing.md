@@ -172,6 +172,7 @@ Author - Lucia Engkent
         - I `enjoyed running` the marathon. (actually happened)
 
   - Some AFFIXes that make VERBS
+
     - `be-` - bejewel, belittle, bewitch
     - `en-` - enable, endanger, enjoy, enlarge, envision
     - `-en` - blacken, lighten, soften, toughen
@@ -179,6 +180,68 @@ Author - Lucia Engkent
     - `im-, in-` - impassion, imperil, inflame
     - `-fy` - identity, notify, signify, solidify, unify, verify
     - `-ize` - idealize, maximize, realize, recognize, sympathize
+
+  - EXERCISE (Verb/Adj. ==> Noun)
+
+    - competent(adj.) - competence, enrich(v) - enrichment, real(adj) - reality, invite(v) - invitation
+    - deny(v) - denial, speak(v) - speech, wealthy(adj.) - wealth
+    - clear(adj.) - clarity, stable(adj.) - stability, contribute(v) - contribution
+
+  - EXERCISE (Noun/Adj. ==> Verb)
+    - description(n) - describe, evasive(adj.) - evade, inspirational(adj.) - inspire
+    - facilitator(n) - facilitate, white(adj.) - whiten, threat(n.) - threaten, signify(n) - sign
+    - defiant(adj.) - defy, pursuit(n) - pursue, expansion(n) - expand, authority(n.) - authorize
+
+- ADJECTIVES
+
+  - Essentially adjectives describe NOUNS.
+  - They usually appear before the noun in English, as in these examples:
+    - Examples
+      - `brown` dress, `tall` man, `close` escape, `unparralleled` beauty, `questionable` actions
+  - They also appear after the VERB `to be` and other verbs that describe the state of something
+    - Examples
+      - Working in the class room is `difficult`. The air feels `stuffy`. The noise is `annoying`.
+  - Several adjectives can be used together.
+    - Examples
+      - the `big brown` hen, the `typical French-Canadian` house.
+  - Sometimes NOUNS work as adjectives, as do verbs like active (`-ing` verbals),
+    or passive (`-ed` verbals) participles.
+    - Examples
+      - library book, welcoming committee, chosen participants.
+  - PHRASE can be used as a unit to describe a noun. They are usually hyphenated.
+    - Examples
+      - His `stick-in-the-mud` attitude annoys me.
+      - It's a `10-year-old car`, so it often requires repairs.
+      - I wouldn't touch him with a `10-feet-pole`.
+  - DETERMINERS
+
+    - It includes qualifiers and articles, are a subclass of adjectives that are considered as Function Words.
+      - `a`, `an`, `the`, `this`, `that`, `these`, `those`
+
+  - COMPARATIVE AND SUPERLATIVE FORMS
+
+  - Adjective SUFFIXes
+
+    - Examples
+      - `-able`, `-ible` (able to, suitable for) - acceptable, capable, flexible
+      - `-en` (made of) - woodean, golden
+      - `-ful` (full of) - awful, beautiful, grateful, powerful
+      - `-ic`, `-ical` (relating to) - classical, comic, musical, public
+      - `-ive` (tending to) - descriptive, pensive, sensitive
+      - `-less` (without) - careless, worthless
+      - `-ous`, `-ose` (quality, state) - grandiose, mountainous, poisonous, verbose
+      - `-y` (having, being like) - funny, sunny, hairy
+
+  - EXERCISE(Noun/Verb ==> Adjective)
+
+    - mist(n.) - misty , comedy(n) - comic, comedic, comical operate(v) - operational, operative
+    - force(n) - forceful, experiment(v) - experimental, accept(v) - acceptive, stress(n) - stressful,
+    - disaster(n) - disasterous, science(n) - scientific, publicity(n) - pulic
+
+  - EXERCISE (Adj + Noun Combination)
+    - secret ballot, extensive force, frantic haste,
+    - jagged hole, masked intruder, tempting offer
+    - tough opponent, heartfelt sympathy, limited visibility, extensive vocabulary
 
 - VOCABS
   - attentive readers
