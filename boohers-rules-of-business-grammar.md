@@ -268,3 +268,37 @@
   - `Subjunctive` sounds like `subjective`. Let the subjunctive mood remind you of subjective emotions:
     `demands`, `urges`, and `wishes`. Just as emotions frequently reverse peoples action, the subjunctive
     mood reverse the normal verb.
+
+### 12. There's Problems With That!
+
+- EXPLETIVE DELETED
+- Expletive
+  - an oath or swear word OR
+  - a word or phrase used to fill out a sentence or a line of verse without adding to the sense.(There, it, that...)
+- Basically, expletive constructions are phrases or sentences that begin
+  with `There are`, `There is`, `It is`, `There were`, `There was`, or `It was`.
+- These are also called `phantom subjects` - meaningless.
+- Example
+
+  - There were six people riding in our car. (INCORRECT/WEAK)
+  - Six people were riding in our car. (CORRECT/STRONG)
+  - It is a problem to suggest tax revolt. (INCORRECT/WEAK)
+  - To suggest tax revolt is a problem. (CORRECT/STRONG)
+
+- WEAK
+
+  - There are whirling gizmos that attracted attention from every buyer.
+  - There were some who negotiated fares better than 70 percent off retail price.
+  - It is a big dissappointment to lose the game.
+  - There are problems with retaining law firms over the internet.
+
+- STRONGER
+
+  - Whirling gizmos attracted attention from every buyer.
+  - Some negotiated fares better than 70 percent off retail price.
+  - Losing the game is big dissapointment.
+  - Retaining law firms over the internet is problemetic.
+
+- MEMORY TIP
+  - These expletive words are comforting but meaningless.
+  - Find the real subject, and select the verb accordingly.
