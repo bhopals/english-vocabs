@@ -403,3 +403,16 @@
 
 - MEMORY TIP
   - No matter where they fall, find the two ends of the shoelace (subject and verb) and tie them together.
+
+### 16. Which End is Up?
+
+- COMPLEMENTS OF THE VERB OR THE CHEF
+
+Examples (All sentences are CORRECT)
+
+- A good source of beta-carotene is carrots.
+- Carrots are a good source of beta-carotene.
+- Hunting and golfing apear to be his retirement goal.
+- His retirement goal apprears to be hunting and golfing.
+- Laptops are our hottest products for the season.
+- Our hottest products for the season is the laptop.
