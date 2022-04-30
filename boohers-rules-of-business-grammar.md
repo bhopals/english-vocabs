@@ -362,3 +362,44 @@
 - MEMORY TIP
   - To find the right verb, flip the sentence, keeping the meaning intact.
   - The correct verb will rise to the occassion.
+
+### 15. Separation Anxiery
+
+- SUBJECTS AND VERBS THAT GET SPLIT APART
+
+- Consider the sentence a long shoelace, with the subject on one end and the verb on the other.
+  No matter how many eyelets you snake that shoelace through across your foot, at some point those two
+  ends of the shoelace (the subject and the verb) must meet and tie together.
+
+- Sometimes writers and talkers begin with the subject and then get sidetracked, tossing in other
+  descriptive words and phrases before they finish their main point about the subject.
+
+- These extra words that separate the subject and the verb confuse things. People choose the
+  wrong verb form to match a word that's not the real subject.
+
+- INCORRECT
+
+  - `The secret` to hiring the best people as marketing and sales team members for small mom-and-pop
+    organizations `are` finding people who have once been in business for themselves.
+    (Members and organizations are not the SUBJECTS, they are OBJECTS of PREPOSTIONS)
+
+- CORRECT
+
+  - `The secret` to hiring the best people as marketing and sales team members for small mom-and-pop
+    organizations `is` finding people who have once been in business for themselves.
+
+- INCORRECT
+
+  - After our analysis of the results of the customer satisfaction survey `was` several suggestions
+    submitted by the boards of director.
+
+- CORRECT
+
+  - After our analysis of the results of the customer satisfaction survey `were` several suggestions
+    submitted by the boards of director.
+
+- You can catch this error quickly by cutting the flesh off the bone, leaving just the sentence skeleton;
+  SUBJECT and VERB. Make the subject and verb match. Either SINGULAR or PLURAL
+
+- MEMORY TIP
+  - No matter where they fall, find the two ends of the shoelace (subject and verb) and tie them together.
