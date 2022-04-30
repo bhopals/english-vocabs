@@ -416,3 +416,11 @@ Examples (All sentences are CORRECT)
 - His retirement goal apprears to be hunting and golfing.
 - Laptops are our hottest products for the season.
 - Our hottest products for the season is the laptop.
+
+### 17. Acting Alone or With Accomplices?
+
+- VERBS AFTER COLLECTIVE NOUNS
+
+### 18. None of your business
+
+- DEFINITELY INDEFINITE PRONOUNS
