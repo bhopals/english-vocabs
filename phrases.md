@@ -19,3 +19,5 @@
 - avid follower and reader
 - do the necessarry deligence
 - don't make sweeping juegement based on
+- try and please the worlds as a pale immitation of what they are
+- that's an era that we need to put behing us
