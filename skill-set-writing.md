@@ -685,3 +685,60 @@ Author - Lucia Engkent
   - I spent some time canoeing, sailboating, waterskiing
   - improve accessibility of campus facilities.
   - People think that school uniforms are hideous (ugly)
+
+### Chapter 4 - PARAGRAPH WRITING SKILLS
+
+- VOCABS
+  - By the very act of writing
+  - Students retain less if they only listen or read
+  - By writing the topis is better understood and more firmly fixed in the brain
+  - not-taking is a valuable practive
+  - Campus residence is a good choice of accomodation
+  - It can be economical
+  - Save on the cost of transportation and utilities
+  - Living on campus is convenient
+  - Do not waste time travelling to and from school
+  - Campus residence offer students the chance to socialize and learn to live with other students.
+  - Often develop long-tern friendship
+  - Undeniably inconvenient
+  - Living off-campus allows students a chance to escape from school
+  - escape the noice and partying
+  - face-to-face meeting
+  - fetail alcohol syndrome affects social development.
+  - Electronic books are less convenient than the paper format.
+  - Smoking should be prohibited in restaurants.
+  - Student should preview textbook chapters before class.
+  - Liking a subject fosters an interest that will motivate students to do some extra reading.
+  - good social grouping
+  - Teenagers are the most desirable market for movie producers.
+  - Going to a movie is their main social activity.
+  - Teenagers get out from uder their parents watchfull eyes and appreciate the full effects of a
+    large screen and superior sound quality.
+  - So many moives today aimed at teenagers' tastes.
+  - Cooking a meal from scratch is a worthwhile skill to acquire.
+  - Home-cooked meals are more nutritious
+  - People eat too much junk food.
+  - Prepared foods are available in grocery stores.
+  - Cooking is useful for enteraining and impressing guests.
+  - Document must be written for the intended audience.
+  - The amount of garbage everyone produces
+  - We should limit our use of resources
+  - Safeguard a water supply
+    - Properly dispose of hazardous products Put up signs
+    - Use and dispose of harmful materials properly.
+    - Volunteer in your community
+    - Join in a beach, stream or wetland cleanup.
+  - Converting to energy-saving appliances
+  - Shutting of unnecessary lights
+  - Can create a serious time-crunch
+  - The most important consideration is the Money.
+  - Part-time jobs give students a taste of the working world.
+  - With the taste, they can find out the jobs that suit their personality and talents.
+  - Whether they like dealing with the public
+  - gives them greater appreciation of the work itself.
+  - Students gain valuable skills
+  - Soft skills, communication strategies, working as a team
+  - Survival Swimming skills should be taught to all children
+  - Travelling abroad is a vital part of education
+  - Cooking a meal from scratch is a worthwhile skill to acquire.
+  - A paragraph should have a UNITY. Should explain one Idea
