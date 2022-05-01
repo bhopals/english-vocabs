@@ -451,8 +451,52 @@ Author - Lucia Engkent
     - Words that end in `-one`, `-thing`, `-body`(`everybody`, `anybody`) are SINGULAR.
 
   - ACTIVE and PASSIVE VOICE
+
     - In Active voice, the subject does the action of the verb.
     - In Passive Voice, the subject is acted upon.
+
+  - DETERMINERS
+
+    - Determiners are the words that come before the noun to identify which person, place or thing is talked about.
+    - Determiner include:
+      - ARTICLES - `a`, `an`, `the` (`A`, `AN` - INDEFINITE Article, `THE` - DEFINITE Article)
+      - DEMONSTRATIVES - `this`, `that`, `these`, `those`
+      - POSSESSIVE FORMS - `my`, `your`, `his`, `her`, `its`, `our`, `their`
+      - RELATIVE PRONOUNS - `which`, `whose`, `what`
+      - INDEFINITE DETERMINERS - `few`, `many`, `more`, `serveral`, `some`
+    - Remenber that INDEFINITE Articles (a, an) cannot be used with uncountable nouns.
+    - Quantifiers such as `many` and `few` are used with COUNTABLE NOUNS.
+    - UNCOUNTABLE NOUNS take `much`, `some`, and `little`
+
+    - `few` and `little` can be used with the INDEFINITE Article `a` but the meaning changes slightly.
+      - It changes from NEGATIVE to POSITIVE
+      - EXAMPLE
+        - I have `a little` time now to look at your essay.
+          - Means I can look at it now as I have some time. It is a POSITIVE Statement.
+        - I have `little` time now to look at your essay.
+          - Means I can't look at it now as I donot have time. It is a NEGATIVE Statement.
+        - `A few` students understood that complicated problem.
+          - Means more students than expected to understand the problem (POSITIVE SENSE)
+        - `Few` students understood that complicated problem.
+          - Means the problem will have to be presented again. (NEGATIVE SENSE)
+        - There is a littler water left; we probably have enough. (POSITIVE)
+        - There is little water left, so we should get more. (NEGATIVE)
+
+  - PREPOSTIONAL PHRASES
+    - Prepositional Phrases are a frequest add-in to the basic sentence structure.
+    - Most speccify time or place (`When` or `Where`).
+    - Some show the manner (`How` something was done).
+    - They are formed with a preposition followed by a NOUN PHRASE(a noun with articles and adjectives if required.)
+    - Examples (Prepostional Phrases)
+      - `dress up`
+      - `contend with`
+      - `rely on`
+    - PREPOSTIONS
+      - `about`, `above`, `across`, `after`, `against`, `along`, `among`, `around`, `at`
+      - `before`, `behind`, `below`, `beneath`, `beside`, `between`, `by`, `down`
+      - `during`, `except`, `for`, `from`, `in`, `inside`, `into`, `near`, `next to`, `of`, `off`
+      - `on`, `onto`, `out of`, `outside`, `over`, `past`, `through`, `to`, `under`, `until`
+      - `up`, `upon`, `with`, `within`, `without`
 
 - VOCABS
   - quite comfortable talking about the use of verb tenses and uncountable nouns.
