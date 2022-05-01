@@ -289,6 +289,102 @@ Author - Lucia Engkent
     - politics, politicize, political, politically,
     - softness, soften, soft, softly
 
+- RECOGNIZE COLLOCATION
+
+  - Words that goes together. Also refers to PROBABLE WORD COMBINATIONS.
+  - Collacation can include:
+
+    - ADJECTIVES that go with NOUNS (antique furniture)
+    - VERBS that go with NOUNS (offer advice)
+    - PREPOSTIONS or PARTICLES that complete VERBS (depends on)
+    - NOUN combinations (time management)
+
+  - Use online tool - `Corpus of Contemporary American English` (https://www.english-corpora.org/coca/)
+
+    - It can pull out sentences using a specified word, and its probable/possible combination
+
+  - Also, refer `Oxford Collocations Dictionary for Students of English`
+
+  - EXERCISE (WORDS COMBINATIONS)
+
+    - take a test, run a test
+    - make a request, grant a request
+    - conduct research, carry out research
+    - drop a hint, take a hint, give a hint
+    - lack experience, acquire experience
+    - run up a debt, settle a debt
+    - adopt a method, follow a method
+    - give a reason
+    - run a risk, take a risk
+    - gain support, provide support
+
+  - EXERCISE
+
+  - border patrol, calculated risk, daring attack, hazardous material, momentary hesitation,
+  - reasonable request, subtle reminder, torrential rain, urgent matter, weak tea
+
+- UNDERSTANDING CONNOTATION
+
+  - connotation - emotional impact it makes
+  - Example
+
+    - `murder` is much stronger than the word `kill`
+
+  - Words have a lot of power, so should be used carefully.
+
+- SYNONYMS and ANTONYMS
+
+  - Synonyms are the words that have similar meaning
+  - Antonyms are words that have opposite meaning
+
+- UNDERSTANDING IDIOMS
+
+  - An Idiom is an expression in which the FIGURATIVE meaning is different from the LITERAL meaning.
+  - FIGURATIVE means that the whole expression gives a picture(think of a FIGURE)
+  - The word LITERAL is related to the word LETTER, think of it as letter by letter or word by word
+  - Example
+    - The idiom `let the cat out of the bag` does not litterally refers to a cat and a dog.
+      It means `reveal a secret`.
+    - She was all set to bring up the problems from last year, but I told her that
+      it was best to `let sleeping dog lies`
+    - Of course she copied the essya. She was `caught red-handed`.
+    - it `goes in one ear and out of the other`
+    - `butterflies in my stomach`
+    - I am not going to tell him. I don't want to be the one `in hot water`.
+    - I didn't want to make the announcement yet, but as usual Mark `jumped the gun`.
+    - `black sheep of the family` - one who marginalized, treated differently, or excluded by the rest of the family
+
+- RECOGNIZING COLLOQUIALISMS and SLANG
+
+  - The word colloquialism is used to describe informal, conversational language.
+  - Example
+    - `kid` instead of `children`
+  - SLANGs go one step further than colloquialism.
+
+    - it is type of language common in casual speech.
+
+  - EXERCISE(Casual ==> Formal)
+    - `freaked out` ==> `became angry`
+    - When his boss reassigned the project, Jamal `freaked out`.
+    - `nixed` ==> `rejected`
+      - When we wanted to add a casino night to the fundraising plans, he `nixed` the idea.
+    - `a basket case` ==> `unable to cope`
+      - He is so worried about the project and he's `a basket case`.
+    - `goofing off` ==> `doing nothing`
+      - The spent the whole day `goofing off` and fell behind the schedule.
+    - `mooching` ==> `stealing`
+    - She always `mooching` fries form everyone at lunch but will never buy her own.
+    - `all doom and gloom` ==> `pessimistic`
+      - He was `all doom and gloom` about the agency's changes of winning the contract.
+    - `tossed his cookies` ==> `vomited`
+      - Coming off the roller coaster, he stumbled, turned green, and `tossed his cookies`.
+    - `did squat` ==> `did nothing`
+      - He `did squat` on this project, so he does not deserve credit
+
+- USING DICTIONARIES
+
+  - Oxform Advanced Learners
+
 - VOCABS
   - attentive readers
   - an intensive and extensive knowledge of grammatical English
