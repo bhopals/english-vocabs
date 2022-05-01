@@ -1,0 +1,21 @@
+### 03 April (Jaishankar answering questions on Kashmir and Pakistan)
+
+- to say a lot (about something) He waxed eloquent on/about the pleasures of gardening.
+- Pakistan is a country which is waxing eloquent about other nations about treatment of minorities
+- It is pretty pervasive on that matter
+- The real solution is the dimantlement of the industry that they have created.
+- conduct terrorism
+- by and large
+- It has to come to an end
+- a narrow set of people for their own gain
+- impending developments
+- feeding a sense of separatism
+- carry out cross border terrorism
+- cross-border terrorism
+- growing understanding
+- climate of relation
+- people are entitled to have views
+- terribly complicated
+- avid follower and reader
+- do the necessarry deligence
+- don't make sweeping juegement based on
