@@ -640,6 +640,39 @@ Author - Lucia Engkent
       - `Although` he had done his training, he could not complete the marathon.
       - `Even though` he had done his training, he could not complete the marathon.
 
+- USING PARTICIPLES and GERUNDS
+
+  - Participles act as an ADJECTIVES
+    - The woman `watching the dancers` is a talent scout. [Participle as Adjective]
+  - Gerunds act as a NOUN
+
+    - `Watching the dancers` is a good way to learn choreography.[Gerunds as Subject(NOUN)]
+
+  - When use GERUND Phrase as SUBJECT, dont add PREPOSTIONS
+    - `By` working all night is a bad way to write an essay.[INCORRECT]
+    - Working all night is a bad way to write an essay.[CORRECT]
+    - By working all night, she finished the essay.[CORRECT]
+
+- COMBINING SENTENCES
+
+  - When you use CO-ORDINATING Conjunction, you create a COMPOUND SUBJECT.
+  - When you use other Clauses, you create a complex sentence.
+  - Compound Sentence (Two or more INDEPENDENT CLAUSES)
+  - Complex (One independent + Dependent/Subordinate Clauses)
+
+- SENTENCE FRAGMENT
+
+  - Sentence Fragment is an INCOMPLETE Sentence (Missing Either SUBJECT or VERB)
+  - To FIX Sentence Fragment, you need to findout what is missing (Subject or Verb), and supply/add that.
+
+- RUN-ON SENTENCE
+
+  - Too Much sentences
+  - Essentially, THREE ways to fix RUN-ON Sentnces
+    - 1. Make two Sentence
+    - 2. Use a Semicolon
+    - 3. Add a Conjunction
+
 - VOCABS
   - quite comfortable talking about the use of verb tenses and uncountable nouns.
   - Questions about grammar are not simple, black-and-white questions.
