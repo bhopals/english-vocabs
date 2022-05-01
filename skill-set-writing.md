@@ -243,6 +243,52 @@ Author - Lucia Engkent
     - jagged hole, masked intruder, tempting offer
     - tough opponent, heartfelt sympathy, limited visibility, extensive vocabulary
 
+- ADVERBS
+
+  - Adverbs explain HOW, WHEN, or WHERE something is done.
+  - Examples
+
+    - He closed the door `quickly`.
+    - `Yesterday` we met in the boardroom.
+    - We like to eat lunch `nearby`.
+
+  - Some Adverbs are formed from adjectives, with the addition of the suffix `-ly`
+    - Examples
+      - `carefully`, `quickly`, `realistically`, `slowly`
+  - Adjectives that end in `-ly` (such as `friendly`, `lonely`, `miserly`) do not have an adverb form.
+
+    - The dog was `friendly`(adj.). The dog wagged his tail in `friendly`(adj.) way.
+
+  - ADVERBS that are not formed from an adjective are mostly function words and include many different kinds
+    of ADVERBS.
+
+    - TIME - `now`, `then`, `yesterday`, `never`.
+    - PLACE - `there`, `here`, `nearby`
+
+  - Some ADVERBS are intensifiers:
+
+    - `very`, `quite`, `highly`, `rarely`
+
+  - EXERCISE (Adj./Verb/Noun ==> Adverb)
+
+    - careful(adj.) - carefully, simple(adj.) - simply,
+    - real(adj.) - really, true(adj.) - truly, signify(v) - significantly
+    - uneasy(adj.) - uneasily, brutality(n) - brutally, haze(n) - hazily, absurd(adj) - absurdly
+    - frequent(adj.) - frequently, evidence(n) - evidently
+
+  - EXERCISE (NOUN || VERB || ADJECTIVE || ADVERB)
+
+    - agreement, agree, agreeable, agreebly
+    - anger, anger, angry, angrily
+    - beauty, beautify, beautiful, beautifully
+    - development, develop, developmental, developmentally
+    - excess, exceed, excessive, excessively
+    - height, heighten, high, highly
+    - legality/legalization, legalize, legal, legally
+    - management, manage, manageable, manageably
+    - politics, politicize, political, politically,
+    - softness, soften, soft, softly
+
 - VOCABS
   - attentive readers
   - an intensive and extensive knowledge of grammatical English
