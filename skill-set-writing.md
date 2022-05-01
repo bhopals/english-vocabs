@@ -483,6 +483,7 @@ Author - Lucia Engkent
         - There is little water left, so we should get more. (NEGATIVE)
 
   - PREPOSTIONAL PHRASES
+
     - Prepositional Phrases are a frequest add-in to the basic sentence structure.
     - Most speccify time or place (`When` or `Where`).
     - Some show the manner (`How` something was done).
@@ -492,11 +493,152 @@ Author - Lucia Engkent
       - `contend with`
       - `rely on`
     - PREPOSTIONS
+
       - `about`, `above`, `across`, `after`, `against`, `along`, `among`, `around`, `at`
       - `before`, `behind`, `below`, `beneath`, `beside`, `between`, `by`, `down`
       - `during`, `except`, `for`, `from`, `in`, `inside`, `into`, `near`, `next to`, `of`, `off`
       - `on`, `onto`, `out of`, `outside`, `over`, `past`, `through`, `to`, `under`, `until`
       - `up`, `upon`, `with`, `within`, `without`
+
+  - COORDINATE CONJUNCTIONS
+
+  - FANBOYS (`for`, `and`, `nor`, `because`, `or`, `yet`, `so`)
+
+  - PARALLEL STRUCTURE
+
+    - When using co-ordinate conjucntion, you MUST ENSURE that each sentence part
+      that you join has essentially the same grammatically structure.
+      and that is caller PARALLEL STRUCTURE.
+
+  - WRITING NOUN CLAUSE
+
+    - Clauses that are part of complex sentences and have both a NOUN and a VERB.
+    - NOUN CLAUSE functions as a NOUN. It can act as the `SUBJECT`, `OBJECT`, and the `SUBJECT COMPLEMENT`.
+    - EXAMPLES
+
+      - `His behaviour` was inexcusable. [noun subject]
+      - `What he did` was inexcusable. [noun clauses subject]
+
+      - I understood `his apology`. [noun object]
+      - I understood `that he was sorry`. [noun clause object]
+
+    - WORDS that may Begin NOUN CLAUSES:
+
+      - `that`, `if`, `whether`, `when`, `where`, `what`, `why`, `how`, `who`, `whom`, `which`, `whose`
+
+    - EXAMPLES (Noun Clauses as a SUBJECT or OBJECT)
+
+      - She asked `whether I could come`.
+      - They wondered `if it would rain`.
+      - The school accepts `whoever wants to attend`.
+      - I do not understand `how they fixed it`.
+      - `Who will win the race` is a mystery.
+
+    - Many noun clauses that begin with `that` (never `which`), but if the clause comes after the VERB,
+      the `that` can be eliminated (OPTIONAL), if the sentence is clear without it.
+
+      - Example
+        - She realized [`that`] he was late.
+
+    - BE CAREFUL with the word order in noun clause that deal with QUESTION.
+      The question structure (using the verb `do` and INVERTED word order) is NOT USED.
+
+      - EXAMPLES
+
+        - They asked what time `did` she finished. [INCORRECT]
+        - They asked what time she finished [CORRECT]
+
+        - They wanted to know did she have time for another project. [INCORRECT]
+        - They wanted to know if she had time for another proeject. [CORRECT]
+
+  - NOUN CLAUSE as the SUBJECT:
+
+    - `What my friend did` was unbelievable.
+    - `What Carol said` shocked all of us.
+
+  - NOUN CLAUSE as the OBJECT:
+
+    - DO you know `how much this will cost?`
+    - I didn’t know `that he could sing so well`.
+
+  - NOUN CLAUSE as the OBJECT of a PREPOSITION:
+
+    - We are not responsible for `what they did`.
+    - You can give this to `whoever you like`.
+
+  - NOUN CLAUSE as the SUBJECT COMPLEMENT:
+    - `Whichever option you choose` is fine with us.
+    - Your problem is `that you don’t have faith in God`.
+
+- WRITING ADJECTIVE CLAUSE
+
+  - Adjective clause functions as an ADJECTIVES and modifies the noun.
+  - A Clause is, in effect, another sentence added into a sentence, since it has both a SUBJECT and a VERB.
+  - Adjective Claues also called RELATIVE CLAUSES, describes a NOUN
+    and are introduced by RELATIVE PRONOUNS - (`who`, `what`, `whose`, `which`, `why`, `that`, `when`, `where`)
+  - EXAMPLES
+
+    - The woman `who led that protest march` is Jamie's cousin.
+    - The reason `that I am so tired` is that I stayed up all night finishing the essay.
+    - The cottage road, `which is not paved`, is impassible in the winter.
+    - The DVD `that he ordered` is not available anymore.
+    - The tourist `whose luggage was stolen` spent hours filling out a report.
+
+  - Adding clauses to a sentence is a good way to give extra information to a sentence
+    without changing its main idea.
+
+  - Same as NOUN CLAUSE, the `that` sometimes eliminated if the meaning is clear.
+  - EXAMPLE
+
+    - The reason `[that] I am so tired` is that I stayed up all night finishing the essay.
+    - The DVD `[that] he ordered` is not available anymore.
+
+  - NON-RESTRICTIVE or NON-DEFINING ADJECTIVE CLAUSE
+
+    - The Class 2B students, who failed the test, have to attend a tutorial.
+      (non-restrictive clause showing that all the studentes in Class 2B failed)
+    - The relative pronoun `which` is used in NON-RESTRICTIVE CLAUSE
+
+  - RESTRICTIVE or DEFINING ADJECTIVE CLAUSE
+    - The Class 2B students who failed the test have to attend a tutorial.
+      (restrictive clause - only some of the students in Class 2B failed)
+    - The relative pronoun `that` is used in RESTRICTIVE CLAUSE
+
+- WRITING ADVERB CALUSES
+
+  - This means that the clause describes or modifies a verb, adjective, or another adverb.
+  - Unlike other types of clauses, an adverbial clause is always a dependent clause.
+    This means that it cannot stand on its own as an independent sentence.
+  - ADVERB Clauses, often called SUBORDINATE CLAUSES, modify whole sentence like ADVERBS
+  - It tells `when`, `where`, `why`, or `how` something was done.
+  - They are introduced by SUBORDINATE CONJUNCTIONS.
+  - EXAMPLES
+    - `Althouh` he studied hard for the test, he didn't get a passing grade.
+    - `Even though` he studied hard for the test, he didn't get a passing grade.
+    - Marie was later for interview `becuase` the car was broke down.
+  - The ADVERB CLAUSE that begins with the Conjunction is also called a SUBORDINATE or DEPENDENT Clause.
+  - Here are the main SUBORDINATE CONJUNCTIONS
+
+    - `after`, `although`, `as`, `because`, `before`, `even though`, `if`, `since`
+    - `unless`, `until`, `when`, `where`, `whereas`, `whether`, `while`
+
+  - TYPES of ADVERBIAL CLAUSES
+
+    - Refer - https://www.grammarly.com/blog/adverbial-clause/
+    - Adverbial clauses of manner
+    - Adverbial clauses of place
+    - Adverbial clauses of condition
+    - Adverbial clauses of reason
+    - Adverbial clauses of time
+    - Adverbial clauses of purpose
+    - Adverbial clauses of comparison
+    - Adverbial clause of concession
+
+  - Note the difference between `ALTHOUGH` or `EVEN THOUGH`
+    - Both have the same meaning, but `even though` is STRONGER.
+    - Examples
+      - `Although` he had done his training, he could not complete the marathon.
+      - `Even though` he had done his training, he could not complete the marathon.
 
 - VOCABS
   - quite comfortable talking about the use of verb tenses and uncountable nouns.
@@ -507,3 +649,6 @@ Author - Lucia Engkent
   - Underachieving young men
   - children should learn financial responsibility
   - show appreciation
+  - I spent some time canoeing, sailboating, waterskiing
+  - improve accessibility of campus facilities.
+  - People think that school uniforms are hideous (ugly)
