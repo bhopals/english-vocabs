@@ -21,3 +21,8 @@
 - don't make sweeping juegement based on
 - try and please the worlds as a pale immitation of what they are
 - that's an era that we need to put behing us
+- `savor the moment` (You can refer to a very short period of time, for example a few seconds , as a moment )
+  I want to savour the moment because it's a big victory.
+  We'd waited ten years to savour this moment.
+
+- black-and-white questions

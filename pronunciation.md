@@ -84,3 +84,52 @@
      - `gy` - `Alle`-rgy
      - `al` - `Nau`-tic-al
      - `ty` - `Cla`-ri-ty
+
+- CHUNKING
+
+  - There is another trick called "CHUNKING" while speaking/reading. It help us take a
+    necessary pauses and sound more rythmatically while speaking.
+
+  - WORD CHUNKS are a sequence of words that come naturally together to express an idea.
+  - BENEFIT of CHUNKING
+
+    - 1. The problem of having to think about each individual word.
+    - 2. Chunk and Phrases group words that go together which can make you sound more fluent.
+    - 3. Because these phrases also have a rythm of their own, they introduce great intonation
+         and interst to your conversation.
+
+  - HOW CHUNKING CAN BE DONE
+
+    - 1. We understand `PHRASE` by `PHRASE`, so `KEEP PHRASES SHORT`
+
+      - It is how long a person has to wait for a phrase to complete not how long a sentence is.
+
+    - 2. Chunk by NOUN PHRASES and VERB PHRASES
+
+      - A NOUN Phrase is the noun as the object of the sentence.
+      - In VERB Phrase the Verb is the focus.
+
+    - 3. When Speaking, Complete PHRASES as Quickly as Possible.
+
+    - 4. When Experienced readers read a text they are able to recognize groups of words
+         such as NOUN Phrases or VERB Phrases that go together to create meaning.
+
+    - 5. Use FIXED and SEMI-FIXED Phrases!
+
+      - They are an IMPORTANT tool for students if they are going to speak fluenty.
+
+    - 6. Common Collocations are EXTREMELY IMPORTANT
+
+      - These are collections of words that are normally seen together because that's the way they are used.
+      - Examples
+        - `heavy rain`, `light rain`, `weak coffee`, `the rich and famous`
+        - NOTE: Don't say `strong rain`, `weak rain` - it should be `heavy rain`, `light rain`
+
+    - 7.  Phrasal Verbs are also part of Fluent Speaker's armoury
+
+      - Example
+      - `to put down`, `to give up`
+
+    - 8. IDIOMS
+
+    - THAT IS WHAT CHUNKING IS MY FRIEND!

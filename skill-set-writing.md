@@ -389,3 +389,77 @@ Author - Lucia Engkent
   - attentive readers
   - an intensive and extensive knowledge of grammatical English
   - waiting around is more difficult than doing something
+
+### Chapter 3 - SENTENCE WRITING SKILLS
+
+- Words are combined to make SENTENCES, and SENTENCES are combined to make PARAGRAPH.
+- PARAGRAPHS form parts of essays, reports, letters or any other forms of writing.
+
+- UNDERSTANDING BASIC SENTENCE STRUCTURES
+
+  - EXAMPLE Sentence Patterns
+
+    - John fled [subject + intransitive verb]
+    - The opened the package [subject + transitive verb + direct object]
+    - Ahmed gave her a ring [subject + verb + indirect object + direct object]
+    - Yuki is an architect [subject + linking verb + predicate noun or adjective]
+    - She painted the room blue [subject + verb + direct object + objective complemented]
+    - The house is over there [subject + verb + adverbial phrase]
+
+  - The SUBJECT is a NOUN, NOUN PHRASE, or NOUN CLAUSE
+
+    - EXAMPLES
+      - The `house` on the cornet is slated for demolition.[single word subject]
+      - `Walking to the school` is one of the ways I get my exercise [Noun phrase as subject]
+      - `That he ruined the day for his family` did not seem to enter his mind.[noun clause as subject]
+      - `Jack, Amir, and Tim` enjoyed the pumpkin pie.[compound subject]
+
+  - VERBS can be more than one word - auxiliary verbs along with the main verb.
+
+    - In a sentence a PREDICATE can include more than one verb.
+    - EXAMPLES
+      - He `should have bee`n more careful.
+      - He `could have been` electrocuted.
+      - The children `ran`, `skipped`, and `hopped` across the field.
+
+  - AUXILIARY VERBS
+
+    - Helping verbs and they may be followed by another verb.
+    - The auxiliaries `be`, `have`, and `will` are used to make several of the tenses.
+    - Other auxiliaries include `do` and the modal verbs (`may`, `might`, `can`, `could`, `should`, `would`)
+    - The verbs `be`, `have`, `do`, and `will` can also be used as simple verbs without another verbs.
+    - However, the Modal Verbs can never be used alone.
+
+  - TRANSITIVE and INTRANSITIVE VERBS
+
+    - A Transitive Verb requires a Direct Object(DO) to complete it.
+    - Examples
+      - I `saw`(V) `five whales`(DO).
+      - He `denied`(V) `the accussation`(DO).
+      - I `have`(V) `change for a twenty`(DO).
+    - Many verbs can be used both TRANSITIVELY or INTRANSITIVELY
+
+    - A mistake that many people make is using verbs that are not normally found in passive voice, such
+      as INTRASITIVE VERBS or the verbs that express STATE. Both cannot be used in passive voice as they
+      do not have any direct object. THEREFORE, only TRANSITIVE verbs can be used in passive voice because
+      the direct object becomes the subject in the passive.
+
+  - SINGULAR and PLURAL
+
+    - The determiners such as `a`, `an`, `another`, `each`, `every`, `this`, and `that` are SINGULAR.
+    - The determiners `these` and `those` are PLURAL.
+    - Words that end in `-one`, `-thing`, `-body`(`everybody`, `anybody`) are SINGULAR.
+
+  - ACTIVE and PASSIVE VOICE
+    - In Active voice, the subject does the action of the verb.
+    - In Passive Voice, the subject is acted upon.
+
+- VOCABS
+  - quite comfortable talking about the use of verb tenses and uncountable nouns.
+  - Questions about grammar are not simple, black-and-white questions.
+  - black-and-white questions
+  - Grammar, like other aspescts of language, evolves and changes over time.
+  - What is considered ACCEPTABLE in casual speech may be considered INCORRECT in standard academic writing.
+  - Underachieving young men
+  - children should learn financial responsibility
+  - show appreciation
