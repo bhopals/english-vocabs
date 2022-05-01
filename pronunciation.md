@@ -68,13 +68,13 @@
 
    - THE `SUFFIX Itself` will be `STRESSED`.
    - SUFFIX LIST
-     - `ade` - Lemonade
-     - `ee` - Agree
-     - `eer` - Puppeteer
-     - `ese` - Japanese
-     - `ette` - Cassette
-     - `que` - Physique
-     - `oon` - Cartoon
+     - `ade` - Le-mo-n-`ade`
+     - `ee` - Agr-`ee`
+     - `eer` - Pup-pet-`eer`
+     - `ese` - Ja-pa-n-`ese`
+     - `ette` - Ca-ss-`ette`
+     - `que` - Phy-si-`que`
+     - `oon` - Ca-rt-`oon`
 
 5. If your any word ends with below SUFFIXes
    - The `STRESS` SHOULD be on `THIRD LAST Syllabe` (3rd from the end).
