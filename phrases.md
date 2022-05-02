@@ -1,4 +1,4 @@
-### 03 April (Jaishankar answering questions on Kashmir and Pakistan)
+### 01 May (Jaishankar answering questions on Kashmir and Pakistan)
 
 - to say a lot (about something) He waxed eloquent on/about the pleasures of gardening.
 - Pakistan is a country which is waxing eloquent about other nations about treatment of minorities
@@ -26,3 +26,27 @@
   We'd waited ten years to savour this moment.
 
 - black-and-white questions
+
+### 03 May - Ottawa Radio News
+
+- Russia accused of attrocities in Bucha
+- I stand to lose all of my money
+- How should I recoup my lost money
+- Rolling thundebolt protester started up builing temporary corridors in the city
+- The vehicle will be confiscated at the cost of the owner
+- A (whole) Host of problems city would face because of traffic jam
+- they will be ticketed and fined for blocking the roads
+- low oxygen in the water
+- warmer weather conditions
+- devastating effects of global warming
+- Quite a few incidents been reported of burgulary, theft, breaking-in
+- restraint and measured response towards the protesters
+- comendable job by paramedics and police offices
+- Paralyzed the whole city
+- Small businesses have suffered huge loss because of the protest
+- Closure of small medium businesses would certainly have an adverse affect on countries economical growth
+- horrific accident/incident
+- Life-threating conditions
+- exhibit love and kindness
+- create chaos and bring the whole city to stand still
+- whole host of issues with this software
