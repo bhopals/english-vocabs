@@ -688,11 +688,77 @@ Author - Lucia Engkent
 
 ### Chapter 4 - PARAGRAPH WRITING SKILLS
 
+- ACHIEVING UNITY
+
+- USING TRANSITION SIGNALS
+
+  - EXAMPLES
+
+    - Addition - `also`, `finally`, `first`, `furthermore`, `in addition`, `moreover`, `next`, `second`
+    - Cause and Effect - `accordingly`, `as a result`, `consequently`, `therefore`, `thus`
+    - Comparison - `likewise`, `similarly`
+    - Contrast - `however`, `in contrast`, `instead`, `nevertheless`, `on the contrary`,
+      `on the other hand`, `otherwise`
+    - Emphasis or clarity - `in fact`, `indeed`, `in other words`, `of course`, `that is`
+    - Special features or examples - `for example`, `for instance`, `in particular`, `mainly`, `specifically`
+    - Summary - `in brief`, `in closing`, `in conclusion`, `in short`, `on the whole`, `to conclude`, `to summarize`
+    - Time relations - `afterwards`, `at that time`, `earlier`, `in the meantime`, `lately`, `later`,
+      `meanwhile`, `now`, `then`
+
+  - Most of these expressions function as ADVERBS and are sometimes called CONJUNCTIVE ADVERBS
+
+    - ADVERBS - a word or phrase that modifies or qualifies an `adjective`, `verb`, or other
+      `adverb` or a word group, expressing a relation of `place`, `time`, `circumstance`, `manner`, `cause`,
+      `degree`, etc. (e.g., `gently`, `quite`, `then`, `there`).
+
+    - CONJUNCTIVE ADVERBS - A conjunctive adverb is an adverb that functions as a conjunction – and a
+      conjunction that functions as an adverb! It connects two independent clauses together
+
+    - EXAMPLES
+
+      - I went through the paper of files to scan the older documents into the system. `At the same time`,
+        I weeded out the out-of-date papers and checked the accuracy of the information in the system.
+
+      - Essay writing helps students develop their thinking skills. `For instance`, they have to understand
+        the relationship between a general idean and a specific example.
+
+      - Smokers should have the right to decide whether they poison their own bodies or not. `However`, they
+        cannot make that choice for the others whom they affect with `second-hand smoke`.
+
+      - Computer games can give children an opportunity to exercise their problem-solving skills. `For example`,
+        in a strategy game, children have to work through difference scenarions to make the most
+        advantageous move.
+
+      - Many drivers exhibit unnecessary aggressive behavior on the highway. Some tailgate trying to make other
+        drivers speed up or move out of the way. `In addition instance`, some drivers weave in and out of lanes
+        looking for any space to advance.
+
+      - We worked together to paint the room effeciently: Jack used the roller to cover the large surfaces.
+        `At the same time`, I used brush to cut in around the trim and the corners.
+
+      - I missed the class when our instructor taught us how to do a summary. `Consequently`, I did not do well on
+        on the summary test.
+
+      - The Canadian team was considered a favorite for the championship. `However`, the odds changed when a
+        few of the top players were injured.
+
+      - The United States is the most powerful country in the world. `Therefore`, it is understandable
+        that many underdog(weaker) countries feel resentment towards Americans
+
+      - Reading children books is a good reading practice because the stories have simpler ideas, structures,
+        and vocabulary. `In addition`, children's books teach about the culture.
+
+      - First, he wen to the bank to withdraw some cash. `Then` he went to bargain with the person selling
+        the bike.
+
+      - Modern technologies is supposed to improve communication between people. `Nevertheless`, people tend to email
+        strangers across the world rather than actually talk to their next-door neighbour.
+
 - VOCABS
   - By the very act of writing
   - Students retain less if they only listen or read
-  - By writing the topis is better understood and more firmly fixed in the brain
-  - not-taking is a valuable practive
+  - By writing the topic is better understood and more firmly fixed in the brain
+  - note-taking is a valuable practice
   - Campus residence is a good choice of accomodation
   - It can be economical
   - Save on the cost of transportation and utilities
@@ -724,7 +790,8 @@ Author - Lucia Engkent
   - The amount of garbage everyone produces
   - We should limit our use of resources
   - Safeguard a water supply
-    - Properly dispose of hazardous products Put up signs
+    - Properly dispose of hazardous products.
+    - Put up signs
     - Use and dispose of harmful materials properly.
     - Volunteer in your community
     - Join in a beach, stream or wetland cleanup.
@@ -742,3 +809,24 @@ Author - Lucia Engkent
   - Travelling abroad is a vital part of education
   - Cooking a meal from scratch is a worthwhile skill to acquire.
   - A paragraph should have a UNITY. Should explain one Idea
+  - `Expose` Children to both language and ideas
+  - `make` them understand the facts
+  - `allow` them to build their reading skills
+  - Modern novels `follow` a complex plot with variety of characters
+  - It can be `described` as ...
+  - The `economics of professional sport` is `determental` to the fan base
+  - Games often `start` later in the evening so that they can be broadcasted in the
+    `more Lucrative prime-time spots` even though that is often too late for young viewers.
+  - Violence should be `better controlled` in the gamse so that it does not set a bad examole for children.
+  - The pace of baseball is too slow for fans `accustomed` to fast action
+  - Games are paused so the broadcasters can insert `commercial breaks`.
+  - Professional athletes often sign `multi-million-dollar endorsement contracts`.
+  - Fans of `small-market teams` are often in danger of lossing their team to bigger cities.
+  - Only billionaires can afford to buy sports franchises
+  - Amateur (am·a·teur, /ˈamədər,ˈaməˌtər,ˈaməCHər/) atheletes are struggling to survive on very little money
+  - Writers need to help readers `follow` `the development of ideas`
+  - Weeded out the out-of-the-date perpers and checked accuracy of the information in the system.
+  - Computer games can give children an opportunity to `exercise` their `problem-solving skills`.
+  - Many drivers `exhibit` `unnecessary aggressive behavior` on the highway.
+  - Some drivers `weave` `in and out of lanes` looking for any space to `advance`.
+  - Some `tailgate` trying to `make other drivers speed up` or `move out` of the way
