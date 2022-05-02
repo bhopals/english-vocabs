@@ -754,6 +754,110 @@ Author - Lucia Engkent
       - Modern technologies is supposed to improve communication between people. `Nevertheless`, people tend to email
         strangers across the world rather than actually talk to their next-door neighbour.
 
+- ACHIEVING COHERENCE
+
+  - The sentence in a paragraph must fit together in a logical, coherent manner.
+  - The word `cohere` means stick together.
+  - Coherence is achieve:
+
+    - by the order of the sentences,
+    - by the use of transition signals to show the reader how the ideas connect,
+    - by the use of pronouns to refer back to nouns in a previous sentence, and by the
+      repetition of words and ideas.
+
+  - Readers can follow a paragraph better when the ideas are in an order they are familiar with.
+
+  - Another way to achieve COHERENCE is through the use of transition signals,
+    like `for example` and `in addition`
+
+  - PRONOUNS refer to a specific NOUN and help to link sentences:
+
+    - Andrew had to get his project approved. It [`refers to the project`] was an orientation
+      film in which he [`Andrew`] needed to interview first-year students. The [`the students`] would
+      discuss the problem they fad faced.
+
+  - DEMONSTRATIVE PRONOUN (such as `this` and `these`) also help to link sentences.
+
+    - Fairy tales, folk tales, and myths are important parts of children's books. `These stories` teach
+      a cultural heritage that is built upon in other kinds of literature.
+
+  - REMEMBER that in English, an INDEFINITE article in usually used the first time something is mentioned,
+    and then a DEFINITE article is used. This grammatical structure also helps readers follow the ideas:
+
+    - We wrote a `report` at the end of our project. `The report` summarized our problems and how we
+      overcame them.
+
+  - REPEATING keywords or using `SYNONYMS` to refer to them, is another way to ensure coherence in a paragraph.
+    - `Cars` => `luxury cars`, `vehicles`
+
+- PARAGRAPH 1 - STUDENTS
+
+  - Students who `enrol` in college should choose a career path based on their own interests and talent.
+    rather than on `job's earning potential`
+  - It is wrong to `waste` `precious hours of life` doing something they do not want to enjoy.
+  - People forced to re-invent themselves in other fields.
+  - Thus school graduates should follow their passings when they choose a career.
+
+- PARAGRAPH 2 - SHOPPING
+
+  - More than a necessary chore, shopping is a good way to spend leisure time.
+  - Savvy consumers
+  - Allows shoppers to comparison-shop
+  - Many view shopping as a pleasant pastime.
+  - Shopping is the curse of the modern consumer world, not a leisure activity.
+  - Shoppers have to choose how to spend their `hard-earned dollars` on a `bewildering array of items`.
+  - The benefits are `negligible`
+  - Take a brisk walk in the fresh air
+  - Our society has `degraded to the lowest level of materialism`.
+  - Spending time with friends and families is a `worthwhile experience/pursits`
+  - The shopping activites should be limited to buying the `bare necessities`.
+
+- PARAGRAPH 3 - DINNER
+
+  - `The shared family meal` is yet another `casualty` of the `hectice modern lifestyle`.
+  - Compilcated schedules
+  - long commute
+  - A `sit-down meal` requires time to `prepare` and `consume`.
+  - Simple act of fueling their bodies.
+  - Many lack the culinary skills to make nutritious and appealing meal.
+  - They rely on restaurants take-out and processed foods from the supermarket.
+  - Suppliers of ready-to-eat food are doing such good business.
+  - It does not look as though this trend will reverse iteself any time soon.
+  - Family dining is obviously a thing of the past.
+
+  - Enjoyed the `sight` of the gathering for the traditional meal
+  - It looked very festive
+  - After saying grace, we passed the dishes aroung the table
+  - Pumpkin pie topped with dollops of whipped cream was the traditional dessert
+  - It was a scene played out every year, but I never get tired of it.
+
+  - A shared meal is an important family ritual, worth nurturing and keeping alive even in the fast-paced
+    lives of the twenty-first century.
+  - They are not gobbling donw a slice of Pizza before running off to a night class or music lesson.
+  - Families who value mealtime
+  - Children can help prepare and sever the meal.
+  - acquiring practical cooking skills.
+  - They can also learn social skills, such as proper table etiquette that will serve them
+    well in their future business lunches.
+  - A shared meal is a uniting element in family life.
+
+  - My mother always insists on a family dinner at least once.
+  - cooperate in both making and cleaning up the food.
+  - At the end we all end up `talking animatedly` about politices or news stories
+  - `taling animatedly about` <something>
+  - I feel immensly superior when I exclaim "What? You never peeled potato?"
+
+  - Over the past three generations, `eating habits` of people have changed `dramatically`.
+  - Instead of eating `home-cooked meals`, people prefer `processed foods` and `restaurant meals`
+  - Even with Todays hectice lifestyle, it is possible `to reap the benefits of a shared family meal`
+  - `To reap the benefits of` <something>
+  - `Acknowledge the importance`
+  - `acquire cooking skills`
+  - Such discussions `increase awareness of current events`
+  - `Proper table ettiquette` can be taught at the same time
+  - The family should share cleanup responsibilites
+  - By working, talking, and eating together, families can `forge strong bonds` and `foster communication`
+
 - VOCABS
   - By the very act of writing
   - Students retain less if they only listen or read
@@ -830,3 +934,13 @@ Author - Lucia Engkent
   - Many drivers `exhibit` `unnecessary aggressive behavior` on the highway.
   - Some drivers `weave` `in and out of lanes` looking for any space to `advance`.
   - Some `tailgate` trying to `make other drivers speed up` or `move out` of the way
+  - The `powerful engine of a luxury car` is useless when a driver is stuck in a
+    `traffic jam` or `restricted by speed limits`.
+  - Drivers really just need a car to get them safely from Point A to Point B.
+  - Vehicles are `comfortable` and `well-made`.
+  - Luxury Cars are too `expensive` to `purchase`, `maintain`, and `insure`.
+  - The piece of music should `appeal` to a `wide audience`.
+  - The ringtone should be `easy` to `distinguish`.
+  - The ringtone should not be `annoying`.
+  - The ringtone is `the most public aspect of` that personlization.
+  - Often phones ring at `inappropriate times`

@@ -29,7 +29,8 @@
 
 ### 03 May - Ottawa Radio News
 
-- Russia accused of attrocities in Bucha
+- accused of <doing> <something>
+- Russia accused of committing attrocities in Bucha
 - I stand to lose all of my money
 - How should I recoup my lost money
 - Rolling thundebolt protester started up builing temporary corridors in the city
