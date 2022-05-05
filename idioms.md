@@ -36,5 +36,9 @@
 - Prevalent (adjective) - widespread in a particular area or at a particular time.
   - The social ills prevalent in society today
 - Prevailing (adjective) - Existing at a particular time; current; most frequent; common;
+
   - Unfavourable prevailing economic conditions
   - prevailing argument/wind/society/fasion
+
+- : to allow (someone) to know (a secret)
+  - He said he'd let me in on a secret if I promised not to tell anyone else.

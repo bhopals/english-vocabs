@@ -944,3 +944,5 @@ Author - Lucia Engkent
   - The ringtone should not be `annoying`.
   - The ringtone is `the most public aspect of` that personlization.
   - Often phones ring at `inappropriate times`
+
+### Chapter 5 - ESSAY WRITING SKILLS

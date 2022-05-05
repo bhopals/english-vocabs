@@ -133,3 +133,125 @@
     - 8. IDIOMS
 
     - THAT IS WHAT CHUNKING IS MY FRIEND!
+
+- non-stressed vowels except the one that is STRESSED, should be pronoused as shwa (neutral - ə) sound
+
+  - Examples
+    - Police - Pə`li`ce
+    - Children - `Chi`ldrəm
+    - Americano - əme`ri`cano
+    - Artificial - /ˌärdəˈfiSHəl/
+    - Commercial - /kçˈmərSHəl/
+
+- Cant - caant
+- Copy - cəpi
+- I am really in hot water with my teacher
+- I will be in really hot water with my parents
+
+### Linking Sound
+
+#### RULE #1
+
+- Consonant + Vowel Blend
+- When a Word ends with a CONSONANT and next word starts with a VOWEL, the sounds can be BLENDED
+- Example
+  - hol`d o`n ==> holdon
+  - slee`p i`n ==> sleepin
+  - Hol` d o``n a  ` second! Can you pi`ck u`p some milk fo` r u``s a `t the store?
+    ==> Hol`dona` second! Can you pi`ckup` some milk fo`rusa`t the store?
+  - She i` s a``n o `ld frien`d o`f mine ==> Sheisanold friendof mine
+
+#### RULE #2
+
+- Same or Similar Sound
+- Make them one sound not the two separate sound
+- Make it little bit longer
+- Example
+  - This style ==> thisstyle
+  - need to ==> needto
+  - I think thi`s` `s`ong is abou`t` `t`he singers blac`k` `c`at
+    ==> I think thi`ss`ong is abou`tt`he singers bla`ck`at
+  - You do not nee`d t`o prov`e i`t to them => you do not needto provito them
+
+#### RULE #3
+
+- Flap `t`, `d`
+
+  - Vowel + t, d + vowel - (d`a`"dd"`y`)
+  - r + t, d + vowel - (pa`r`"t"`y`)
+
+  - Examples
+
+    - Ho`w` "d"`o` you know th`a`"t" `i`s your book?
+      => `w` is not vowel, but we go with the sound of `w` which is vowel sound hence the `d` will be a FLAP `d`
+      => same goes for "t". It is between `a` and `i`, hence a FLAP `t` will be pronounced.
+      ==> how do you know thatis your book.
+
+    - A l`o`"t" `o`f girls wouldn'`t e`ve`n n`otice, b`u`"t" `I` am n`o`"t" `a` l`o`"t" `o`f girls.
+      => A lo`t` `o`f girls wouldn'`te`ve`nn`otice, butI am nota lotof girls.
+
+#### RULE #4
+
+- Unreleased Plosive Consonants
+- Plosive Consonants (t,d,p,b,k,g) + CONSONANTS
+  :The sound can be unreleased.
+- When Plosive Consonants are placed right before the constant, the sound can be unreleased.
+- Unreleased means when you pronounce them you need to speak half the sound and stop and move to the next consonant.
+- Example
+
+  - woul`d` `b`e ==> woul`db`e
+  - stuc`k` `l`i`ke`(k sound) `th`is ==> stuc`kl`ikethis
+  - We allowe`d` `t`he m to jum`p` `t`o the fron`t` (RULE#1) `o`f the line
+    => We allowe`dth`em to jump`to` the fron`to`f the line.
+
+  - I jus`t` `d`on'`t` `w`an`t` `m`y kids to ma`ke`(K Sound) `th`e same ba`d` `m`istake`s` (RULE#1) `I` made.
+    ==> I jus`td`on't wan`tm`y kids to ma`keth`e same ba`dm`istake`sI` made.
+
+#### RULE #5
+
+- Consonant Cluster
+- Consonant + t, d + Consonant
+- `t, d` sounds can be dropped
+- Example
+  - ju`s`"t" `n`eed ==> jus(t)need==> jus need
+  - diamo`n`"d" `r`ing => diamon(d)ring ==> diamon ring
+  - La`s`"t" `c`hance boa`r`"d" `g`ame ==> Las(t)chance boar(d)game ==> las chance boar game
+  - Wow, the first of the school and you are already behing
+    ==> Wow the fir`s`"t" `d`ay of the schoo`l`(Rule#1) `a`nd you a`re`(R sound, Rule #1) `a`lready behind
+    ==> Wow the fir(t) day of the schooland youarealready behind
+    ==> Wow the fir day of the schooland youarealready behind
+
+#### RULE #6
+
+- Glottal Stop
+- `t` and `n` sounds meet together
+- :t sounds can be unreleased.
+- It means when you pronounced the `t` sound, you need to speak it hald a sound and stop and move to the `n` sound.
+- button ==> but`t`o`n` ==> /ˈbətn/ ==> bu/tn/
+- curtain ==> cur`t`ai`n` ==> /ˈkərtn/ ==> cur/tn/
+- Tell me how far you have got`t`e`n` ==> go/tn/
+- important ==> importnt
+
+#### RULE #7
+
+- `th` sound right after the `n`, `s`, or `z` sound
+  - `n`, `s`, or `z` + `th`
+- In this case `th` can be dropped.
+- Example
+  - is that ==> is(th)at ==> is at
+  - in there ==> in(th)ere ==> in ere
+  - I guess that works for me
+    - I gues`s` `th`at works for me
+      ==> I guess(th)at works for me
+      ==> I guess at works for me
+
+#### RULE #8
+
+- `nt` sounds between vowels
+- VOWEL + nt + VOWEL
+- :t sound can be dropped.
+- Examples
+  - International ==> `i`"nt"`e`rnational ==> in(t)ernational ==> inernational
+  - Sentimental ==> S`e`"nt"`i`m`e`"nt"`a`l ==> Sen(t)imen(t)al ==> Senimenal
+  - How on earth you can get to the international airport in an hour.
+    - How on earth can you geto the inernationalairportinan hour.

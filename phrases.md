@@ -3,7 +3,7 @@
 - to say a lot (about something) He waxed eloquent on/about the pleasures of gardening.
 - Pakistan is a country which is waxing eloquent about other nations about treatment of minorities
 - It is pretty pervasive on that matter
-- The real solution is the dimantlement of the industry that they have created.
+- The real solution is the dismantlement of the industry that they have created.
 - conduct terrorism
 - by and large
 - It has to come to an end
@@ -51,3 +51,9 @@
 - exhibit love and kindness
 - create chaos and bring the whole city to stand still
 - whole host of issues with this software
+
+- I just hope I look half as good as her when I'm your age
+- I have gotta hand it to you
+- We value our volunteers very very deeply
+- Equity - everyone gets the same resources or opportunities
+  - give people what they need to reach an equal outcome
