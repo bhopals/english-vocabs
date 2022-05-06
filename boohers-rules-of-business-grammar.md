@@ -736,3 +736,45 @@ Examples (All sentences are CORRECT)
 - MEMORY TIP
   - People Rule. That means they have choices: `that` or `who`.
   - Inanimate objects have to take the leftovers.
+
+## PART 3 - Modifier Mishaps
+
+- Sentences may start out simple. But then their meanings become MODIFIED by added words.
+- EXAMPLES
+
+  - Rufus walked toward the lake.
+  - Rufus walked slowly toward the lake.
+  - Rufus walked very slowly toward the lake.
+  - Alone, Rufus walked very slowly toward the lake.
+  - Alone and dejected, Rufus walked very slowly toward the lake.
+  - Alone and dejected, Rufus walked very slowly toward the lake that rippled gently against the muddy bank.
+  - Alone and dejected - as if he'd lost his best friend - Rufus walked very slowly toward the lake
+    that rippled gently against the muddy bank.
+
+- A `modifier` is the term we give to words, phrases, or clauses that `attach to` or describe something,
+  changing (expanding or limiting) its meaning.
+- But as with software modifications, sometimes the modifiers added to the sentences cause problems.
+
+### 30. Misplaced Modifiers That Mystify
+
+- Putting Them in Their Place
+
+### 31. Can You Hook Me Up?
+
+- Dangling Modifiers
+
+### 32. "...Which Is What I Always Say..."
+
+- Dangling Whichs
+
+### 33. Troublesome Twosomes
+
+- One Word or Two?
+
+### 34. Learn This Backwards and Forewards
+
+- The Unnecessary - S
+
+### 35. A Honor or an Honor to Be Here?
+
+- The ARTICLES - A or AN
