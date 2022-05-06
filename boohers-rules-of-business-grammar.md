@@ -513,3 +513,19 @@ Examples (All sentences are CORRECT)
 - MEMORY TIP
   - visualize the kaleidoscope effect of `a number` or `the number` as it `expands` or `limits`
     the meaning of your subject.
+
+### 21. The Seasaw Effect
+
+- EITHER/OR, NEITHER/NOR, NOT ONLY/BUT ALSO
+- Consider both halves of `either/or`, `neither/nor`, and `not only/but also` subjects
+  as if they are separate elements.
+
+- RULES
+
+  - Subjects linked by `either/or` and `neither/not` usually take a singular verb.
+  - If one subject is `plural` and the other subject is `singular`, make the verb agree with
+    the `closest subject`.
+
+- EXAMPLES
+  - Either your manager or your mentor `has` made a mistake
+  - Either the salespeople in Atlanta or the salespeople in Los Angles `have` ....
