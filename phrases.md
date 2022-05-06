@@ -139,3 +139,5 @@ quite distant from the sitaution our partents were.
 ### 06 MAY
 
 - Could you drop that in chat real
+- Be considerate and put others first
+- We will be greatly appreciative

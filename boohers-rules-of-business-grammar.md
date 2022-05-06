@@ -25,7 +25,7 @@
 - You can correct deficiencies in a matter of a few hours or days of diligent study.
 - The more elaborate a visualization
 
-## Verbosity About Verbs: The Big Blunders
+## PART 1 - Verbosity About Verbs: The Big Blunders
 
 - When it comes to sport, you know what thye say: no guts, no glory.
 - We will try to tackle the troublesome verbs in the following chapters
@@ -529,3 +529,135 @@ Examples (All sentences are CORRECT)
 - EXAMPLES
   - Either your manager or your mentor `has` made a mistake
   - Either the salespeople in Atlanta or the salespeople in Los Angles `have` ....
+
+## PART 2 - Pesky Pronouns: The Understudies
+
+- Pronouns never have starring roles in sentences: Instead, they are stand-ins for nouns.
+
+### 22. Just Between You and I
+
+- The Case for Objective Pronouns
+
+- ACTORS that can stand in for subjects
+
+  - `I`, `you`, `he`, `she`, `it`, `we`, `they`, `who`, and `whoever`
+
+- ACTORS that can stand in for objects
+
+  - `me`, `you`, `him`, `her`, `it`, `us`, `them`, `whom`, and `whomever`
+
+- You will notice that `you` and `it` can play either role - Subjects or Objects.
+- Also, we have a whole slew of indefinite pronouns that can play both roles:
+
+  - `anyone`, `everybody`, `none`, `some`, `all`, `many`, `one`, `them`, `these`, `those`, `this`, `that`,
+    `what`, `any`, `each`, `both`, `nobody`, `few`, `others`, `several`
+
+- INCORRECT
+
+  - Just between you and `I`, we all know who runs this place.
+
+- CORRECT
+
+  - Just between you and `me`, we all know who runs this place. (Pronoun `I` can only accept SUBJECT Role)
+
+- INCORRECT
+
+  - Examples
+
+    - Please call Ebeneezer and `I` with the test results.
+      (Object of the verb - `me` has to be stand-in there)
+    - He mailed multiple invoices to percipal, three clients, and `I`.
+      (Object of the preposition - `me` has to be the stand-in here)
+
+  - To Identify problems in the above, we could use a neat and quick TRICK.
+    - Leave the other people out of a sentence and let your ear do the work.
+    - The correct pronoun will become obvious.
+    - You would NEVER SAY
+      - `Please call I with the test results` (Omit other peoples - Ebeneezer )
+      - `He mailed multiple invoices to I` (Omit other peoples - percipal, three clients)
+    - You would SAY (Correct Form)
+      - `Please call me with the test results`
+      - `He mailed multiple invoices to me`
+
+- CORRECT
+
+  - Please call Ebeneezer and `me` with the test results.
+  - He mailed multiple invoices to percipal, three clients, and m`e`.
+
+- MEMORY TIP
+  - Omit the other people in the sentences, and trust your ear to select the right objective pronoun.
+
+### 23. Me and Pongo Know Him
+
+- The Case for Nominative Pronouns
+- BEING CONSIDERATE AND PUTTING OTHERS FIRST
+
+- INCORRECT
+
+  - Me and Eldora have a lunch appointment.
+    - Going by the omission rule - `Me have a lunch appointment` - Does not SOUND right
+
+- CORRECT
+
+  - Eldora and I have a lunch appointment
+    - Going by the omission rule - `I have a lunch appointment` - Does SOUND right
+
+- Also, as we discussed BEING CONSIDERATE AND PUTTING OTHERS FIRST, we cannot say
+
+  - `I and Eldora` have a lunch appointment (INCORRECT)
+  - `Eldora and I` have a lunch appointment (CORRECT)
+
+- MEMORY TIP
+- To get the correct subject pronoun, test the sentence by dropping to other names, and let your ear do the rest.
+
+### 24. Me, Myself, and I
+
+- Reflexive Pronouns Flexing Their Muscles
+
+- INCORRECT
+
+  - Jordan and `myself` manage the department.
+  - Heather, Tommy, and `myself` are involved in that meeting.
+  - Why don't Frank, Sol, and `yourself` accompany Melinda to Atlanta?
+
+- Whatever happened to plain old me? A sentence must contain another NOUN or PRONOUN to which the `self` refers.
+- If `I` is not already in the sentence, it is INCORRECT to add `myself`.
+- If `Susan` is not already mentioned in the sentence, then it's INCORRECT to stuff `herself` in there.
+- If `Greg` is not already mentioned in the sentence, then it's INCORRECT to stuff `himself` in there.
+
+- Again, leave out the other people and let your ear do the work.
+- You would never say `Myself` is involved in the meeting.
+- Neither would you say, `Why don't `yourself` accompany Melinda to Atlantia?
+
+- CORRECT
+
+  - Jordan and `I` manage the department.
+  - Heather, Tommy, and `I` are involved in that meeting.
+  - Why don't Frank, Sol, and `I` accompany Melinda to Atlanta?
+
+- A good reason, on the other hand, to toss in a self pronoun is to add emphasis. consider it a raised
+  voice: `I myself told him about the problem!`
+
+- MEMORY TIP
+  - Have you ever heard the line, `I am so busy that I'm meeting myslef coming and going?`.
+  - That is the correct usuage refers to the I that's already in the sentence.
+
+### 25. To Whom It May Concern
+
+- WHO versus WHOM
+
+### 26. She's Taller Than Me
+
+- Pronouns After Than
+
+### 27. You Know What They Always Say About That
+
+- Unclear References
+
+### 28. Which Hunts
+
+- THAT versus WHICH
+
+### 29. Is Shamu a Who?
+
+- People WHO or THAT?
