@@ -89,3 +89,49 @@
 
 - Improve Speaking English
   - Tell the main idea, and then add supporting ideas (what, when, who, where, how, why)
+
+### BBC Radio Phrases
+
+unprecedented action needed
+lucrative human trafficking
+quite striking differences
+exposed to the heat waves
+quite significant differences
+having to look at the non-expert eye
+You need to bring carbon dioxide to virtually to zero.
+feasable technically.
+Resounding win.
+widespread corruption and economic crisi.
+Intensifying their campaign.
+immediate and far-reaching steps.
+emerging from the Chinese authority.
+unprecedented steps.
+another long-standing problem
+People anticipate price rises.
+severe cash shortage.
+So absolutely delicious/wonderful
+Financially extravagant countries
+exert all the resources.
+significantly higher.
+To stimulate growth.
+The plan does not materialize.
+Not the people who are pulling the strings.
+Who holds the upper hand in this
+They have their own determination and confrontation
+Budget deficit (shortfall)
+exceeding their spendings
+There is no solidarity
+Since medieval time.
+No comprehensive plan.
+Unprecedented transition in all aspects of society.
+irresistable daily offers.
+make a fatal error.
+I dont encourage bad drivings at all.
+I am observing the speed of the driver
+tail gating
+ever got busted.
+fear of law.
+Thats largely due to
+absolutely essential
+different outlook on life.
+quite distant from the sitaution our partents were.
