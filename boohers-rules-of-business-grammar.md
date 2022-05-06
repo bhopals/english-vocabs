@@ -421,6 +421,56 @@ Examples (All sentences are CORRECT)
 
 - VERBS AFTER COLLECTIVE NOUNS
 
+- Collective Nouns - `jury`, `committee`, `management`, `team`, `audience`, `equipment`, `organization`
+- In most situations, collective nouns act as a single unit, so they need a singular verb.
+- INCORRECT
+
+  - The `jury` `have` decided to give her probation rather than jail time.
+  - Our `club` `are` donating its facilities as a homeless shelter during the emergency.
+  - `Management` `are` disappointed in the sales volume for the year.
+  - Our `Team` `have` met its deadline each quarter.
+  - The `equipment` `need` servicing daily.
+  - The `team` `argued` among itself about how to present the results.
+  - The `committe` `have` spoken against one another to various reporters.
+
+- CORRECT
+
+  - The `jury` `has` decided to give her probation rather than jail time.
+  - Our `club` `is` donating its facilities as a homeless shelter during the emergency.
+  - `Management` `is` disappointed in the sales volume for the year.
+  - Our `Team` `has` met its deadline each quarter.
+  - The `equipment` `needs` servicing daily.
+  - The `team` `argued` among itself about how to present the results.
+  - The `team` members `argued` among itself about how to present the results.
+
+  - The `committe` `has` spoken against one another to various reporters.
+  - The `committe` members `have` spoken against one another to various reporters.
+
+- Always treat Collection UNIT as a SINGLE ENTITY
+
 ### 18. None of your business
 
 - DEFINITELY INDEFINITE PRONOUNS
+- With INDEFINITE PRONOUNS, BE DEFINITE. Consider the context to determine the meaning, and then make the
+  verb choice either singular or plural.
+
+- INDEFINITE PRONOUNS
+
+  - `none`, `most`, `all`, `one`, `some`, `more`, or `any`
+
+- Verbs after the pronouns can be SINGULAR or PLURAL, depending on what noun or pronoun they replace
+  or refer to in context. For
+
+- Examples
+  - Most of my `equipment` `is` under warranty.
+  - Most of my `computers` `are` under warranty.
+  - Some of my `money` `is` invested in mutual funds.
+  - Some of my `retirement funds` `are` invested in annuities.
+  - Some of the `bombs` `have` been set to detonate at noon.
+  - Some of the `paint` `has` been leaking.
+  - All of the `paperwork` `is` complete.
+  - All of the `contracts` `are` complete.
+  - None of the `building` `has` been damaged.
+  - None of the `employees` `have` been complaining.
+  - None of the `cars` `are` damaged.
+  - None of the `coins` `are` missing.
