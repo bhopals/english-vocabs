@@ -57,3 +57,35 @@
 - We value our volunteers very very deeply
 - Equity - everyone gets the same resources or opportunities
   - give people what they need to reach an equal outcome
+
+### The English Way of thinking - English Sentence Structure
+
+- English Sentence Structure
+
+  - Main IDEA (Subject + Verb)
+  - Supporting IDEA (WHAT + WHERE + WHEN + WHY)
+  - Example
+
+    - Main IDea - `I had`
+
+      - What - `dinner`
+      - Who - `with Tom`
+      - When - `yesterday`
+      - Where - `at the italian restaurant`
+      - Why - `because he really loves itallian food`
+
+      - I has dinner with Tom yesterday at the italian restaurant because he really loves itallian food.
+
+  - Every sentence in English Consist of this IDEA
+
+- To improve Listening English
+
+  - Hear the MAIN IDEA
+  - Then Hear more Information
+
+- Every sentence constructed in English follows this format
+
+  - MAIN IDEA + SUPPORTING IDEA (WHAT, WHEN, WHERE, WHO, HOW, WHY)
+
+- Improve Speaking English
+  - Tell the main idea, and then add supporting ideas (what, when, who, where, how, why)
