@@ -474,3 +474,42 @@ Examples (All sentences are CORRECT)
   - None of the `employees` `have` been complaining.
   - None of the `cars` `are` damaged.
   - None of the `coins` `are` missing.
+
+### 19. Total'Em Up
+
+- VERBS WITH TIME, MONEY, QUANTITIES, FRACTIONS AND PERCENTAGE
+- The common mistake with expressions such as 20 dollars or 40 hours is to think them
+  slipping through your hand or ticking one by one. While they do disappear fast, in most situations,
+  consider these expressions to be one total amount.
+
+- When thought of as a single unit, expression of time, money and quantity take a singular verb.
+- Examples
+
+  - `Twenty gallons` `is` all my gas tank holds.
+  - `Forty hours` `is` now considered a short workweek for the typical company.
+  - `Twenty-two percent` `represents` a small portion of the voting population.
+  - `Six acres` `was` all that he inherited from his parents.
+
+- MEMORY TIP
+  - In math, you first learn to add numbers. In English, you do the same thing:
+    One composite number (a total number of hours, dollars, miles, or whatever) expressed as a single total
+    gets a singular verb.
+
+### 20. The Kaleidoscope Effect
+
+- `A` and `THE` before amounts
+- Placing the article a or the in front of a noun that means a fraction or an amount that has
+  the Kaleidoscope effect. These articles either expand or contract the meaning of the amounts that follow.
+
+- Example
+
+  - I want to talk to you about `a` number of things. (Means serveral things..)
+  - `A` number of people attending the conference.(Many people)
+  - `The` number of people attending the conference (Specific - only)
+  - `A` number of people have called to complain (Many acting individually - PLURAL)
+  - `The` number who asked to have their service disconnected is small.
+    (One total referred to as a group - SINGULAR)
+
+- MEMORY TIP
+  - visualize the kaleidoscope effect of `a number` or `the number` as it `expands` or `limits`
+    the meaning of your subject.

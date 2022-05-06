@@ -135,3 +135,7 @@ Thats largely due to
 absolutely essential
 different outlook on life.
 quite distant from the sitaution our partents were.
+
+### 06 MAY
+
+- Could you drop that in chat real
