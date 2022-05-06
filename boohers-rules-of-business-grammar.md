@@ -650,13 +650,76 @@ Examples (All sentences are CORRECT)
 
 - Pronouns After Than
 
+- We order supplies from Contintental more often than `them`. (we order from them).
+- We order supplies from Contintental more often than `they`. (order from Contintental)
+
+- Ziggy knows more about politics than `me`. (she knows about me)
+- Ziggy knows more about politics than `I`. (know)
+
+- She tabulates more cals than `we`. (do)
+- She tabulates more cals than `us`. (she tabulate us)
+
+- CORRECT COMBINATION
+
+  - We order supplies from Contintental more often than `they`(order).
+  - Ziggy knows more about politics than `I`. (know)
+  - She tabulates more cals than `we`. (do)
+
+- If in doubt about this particular construction, go ahead and say the missing word or two aloud either
+  after or before the `than`, and the correct pronoun will become apparent.
+
+- MEMORY TIP
+  - Repeat this Ryhme: Before or After `than`, understand that there is a span of missing words.
+
 ### 27. You Know What They Always Say About That
 
 - Unclear References
 
+- Ensure reference of these nouns in sentences
+
+  - `this`, `that`, `they`, `these`, `those`, `it`
+
+- Always back trace the referenced pronouns. They should not be vague or unclear.
+- MEMORY TIP
+  - You know what they always say.
+    - Consider that common phrase a reminder that people are asking the same thing about your communication:
+      - Who are `they`? What's the `it`, What's the `which`?
+
 ### 28. Which Hunts
 
 - THAT versus WHICH
+
+- Which of the following two sentences is correct?
+
+  - People do not buy products `which` seem overpriced and shabbily packaged.
+  - People do not buy products `that` seem overpriced and shabbily packaged.
+
+- The distinctiction between these two is not difficult if you keep this one simple test in mind:
+
+  - Does the key point of the sentence change if you remove `that` or `which` clause?
+
+- FOLLOW THE BELOW RULE:
+
+  - If you can REMOVE the clause in question and not change the meaning of the sentence,
+    use a `comma` and `which` to set off from the reset of the sentence.
+  - If you cannot, use `that` without a comma.
+
+- So taking the example give above, if we remove the clause "`which` seem overpriced and shabbily packaged."
+  and read the sentence "People do not buy products" - Does this make sense? It definitely NOT, hence
+  the `that` clause is essential to its meaning. So the second sentence is the correct one of the two.
+
+  - People do not buy products `that` seem overpriced and shabbily packaged.
+
+- OTHER EXAMPLES
+
+  - Ebeneezer submitted his sales reports, which was late as usual.
+    (Just added information - you can omit the `which` clause and not lose the gist of the sentences)
+  - Mortimer parked his car in front of the building that faces Street.
+    (You cannot omit `that` here as it is adding an essential information)
+
+- MEMORY TIP
+  - Think of `which` clauses as switch clauses. The `which` signals the reader that you're switching off track
+    briefly to provide additional `nonessential information`. Use a `comma` to set off this side note.
 
 ### 29. Is Shamu a Who?
 
