@@ -724,3 +724,15 @@ Examples (All sentences are CORRECT)
 ### 29. Is Shamu a Who?
 
 - People WHO or THAT?
+
+- People typically prefer to be called by their names. And when names are unavailable, they at least
+  like to feel human as oppposed to inanimate. That is the issue with `who` and `that`
+
+- When referring to people (and animals treated as people, such as Sham, the whales, and Fluffy, the kitten)
+  use `who` or `that`.
+
+- When refering to places, ideas, or things, use `that`, `which` or `it` NOT who.
+
+- MEMORY TIP
+  - People Rule. That means they have choices: `that` or `who`.
+  - Inanimate objects have to take the leftovers.
