@@ -1172,10 +1172,73 @@ EXAMPLES
 ### 44. I Worked, Waiter, and Was Rewarded
 
 - Parallelism With a Viewpoint Change
+- Politicians can change their viewpoints on issues from decade to decade, or even day to day, for that matter. But you CANNOT.
+
+- FIRST PERSON - `I`, `We`, `our`, `my`
+- SECOND PERSON - `you`
+- THIRD PERSON - `he`, `she`, `they`, `clients`
+
+- INCORRECT
+  - Taxes on `small businesses` passed from parents to their children have become outragous, and `you` shouldn't
+    have to pay them. (Do you see the problem here? The writer stars out talking about small businesses in `general`
+    and then switches in mid-sentence to talk to `you` the readers, directly)
+    - `Third-Person Viewpoint` to `Second-Person Viewpoint`
+- CORRECT (Either use Third Person OR Second Person - Make sure you are consistent)
+
+  - Taxes on `small businesses` passed from parents to their children have become outragous, and `business owners`
+    shouldn't have to pay them.
+  - `Your` Taxes on a small businesses passed from parents to their children have become outragous, and `you` shouldn't
+    have to pay them.
+
+- EXAMPLES
+
+  - INCORRECT
+    - All vendors should e-mail their invoices, and please attach copies of the work orders.
+  - CORRECT
+
+    - Please e-mail your invoices, and attach copies of the work orders.
+    - All vendors should e-mail their invoices, and attach copies of the work orders.
+
+  - INCORRECT
+    - The clinic will see patients beginning at 02:00; you will also beed to bring proof of insurance.
+  - CORRECT
+
+    - The clinic will see patients beginning at 02:00; the clinic staff will also need to see patients proof of insurance coverage.
+    - You can schedule your appointment at the clinic or drop by after it opends at 02:00. You will also need to bring proof
+      of insurance coverage
+
+  - INCORRECT
+    - You must schedule weekly staff meetings, and managers also need to participate in regional meetings during the last
+      week of each month.
+  - CORRECT
+    - Manager must schedule weekely staff meetings, and they'll need to participate in regional meetings during the last week
+      of each month.
+    - You must schedule weekly staff meetings and participate in regional meetings during the last week of each month.
 
 ### 45. Verbs with Attitude
 
 - Active and Passive Voice
+- Active Voice verbs generally make writing crisp, clear, and concise.
+- Passive Voice verbs also have a place or purpose: they add variety, slow the pace, and focus on the results and  
+  action of the sentence if the DOER is unimportant.
+
+- The Grammar goof happens when the two (both active and passive verbs) are mixed in one sentence or worse, within one clause,
+  creating insonsistency and confusion about who is doing what. so DON'T EVER MIX BOTH in ONE SENTENCE.
+
+- EXAMPLES
+
+  - INCORRECT - You need to sign these checks (active), and the social security number should be written on them (passive).
+  - CORRECT - You need to sign these checks (active), and write your social security number on them (active).
+
+  - INCORRECT
+    - Phone will be installed in every office (passive), and they will repaint walls(active). (Phone will repaint the walls?)
+  - CORRECT
+    - Phone will be installed in every office (passive), and the walls will be repainted (passive)
+    - The night crew will install the phones in every office (active), and repaint the walls (active)
+
+- MEMORY TIP
+  - Use ACTIVE or PASSIVE verbs consistently witing a sentence. And as a rule of thumb, put people in your
+    prose (active voice) for clear, concise writing.
 
 ### 46. Time Marches On - But at the Same Pace
 
