@@ -1103,6 +1103,26 @@ EXAMPLES
 
 - Over Versus More Than
 
+- Confusion between `over` and `more than`
+- `Over` - It refers to a physical position
+- `more than` - It applies to amounts.
+- Both of these words (`over` and `more than`) are synonyms but not interchangeable.
+
+- INCORRECT - Gertrude has `over` 10 years of Military Experience
+- CORRECT - Gertrude has `more than` 10 years of Military Experience
+
+- CORRECT
+
+  - Elbeneezer has `more than` 10 million excuses for why he can't get his reports finished on time.
+  - Mortimer went `over` his boss's head to ask for a raise.
+  - Fritz looked `over` the bluprints and explained the changes.
+  - Wilmo has `more than` four different supervisors who rate his work.
+  - Eldora wants to be paid double time for `more than` 40 hours.
+
+- MEMORY TIPS
+  - When you are talking about NUMBERS, the correct phrase is `higher`, `more than` NOT `over`
+    (unless, of course, you are talking about fences)
+
 ### 42. I Like Smaller Cars
 
 - Incomplete Comparisons
