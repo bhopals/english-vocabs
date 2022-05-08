@@ -807,6 +807,62 @@ Examples (All sentences are CORRECT)
 
 - Dangling Modifiers
 
+- There is often the problem with danglers. The writer thinks the meaning is obvious; to the reader; it is not.
+- Such words or phrases dangle because they aren't attached to anything.
+- With MISPLACED MODIFIERS, at least the words they describe are somewhere in the sentence.
+- But DANGLERS don't attach to anything but a mysterious thought in the speaker's or writer's mind.
+
+- More often than not, danglers are verb forms ending in `-ing`, or `-ed` (Technically called Participles)
+  They may dangle at the begining or end of a sentence.
+
+- INCORRECT - `Walking the dog in the quiet before dawn`, `my cell phone` startled me.
+  (Cell phone do have new features today, but I haven't seen the `walking the dog` option on mine yet)
+- INCORRECT - `Having received approval on the deal earlier in the week`, `the documents` were ready to be signed.
+  (Who received the approval? Where did this wheeler-dealer go? He is not in the sentence anymore.)
+
+- Such sentence jump off the page - When someone else writes them. But they are not easy to spot in your own writing.
+  The trick to catching them is diligence in looking for those descriptors ending in `-ing` and `-ed`
+
+- INCORRECT - `Downgrade to category 3 hurricane`, `Eldora` decided to go see her parents over the weekend about her anger over the money.
+  (I am littler confused here. Is Eldora being referred t o as a hurricane because of her temper)
+- CORRECT - `With the hurricane donwgraded to category 3`, `Eldora` decided to go see her parents over the weekend.
+
+- INCORRECT - The house should be put on the market immediately, considering my cash-flow situation.
+  (Who is considering the cash-flow situation? The homeowner? The mortgage holder? His creditors?
+  Althought this dangler comes at the end of the sentence, the reader still doesn't know who's considering.)
+- CORRECT - Considering my cash-flow situation, I have decided to put my house on the market immediately.
+
+- To correct DANGLERS in procedure, write directly to the person following the instructions.
+
+- INCORRECT - When applying pressure, the tube should be upright.
+  (Is the tube going to apply pressure? Probably, a person will)
+- CORRECT - Whe applying the pressure, you should place the tube upright.
+- CORRECT - Whe applying pressure, you place the tube upright.
+
+- INCORRECT - Using the new code, files should be named by date.
+  (The files probably aren't going to use the codes)
+- CORRECT - Using the new code, you name the files by date
+- CORRECT - Using the new code, (you) name the files by date
+
+- ABSOLUTES (Phrases that DON'T Dangle)
+
+  - These common phrases don't dangle.
+  - Some common sentence starters seem to dangle - but don't. That is they don't dangle in the sense we talked above.
+  - The grammatical terms for those is ABSOLUTES; They have absolutely nothing to do with the rest of the sentence.
+  - Commonly used to introduce a thought, they have become simply manners of speech.
+  - Examples
+
+    - `Generally speaking`, international travel is still quite safe on that airline.
+    - `Granted`, the weather is unpredictable this time of year.
+
+  - PHRASES EXAMPLES
+    - `Generally Speaking`, `Granted`, `To be sure`, `Alternatively`, `By and large`, `Barring unforseen circumstances`
+    - `When all is said and done`, `Contrary to popular belief`, `To tell the truth`, `to be perfectly honest`
+    - `To be perfectly clear`, `Strictly speaking`, `in the final analysis`, `in the long run`, `on the whole`
+
+- MEMORY TIP
+  - Visualize a sentence with begining and ending with a descriptive phrase.
+
 ### 32. "...Which Is What I Always Say..."
 
 - Dangling Whichs
