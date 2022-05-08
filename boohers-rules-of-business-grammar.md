@@ -1150,3 +1150,55 @@ EXAMPLES
 - MEMORY TIP
 - Imagine the listener or reader raising an eyebrow and asking:
   - As compared to what? As compared to who? As compared to when?
+
+## PART 5 - PARALLEL BARS AND BALANCE BEAMS
+
+- Parallelism is the grammatical term given to that matching concept.
+
+### 43. To Balance or Not to Balance - That is the Question
+
+- Parallelism Perfected
+- Equal Ideas deserve similar structure and expression
+
+- INCORRECT - You can either `pay now` or `you can pay later` (Either/or should link ideas together in a same way)
+- CORRECRT - You can eitehr `pay now` or `pay later`
+
+- INCORRECT - He doesn't know whether `renting more office spare` or `try to hire a virtual sales team` would be better approach.
+- CORRECT - He doesn't know whether `renting more office spare` or `trying to hire a virtual sales team` would be better approach.
+
+- MEMORY TIP
+  - PARA...LLEL sounds like PAIR. A pair of ideas should be EXPRESSED (Or dressed) as twins
+
+### 44. I Worked, Waiter, and Was Rewarded
+
+- Parallelism With a Viewpoint Change
+
+### 45. Verbs with Attitude
+
+- Active and Passive Voice
+
+### 46. Time Marches On - But at the Same Pace
+
+- Don't be lax About Tense Changes
+
+## PART 6: PUNCTUATION PROBLEMS
+
+### 47. Comma Hiccups
+
+- Unnecessary Commas
+
+### 48. Comma Clauses and Pauses
+
+- Essential and Nonessential - That is the Question
+
+### 49. "Hi Hank, What Do You Think Frank?"
+
+- Commas When Addressing People Directly
+
+### 50. Dear Spike
+
+- Punctuation After Saluations
+
+### 51. She needs no Introduction
+
+- Commas to Introduce
