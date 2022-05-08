@@ -1068,6 +1068,19 @@ EXAMPLES
 ### 39. It Is The Most Unique Gift I've Ever Received!
 
 - Unique, Round, Sorrounded, Square, Perfect - or Not?
+- Either something is unique or it is not
+- Either something is roung or it is not
+- Either something is squashed, deflated, oval or some other oddity - but not round.
+- Either something is square - or not
+- THERE IS NO STATE IN BETWEEN.
+
+- To insist that something is more unique, more perfect, almost sorrounder or the most square of the groups
+  shows a misunderstanding of the original word.
+
+- MEMORY TIP
+  - Think in terms of black or white, not shades of gray.
+  - With the words round, square, flat, unique, perfect, and sorrounded,
+    consider the old song lyrics - `There is no Mr. In-Between`
 
 ### 40. This Checkout - 20 Items or Less
 
