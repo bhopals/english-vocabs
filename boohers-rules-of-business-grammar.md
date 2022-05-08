@@ -1280,6 +1280,23 @@ EXAMPLES
 
 - Essential and Nonessential - That is the Question
 
+- A comma tells a reader to PAUSE. The Absense of comma means that a reader should keep going full speed ahead.
+
+  - If you SET OFF the middle or final part of a sentence with a COMMA, you are telling a reader that part
+    is NONESSENTIAL - that it adds information but is not essential to the meaning of the sentence.
+  - If you CANNOT remove the part of the sentence without changing the meaning of what's LEFT, then don't
+    set that part OFF with commas.ß
+
+- EXAMPLES
+
+  - I know the man `who` bought my car (Essential: the `who` clause tells which man - NO COMMA)
+  - Daffy signed the contract, `which` the client mailed overnight. (Nonessential: the `which` clause just adds information
+    about the contract but doesn't distinguish this contract from another - COMMA to set off)
+
+- HERE is the RULE of THUMB for those ESSENTIAL and NONESSENTIAL clauses that involves `THAT` and `WHICH`
+  - `Which` clauses give `nonessential` information. `Use commas to set them off`.
+  - `That` clauses provide `essential` information. `Don't use Comma`.
+
 ### 49. "Hi Hank, What Do You Think Frank?"
 
 - Commas When Addressing People Directly
