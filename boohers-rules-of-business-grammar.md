@@ -1301,10 +1301,54 @@ EXAMPLES
 
 - Commas When Addressing People Directly
 
+- Examples
+
+  - Hi Hank,
+  - Dear Fritz,
+  - Hey Spike, are you coming today?
+  - Trixy, is it you in the picture?
+
+- When you are talking to someone, you have to get that person's attention:
+
+  - Set off the name with Commas so that the reader PAUSES before and after, and takes notice that
+    you are speaking directly to him or her.
+
+  - When you Talk to people, Punctuate (Take a Pause in SPEAKING, and Add a COMMA in Writing) so that they will Listen.
+
+- MEMORY TIP
+  - When talking to people directly, add the comma, add figuratively pause until they look you in the eye.
+
 ### 50. Dear Spike
 
 - Punctuation After Saluations
+- A semicolon(;) never follows a saluation.
+- The use of COMMAS(,) or COLONS(:) in greetings is a matter of formality or familiarity.
+
+- The following greetings are arranged from VERY FORMAL to VERY INFORMAL
+
+  - Dear Mr. Raymer:
+  - Dear Mr. Raymer,
+  - Dear Spike:
+  - Dear Spike,
+  - Spike,
+  - Spike - (very informal)
+
+- MEMORY TIP
+  - Using a Semicolon(;) to punctuate a saluation is as inappropriate as eating with a toothbrush. It is the wrong TOOL.
 
 ### 51. She needs no Introduction
 
 - Commas to Introduce
+
+- Generally Speaking, use a COMMA after below to help readers quickly skim to the major idea of the sentence.
+
+  - INTRODUCTORY WORDS
+  - PHRASES
+  - CLAUSES
+
+- EXAMPLES
+  - Honestly, I am pleased with this product.
+  - On the other hand, some people...
+  - Before you leave, please explain the pricing options.
+  - Having header the ad during the Super Bowl, the were prepared for the competitive reaction.
+  - In the first few months of the product launch, the sales people seem more ...
