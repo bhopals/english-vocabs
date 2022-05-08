@@ -1005,9 +1005,65 @@ EXAMPLES
 
 - Well versus Good
 
+- The Team might have played `well`, but it did not play `good`.
+
+- `Good` describes something or somebody (Like other ADJECTIVES, good can be used
+  to describe only NOUNS or PRONOUNS - People, Place, Things, or Ideas)
+
+  - EXAMPLE
+    - Sarah is a `good` manager.
+    - Florida is a `good` location for our waterhouse.
+    - Those engineers made a `good` decision in drilling the oil.
+    - Freedom from pricing restrictions is a `good` idea.
+
+- `Well` tells how something is DONE/PERFORMED
+
+  - Examples
+    - Dilbert writes `well`.
+    - The engineering team planned `well`.
+    - The machines run `well`.
+    - The car drives `well` in most road conditions.
+
+- In any given situations, ask yourself: Am I talking about a THING, PERSON, PLACE or IDEA? - use `good`
+- OR I am talking about how somebody or something PERFORMED? if so, use `well`
+
+- The frames make you look `good`; we make you look `well` (CORRECT) - Deep meaning :D
+  - Means - The frames make you as a person look beautiful and handsome. Our Optometrists make you see well.
+
 ### 38. This Job Is More Simpler Than What I Had Before
 
 - Comparing With More and Most
+
+- You sister is `brighter`, `faster`, and `more conscientious`?
+
+  - Ever wondered why `brighter` not `more brighter` OR why `more conscientious` not `conscientiouser`
+
+- When using a `ONE-Syllable` word to compare things or people, you typically add `-er`, or `-est`
+
+  - EXAMPLES
+    - `quick`, `quicker`, `quickest`
+    - `sharp`, `sharper`, `sharpest`
+    - `limp`, `limper`, `limpest`
+    - `light`, `lighter`, `lightest`
+
+- When using Longer Adjectives (`Words of two or more syllables`) to compare things or pople
+  you typically need the help of `more` or `less`.
+
+  - EXAMPLES
+    - `more` brilliant, `most` brilliant
+    - `more` confusing, `most` confusing
+    - `less` memorable, `least` memorable
+    - `less` understandable, `least` understandable
+
+- Some adjectives used to compare people or things are totally dufferent words altogether.
+
+  - EXAMPLES
+    - `good`, `better`, `best`
+
+- MEMORY TIP
+  - If the Adjective has only ONE SYLLABLE, add one syllabl to compare (`-er`, `-est`).
+  - If the Adjective already has two or more syllables, leave it alone.
+    Instead, add a word to compare(more or most; less or least)
 
 ### 39. It Is The Most Unique Gift I've Ever Received!
 
