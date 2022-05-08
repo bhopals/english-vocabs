@@ -1353,3 +1353,7 @@ EXAMPLES
   - Having header the ad during the Super Bowl, the were prepared for the competitive reaction.
   - In the first few months of the product launch, the sales people seem more highly motivated to call
     on inactive accounts than they do later in the campaign.
+
+### Punctuation Powerless
+
+- RUN-ONS - Semicolons Slip-Sliding Away

@@ -142,3 +142,10 @@ quite distant from the sitaution our partents were.
 - Be considerate and put others first
 - We will be greatly appreciative
 - Not in my wildest dreams, could I ever imagine anyone as perfect as you are
+- I used to workout regularly, but I began working longer hours at my job.
+- I stopped visiting the gym
+- Due to not exercising daily, my health has started showing bad effect.
+- On Monday, I will join friends for a game of football
+- On Thrusday, I am running laps around the lake
+- On Saturday, I have planned a bicylce ride to town
+- I want to reach my fitness goals
