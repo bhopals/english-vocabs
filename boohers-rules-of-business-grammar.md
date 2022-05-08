@@ -928,7 +928,7 @@ EXAMPLES
 
 ### 35. A Honor or an Honor to Be Here?
 
-- The ARTICLES - A or AN
+- The ARTICLES - `A` or `AN`
 - Articles of Incorporation. Articles of Agreement. Articles of Faith.
 - Articles POINT out nouns using - `the`, `a`, `an`
 
@@ -939,3 +939,49 @@ EXAMPLES
   - Dilbert hired `a` turkey for an assistant.
   - Wilmo considers it `an` honor to speak to an artisan of your clibar.
     (The `h` is silent, so the word begins with a VOWEL Sound, hence `an` is used)
+
+## PART 4 - ADJECTIVE and ADVERB ATTITUDES
+
+- ADJECTIVES tell more about NOUNS and PRONOUNS. These describing words limit or expand the meaning of the nouns or
+  pronouns they sorround
+
+  - EXAMPLES
+    - The `late` `march` report.
+    - Those `ugly`, `torn` chairs in the lobby.
+    - That `bulk-volume` contract signed last week.
+    - His `manipulative` manager working in the back office.
+
+- ADVERBS tell more about VERBS, ADVERBS, ADJECTIVES, and sometimes the whole sentence.
+  - EXAMPLES
+    - He resigned `quickly` after they discovered the fraud.
+    - The competition is so `much` stronger that it was last season.
+    - He found it `very` difficult to do a good job.
+    - `Frankly`, I don't care who wins the contract.
+
+### 36. She Did Things Differently
+
+- Adjectives Modifying Verbs - A No-No
+
+### 37. The Team played Real Good
+
+- Well versus Good
+
+### 38. This Job Is More Simpler Than What I Had Before
+
+- Comparing With More and Most
+
+### 39. It Is The Most Unique Gift I've Ever Received!
+
+- Unique, Round, Sorrounded, Square, Perfect - or Not?
+
+### 40. This Checkout - 20 Items or Less
+
+- Less Versus Fewer
+
+### 41. He Has Over a Millon Miles on That Airline.
+
+- Over Versus More Than
+
+### 42. I Like Smaller Cars
+
+- Incomplete Comparisons
