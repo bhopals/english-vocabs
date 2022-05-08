@@ -1086,6 +1086,19 @@ EXAMPLES
 
 - Less Versus Fewer
 
+- LESS / MORE (Uncoutable Singulars)
+
+  - `less` time, `less` inclination, `less` willpower, `less` stress
+  - `more` peace
+
+- FEWER (Countble Plurals)
+
+  - `fewer` opportunities, `fewer` workers, `fewer` employers, `fewer` hours
+
+- MEMORY TIP
+  - If you can count it, use `fewer`.
+  - If you cannot count it, use `less`
+
 ### 41. He Has Over a Millon Miles on That Airline.
 
 - Over Versus More Than
