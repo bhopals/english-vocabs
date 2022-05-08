@@ -866,6 +866,26 @@ Examples (All sentences are CORRECT)
 ### 32. "...Which Is What I Always Say..."
 
 - Dangling Whichs
+- Blame this common error on multitasking. People have so many things going on when they start a sentence on one topic
+  and finish it on totally different terrain.
+
+- EXAMPLE
+
+  - I just finished a pile of evaluations. So glad to has those off my desk, `which` reminds me that I am supposed
+    to call Amber and tell her that I can't keep our lunch date because I have a client conference call during the noon hour.
+    (What is WHICH? - did the desk remind him?)
+
+- `WHICH` has to be substituted for a specific NOUN in the sentence. It cannot refer to a general
+  concept behind hidden in the reader's mind.
+
+- Example
+
+  - I was planning to drive to Denver to visit my family last weekend, `which` is always a riot because
+    you will never know what will happen. (`Which` is always a riot - `Denver`? `The family`? `Weekends`?)
+
+- MEMORY TIP
+  - `Which` must stand for something, or readers will mistake them for everything.
+  - Always ensure to use `Specifi Noun` instead of generic `WHICH` to avoid the confusion.
 
 ### 33. Troublesome Twosomes
 
