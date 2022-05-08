@@ -961,6 +961,45 @@ EXAMPLES
 ### 36. She Did Things Differently
 
 - Adjectives Modifying Verbs - A No-No
+- ADVERBS tell more about VERBS, ADVERBS, ADJECTIVES, and sometimes the whole sentence
+- ADJECTIVES tell more about NOUNS and PRONOUNS
+
+- The common mix-ups happen when ADJECTIVES collide with VERBS. That is, people mistakenly use the ADJECTIVE form
+  of a word (leave off the `-ly`) when they need an adverb.
+
+- INCORRECT
+
+  - The product `sells` `quick` when the price is right.
+  - The manager `spoke` real `candid` about his ambitions for the future.
+  - Dilbert `organized` the proposal `brilliant` for his competitive situation.
+  - He `restructured` the department `careful` so as not to upset people.
+  - He `invested` his money `cautious`.
+
+- CORRECT
+
+  - The product `sells` `quickly` when the price is right.
+  - The manager `spoke` real `candidly` about his ambitions for the future.
+  - Dilbert `organized` the proposal `brilliantly` for his competitive situation.
+  - He `restructured` the department `carefully` so as not to upset people.
+  - He `invested` his money `cautiously`.
+
+- More Examples
+
+  - The manager is `candid`, but he speaks `candidly`.
+  - The proposal may be `brilliant`, but it's organized `brillaintly`.
+  - Pongo may have been `careful`, but he restructured `carefully`.
+
+- The difference comes down to what you are describing - the PERSON/THINGS (use Adjective) or the ACTION (use Adverb)
+- Add `-ly` on descriptors telling more about the VERB, and you will solve 95 percent of the adverb errors.
+
+- EXAMPLES (VERBS + ADVERB Combinations)
+
+  - Run Quickly, Approve knowingly, Engaged single-handedly, Negotiated confidently, Judged fairly
+  - Reported objectively, Chatted aimlessly, Pushed relentlessly, Managed faithfully
+  - Fired fearlessly, Hired enthusiastically, Scored triumphantly
+
+- MEMORY TIP
+  - If the descriptor refers to the action (VERB) rather than the PERSON/THING, add the `-ly`.
 
 ### 37. The Team played Real Good
 
