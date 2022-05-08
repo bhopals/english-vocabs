@@ -1243,12 +1243,38 @@ EXAMPLES
 ### 46. Time Marches On - But at the Same Pace
 
 - Don't be lax About Tense Changes
+- If you are taking about the `PRESENT` time frame, keep all the verbs in the `PRESENT TENSE`.
+- If you are taking about something that happened in the `PAST`, keep all the verbs in the `PAST TENSE`.
+
+- If you are talking about different time periods, by all means, you will need to switch tenses.
+
+- MEMORY TIP
+  - If you have reason to change tenses, do it. If not, don't.
 
 ## PART 6: PUNCTUATION PROBLEMS
 
 ### 47. Comma Hiccups
 
 - Unnecessary Commas
+
+- 1. Between Descriptive word and the noun it describes
+
+  - INCORRECT - She bought a few run-down, inexpensive, house to remodel.
+  - CORRECT - She bought a few run-down, inexpensive house to remodel.
+
+- 2. Between a Subject and a Verb
+
+  - INCORRECT - Growing the company through acquisitions, has been a challange.
+  - CORRECT - Growing the company through acquisitions has been a challange.
+
+- 3. Between Two Phrases joined by a Conjunction
+
+  - INCORRECT - Bruno was hired in August, but was fired almost immediately.
+  - CORRECT - Bruno was hired in August but was fired almost immediately.
+  - CORRECT - Bruno was hired in August, but he was fired almost immediately.
+
+- MEMORY TIP
+  - If you can't give a specific reason for a COMMA, don't cause a hiccup in the flow of thoughts.
 
 ### 48. Comma Clauses and Pauses
 

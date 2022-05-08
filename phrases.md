@@ -141,3 +141,4 @@ quite distant from the sitaution our partents were.
 - Could you drop that in chat real
 - Be considerate and put others first
 - We will be greatly appreciative
+- Not in my wildest dreams, could I ever imagine anyone as perfect as you are
