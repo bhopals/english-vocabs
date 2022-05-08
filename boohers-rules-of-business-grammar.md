@@ -891,9 +891,40 @@ Examples (All sentences are CORRECT)
 
 - One Word or Two?
 
+- Confusing word pairs
+  - `a lot` / `alot`
+  - `all right` / `allright`
+  - `all together` / `alltogether`
+  - `all ready` / `already`
+  - `any more` / `anymore`
+  - `any one` / `anyone`
+  - `any more`/ `anymore`
+  - `any way` / `anyway`
+  - `every day` / `everyday`
+  - `every one` / `everyone`
+  - `may be` / `maybe`
+  - `some time` / `sometime`
+
 ### 34. Learn This Backwards and Forewards
 
 - The Unnecessary - S
+
+- Save the extra -s on these directions.
+- INCORRECT - `backwards`, `towards`, `anyways` `anywheres`
+- CORRECT - `backward`, `toward`, `anyway`, `anywhere`
+
+EXAMPLES
+
+- INCORRECT
+  - The supervisor stepped `backwards` and fell from the platform.
+  - My boss believes that winning this contract does not matter `anyways` in the long-term relationship with this client.
+- CORRECT
+
+  - The supervisor stepped `backward` and fell from the platform.
+  - My boss believes that winning this contract does not matter `anyway` in the long-term relationship with this client.
+
+- MEMORY TIP
+  - The world has become too crowded for the extraneous - like extra - `s's`
 
 ### 35. A Honor or an Honor to Be Here?
 
