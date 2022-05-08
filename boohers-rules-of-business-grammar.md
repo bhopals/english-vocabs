@@ -759,6 +759,50 @@ Examples (All sentences are CORRECT)
 
 - Putting Them in Their Place
 
+- When modifiers land in the spot closest to what they describe the sentence informs and clarifies.
+- When modifiers land out of place, the sentence can confuse or amuse readers.
+
+- EXAMPLES
+
+  - INCORRECT - `At the age of 100`, `Kilpatrick` has been begging his dad to give up driving the car.
+    (The situation has to be public safety hazard. If Kilpatrick is 100, his dad certainly has to be approaching
+    120, with failing eyesight and slow reflexes)
+  - CORRECT - Kilpatrick has been begging `his dad`, `at the age of 100`, to give up driving his car.
+
+  - INCORRECT - `Injected directly into the lips`, `the doctor` can strengthen the facial muscles with his medication.
+    (The doctor was injected into the lips? A close bedside manner, don't you think)
+  - CORRECT - `Injected directly into the lips`, `his medication` can strengthen the facial muscles.
+
+  - INCORRECT - `Mislabeled and misfiled`, `the executives` had not read the report.
+    (Were the executives mislabeled and misfiled)
+  - CORRECT - The executives had not read `the mislabeled and misfiled` `report`.
+
+  - INCORRECT - Harrison attended the meeting, where he planned to announce `the merger` `with misgivings`.
+    (Did the merger have misgivings)
+  - CORRECT - `With misgivings`, `Harison` attended the meeting, where he planned to announce the merger.
+
+- Misplaced adverbs are common culprits. They got dropped in before the verb when they should go after it - or after
+  when they should go before it. Moving one word around can make a big difference. The single-word adverb modifiers
+  most frequently misplaced are these - `almost`, `only`, `definitely`, `often`, and `completely`
+
+- EXAMPLES
+
+  - Trixy `ONLY` `leased this car` for her company's sales team. (She only leased the car - she didn't buy it.)
+  - Trixy leased `ONLY` `this car` for her company's sales team. (She leased only one car.)
+  - Trixy leased this car `ONLY` `for her company's sales team`. (Only the sales team can use it)
+  - Trixy leased this car for her `ONLY` `company's sales team`. (She has only one company)
+  - Trixy leased this car for her company's `ONLY` `sales team`. (That sales team had better be good - as its only team that has car)
+
+- MY POINT
+
+  - Slide the adverb around, and double-check your meaning.
+  - EXAMPLES
+    - This suit ONLY costs $368 today.
+    - This suit costs ONLY $368 today.
+
+- MEMORY TIP
+  - Modifiers can be mystify. Remember to them in their place!
+
 ### 31. Can You Hook Me Up?
 
 - Dangling Modifiers
