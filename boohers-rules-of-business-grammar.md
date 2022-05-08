@@ -1126,3 +1126,27 @@ EXAMPLES
 ### 42. I Like Smaller Cars
 
 - Incomplete Comparisons
+
+- INCORRECT - Daffy likes the Midwest better. (Better than which Area?)
+- CORRECT - Daffy likes the Midwest better than the South.
+
+- INCORRECT - This is a longer report (Longer than what? longer than someone else send/wrote?)
+- CORRECT - This report is longer than what I expected.
+
+- INCORRECT - May's sales are higher than April.(Really? Is May and April are Girls?)
+- CORRECT - Sales in May are higher than the sales were in April.
+
+- INCORRECT - Few months, I have been interviewing general contractors about a new office building, and I have finally found
+  someone who seems more dependable and trustworthy. (Than who?)
+- CORRECT - Few months, I have been interviewing general contractors about a new office building, and I have finally found
+  someone who seems more dependable and trustworthy than the contractor who built my last office complex.
+
+- INCORRECT - Mortimer saw Eldora give a presentation last week; he said she had much more confidence (Than what or who?)
+- CORRECT - Mortimer saw Eldora give a presentation last week; he said she had much more confidence than previously.
+
+- INCORRECT - Fourth-quarter sales are higher than the third-quarter.
+- CORRECT - Fourth-quarter sales are higher than the third-quarter sales.
+
+- MEMORY TIP
+- Imagine the listener or reader raising an eyebrow and asking:
+  - As compared to what? As compared to who? As compared to when?
