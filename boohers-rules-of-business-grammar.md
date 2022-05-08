@@ -929,3 +929,13 @@ EXAMPLES
 ### 35. A Honor or an Honor to Be Here?
 
 - The ARTICLES - A or AN
+- Articles of Incorporation. Articles of Agreement. Articles of Faith.
+- Articles POINT out nouns using - `the`, `a`, `an`
+
+- `a` - Use `a` before words that begin with a consonant.
+- `an` - Use `an` before words that begin with a vowel or vowel sound.
+
+- Examples
+  - Dilbert hired `a` turkey for an assistant.
+  - Wilmo considers it `an` honor to speak to an artisan of your clibar.
+    (The `h` is silent, so the word begins with a VOWEL Sound, hence `an` is used)
