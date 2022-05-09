@@ -277,7 +277,7 @@
 
 https://www.youtube.com/watch?v=nkQ7lwEWeGA (01:25:20)
 
-- INTONATION PATTERNS
+- INTONATION PATTERNS to FOLLOW
 
   - 1. Statements: Jump up, step down
   - 2. WH questions: Down at the end
