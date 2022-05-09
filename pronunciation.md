@@ -255,3 +255,53 @@
   - Sentimental ==> S`e`"nt"`i`m`e`"nt"`a`l ==> Sen(t)imen(t)al ==> Senimenal
   - How on earth you can get to the international airport in an hour.
     - How on earth can you geto the inernationalairportinan hour.
+
+### W Sounds
+
+- Refer - https://www.youtube.com/watch?v=tGBCbXNQ8k0
+- Voiced (Vibration Sound)
+- Bite the lower lip and make sound with vibration
+- Examples
+  - `V`ent, `V`ery, `V`et, Lo`v`e, Sha`v`e - Vibration with biting lower lip
+  - over, remove, vacancy, valid, van, ventilator, venue, very
+
+### V Sounds
+
+- Refer - https://www.youtube.com/watch?v=tGBCbXNQ8k0
+- Unvoiced
+- Round your lips like you are kissing someone
+- Example
+  - `W`ent, Wary, `W`et, `L`ow, `S`how - (Dont forget to round your lips )
+
+### More Suprasegmental Features
+
+https://www.youtube.com/watch?v=nkQ7lwEWeGA (01:25:20)
+
+- INTONATION PATTERNS
+
+  - 1. Statements: Jump up, step down
+  - 2. WH questions: Down at the end
+  - 3. Yes/No Questions: Up at the end
+
+- How important are these elements for being understood?
+
+  - Suprasegmental Features (70%)
+
+    - syllables
+    - word stress
+    - basic sentence stress
+    - prominence
+    - thought groups
+    - intonation patterns
+
+  - Segmental Features (30%)
+
+    - individual sounds
+    - sounds cluster
+    - linkin, blending
+
+- To Improve Your Accent
+
+  - Study Courses
+  - Focus on developing your listening skills
+  - Try to slow down, and pause between thought groups
