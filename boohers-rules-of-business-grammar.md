@@ -1464,6 +1464,18 @@ EXAMPLES
 
 - Unintentional Fragments
 
+- Fragment is an INCOMPLETE SENTENCE
+- If you a particular long group of words and you can't tell whether it's a sentence, try to add a tag question on the end.
+  If that doesn't word the you don't have a Sentence (It is indeed a FRAGMENT)
+
+- EXAMPLE
+
+  - When the auditors finish reviewing the security procedures this week, they will write and submit a formal report, `won't they?`
+    (A Tag question added to the end makes sense - This is a COMPLETE SENTENCE)
+
+  - When the auditors finish reviewing the security procedures this week, aren't they? (don't they? can't they?)
+    ( A Tag question added to the end makes no sense, so this is NOT A SENTENCE - It is a FRAGMENT)
+
 ### 57. Would You Send Me Your Address Please
 
 - Indirect Questions and Softened Commands
