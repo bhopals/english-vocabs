@@ -1425,6 +1425,40 @@ EXAMPLES
 ### 55. Colon Scope - Here's the scope
 
 - Colons Before a List
+- Colon introduces a SERIES or a list that Follows. The list may be either a Formal List of items or an informal list of words/phrases.
+
+- Here is a COMMON MISTAKE: Putting a COLON after a VERB or an OBJECT OF PREPOSITION.
+  Instead, the part before the colon must be able to stand alone as a complete thought.
+
+- INCORRECT
+
+  - Please mail me: a travel pillow, steamer, suit, and shoes.
+
+- CORRECT
+
+  - Please mail me a travel pillow, steamer, suit, and shoes.
+  - Please mail me these items: a travel pillow, steamer, suit, and shoes.
+
+- INCORRECT
+
+  - Company officers include: Snuffy Smith, Bako Patel, and Amery Barrow.
+
+- CORRECT
+
+  - Company officers include Snuffy Smith, Bako Patel, and Amery Barrow.
+  - Company officers include these individuals: Snuffy Smith, Bako Patel, and Amery Barrow.
+
+- INCORRECT
+
+  - We are planning to open factories in: Kuala Lumpur, Bangkok, Sydney, and Caracas
+
+- CORRECT
+
+  - We are planning to open factories in Kuala Lumpur, Bangkok, Sydney, and Caracas
+  - We are planning to open factories in these cities: Kuala Lumpur, Bangkok, Sydney, and Caracas
+
+- MEMORY TIP
+  - The words before a COLON must be able to stand alone as a COMPLETE Sentence.
 
 ### 56. Fragmented Thoughts
 
