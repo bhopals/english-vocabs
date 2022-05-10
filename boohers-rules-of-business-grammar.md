@@ -1622,18 +1622,110 @@ EXAMPLES
 ### 64. Why Are You So Possessive?
 
 - Plurals Confused With Possessives
+- Plurals and Possessives both are different things, and usage of them interchangeably is quite a common mistake.
+
+- INCORRECT
+
+  - We have six `supplier's` involved in this project.
+  - `Employee's` frequently forget their badges.
+  - Company `official's` do not approve of these practices.
+
+- CORRECT
+
+  - We have six `suppliers` involved in this project.
+  - `Employees` frequently forget their badges.
+  - Company `officials` do not approve of these practices.
+
+- One Exception: Apostrophes can be used to show Plurals of letters and numerals:
+
+  - Examples
+    - She earned four `A's` this semester.
+    - Pongo ordered several `267CV's` as spare part of the system.
+
+- MEMORY TIP
+  - Plural and Possessives have nothing in common but the LETTER `P`
 
 ### 65. Your, Mine, and Ours
 
 - Joint Ownership - Who Gets the Apostrophe
+- When you have Multiple Owners, who gets the apostrophe?
+
+  - Perry and Werry's home (They share the same home)
+  - Perry's and Werry's homes (They each have a home)
+
+- Remember too, that you can also show the ownership by flipping the phrase and using the word `of`
+
+  - This is the home of Perry and Werry.
+
+- When the two owners are Pronouns, place the noun between them:
+
+  - `Your` or `my` house (INCORRECT)
+  - `My` house (NOUN) or your (CORRECT)
+  - I reviewed `yours` and `Horito`'s emails before the meeting (INCORRECT)
+  - I reviewed `Horito`'s emails (NOUN) and `yours` before the meeting (CORRECT)
+  - `Horatio` and `I's` suggestion would save the company almost $2 million.
+  - `Horatio` sugestion (NOUN) and `mine` would save the company almost $2 million.
+
+- MEMORY TIP
+  - If two people share ownership, they also have to share the apostrophe.
+  - If two owners or even one Owner is pronoun, remember to PLACE a noun between them.
 
 ### 66. Do You Love Me - Or What I Can Do for You?
 
 - Possessive Before Gerunds
 
+- What do these Sentences have in Common? (All three are INCORRECT)
+  - Do you mind `me` smoking?
+  - Our city ordinance restricts `him` driving while talking on a cell phone.
+  - I heard `him` sneezing.
+- CORRECT Form
+
+  - Do you mind `my` smoking?
+  - Our city ordinance restricts `his` driving while talking on a cell phone.
+  - I heard `his` sneezing.
+
+- Here is why? - the `-ing` word or phrase (verb plus `-ing`) that follows is playing the role of a NOUN (Person, Place
+  Thing, or Idea), not a Descriptive Word. The grammatical Term for this construction is a GERUND:
+
+  - A VERB ending with `-ing` serving as noun.
+
+- If you substitute another NOUN for the `-ing` words in the previous sentences, you will see the point quickly.
+
+  - Do you mind `me` accent? (Strange eh?)
+  - Do you mind `my` accent? (Correct - Easy to Understand)
+
+  - Our city ordinance restricts `him` gun. (Strong eh?)
+  - Our city ordinance restricts `his` gun. (Correct - Easy to Understand)
+
+  - I heard `him` outburst. (Strong eh?)
+  - I heard `his` sneezing. (Correct - Easy to Understand)
+
+- MEMORY TIP
+  - Use Possessive before NOUN (Mostly)
+
 ### 67. It's About Time
 
-- Possessive With Time and Amounts
+- Possessive With TIME and AMOUNTS
+
+- INCORRECT
+
+  - Have ten `years` experience in ...
+  - Worked at Universal, where I led sales team to sell $40 million `worth` of Product X ...
+  - Was awarded the Most valuable team member for the outstanding `third-quarter` production of the wing design ...
+
+- CORRECT
+
+  - Have ten `years'` experience in ...
+  - Have ten `years` of experience in ...
+  - Worked at Universal, where I led sales team to sell $40 million of Product X ...
+  - Was awarded the Most valuable team member for the outstanding `third-quarter's` production of the wing design ...
+
+- In English, we make certain expressions of TIME and MONEY possessive. So such phrases need either an `apostrophe` or
+  the word `of` the show that ownership
+
+- MEMORY TIP
+  - People are Possessive of their TIME, MONEY, and EXPERIENCE. Use APOSTROPHES to express ownership or duration
+    of time in that same sense.
 
 ### 68. Overly Possessive
 

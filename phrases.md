@@ -149,3 +149,11 @@ quite distant from the sitaution our partents were.
 - On Thrusday, I am running laps around the lake
 - On Saturday, I have planned a bicylce ride to town
 - I want to reach my fitness goals
+
+### 10 May
+
+- Pluralistic society
+  - To say we a Pluralistic Society means that we have many interests, stemming from different backgrounds.
+  - We live in Pluralistic Society
+  - India is a pluralistic society, where people of different backgrounds (religion, caste, culture, language, ethnicity)
+    live side by side.
