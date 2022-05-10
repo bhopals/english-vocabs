@@ -1358,13 +1358,69 @@ EXAMPLES
 
 - RUN-ONS - Semicolons Slip-Sliding Away
 
+- INCORRECT
+
+  - She loves her job however she's going to resign.
+  - Ebeneezer outlined his goals for the new year, they seem very realistic and doable for the time frame.
+  - Ziggy has asked for a reduced work schedule she wants to work more than 30 hours a week.
+  - Pongo has exceeded his budget, therefore, the remainder of his plans will beed to be put on hold until next year.
+
+- INCORRECT
+
+  - She loves her job; however, she's going to resign.
+  - She loves her job. However, she's going to resign.
+  - Ebeneezer outlined his goals for the new year; they seem very realistic and doable for the time frame.
+  - Ebeneezer outlined his goals for the new year. They seem very realistic and doable for the time frame.
+  - Ziggy has asked for a reduced work schedule; she wants to work more than 30 hours a week.
+  - Ziggy has asked for a reduced work schedule. She wants to work more than 30 hours a week.
+  - Pongo has exceeded his budget; therefore, the remainder of his plans will beed to be put on hold until next year.
+  - Pongo has exceeded his budget. Therefore, the remainder of his plans will beed to be put on hold until next year.
+
+- When two Separate thoughts are joined by connective adverbs like `however`, `therefore`, `thus`, `hence`, `moreover`,
+  `consequently`, and `subsequently`, a Comma doesn't have the strength to hold them apart. You need to put Semicolons or Full stop
+  to separate these thoughts
+
+- MEMORY TIP
+  - visualize this error as as train wreck. Two separate trains of thought crash into each other
+
 ### 53. One Car, Two Cars, Three Cars, Four
 
 - Commas to Separate Equal Things
 
+- Every time you write a complete thought (an independent clause - a group of words with a subject
+  and a verb that stands alone), you have a choice of punctuation.
+
+  - 1. End with a PERIOD.
+  - 2. End with a SEMICOLON followed by another closely related complete thought.
+  - 3. End with a COMMA and one of seven linking words, before joining another closely related complete thought.
+
+- If you select OPTION 3, here are the seven linking words: `and`, `but`, `or`, `so`, `nor`, `for`, `yet` - (FANBOYS)
+- When joining Independent Items with one of those seven linking words, separate them with COMMA.
+
+- MEMORY TIP
+  - The COMMA serves the same function between the flow of equal, independent items in a series or sentence.
+
 ### 54. The Alpha and the Omega
 
 - Enclosing Commas Come in Paris
+- The ENCLOSING COMMAS set off non-essential information from the rest of the sentence.
+
+- INCORRECT
+
+  - Lancelot, my brother who lives in Ohio came to visit for the holidays.
+  - The client called Friday, March 21 about the contract.
+  - The client asked about prices expecting them to be much higher than last year, but they were pleased to learn that we
+    have not had an increase. (The first enclosing comma is missing)
+
+- CORRECT
+
+  - Lancelot, my brother who lives in Ohio, came to visit for the holidays.
+  - The client called Friday, March 21, about the contract.
+  - The client asked about prices, expecting them to be much higher than last year, but they were pleased to learn that we
+    have not had an increase. (The first enclosing comma is missing)
+
+- MEMORY TIP
+  - Relate enclosing Commas to bookends or parentheses. Use them as a Set.
 
 ### 55. Colon Scope - Here's the scope
 
