@@ -1756,3 +1756,33 @@ EXAMPLES
 - MEMORY TIP
   - Is the Noun DESCRIPTIVE or POSSESSIVE? If somebody owns or controls something, use the Possessive Form.
   - If the word merely DESCRIBES Something, Don't use the Possessive Form
+
+## PART 8: REMINDERS ABOUT REDUNDANCIES
+
+### 69. Past Experience - Is There Any Other Kind?
+
+- Little-Word Padding and Redundant Ideas
+
+### 70. Continue On
+
+- Redundant Verb Add-Ons
+
+### 71. A Subject Matter Worth Discussion
+
+- Redundant Nouns
+
+### 72. "The Reason Is Because"
+
+- Double Speak
+
+### 73. Going to Bat for Thats
+
+- Do You Need the That?
+
+### 74. I Get Your Point - But Do You Get Mine?
+
+- Et Cetera and So Forth
+
+### 75. "Where's He At?"
+
+- Unnecessary perpositions
