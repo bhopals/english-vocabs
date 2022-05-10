@@ -1480,13 +1480,62 @@ EXAMPLES
 
 - Indirect Questions and Softened Commands
 
+- RULES
+
+  - 1. Use a QUESTION mark with a DIRECT QUESTION.
+    - Example
+      - Do you have enought staff to meet the deadline?
+  - 2. Use a PERIOD with an INDIRECT QUESTION.
+
+    - Example
+      - The client wondered whether Max could handle that high-pressure culture.
+
+  - 3. Use a PERIOD with a Softened directive phrased as a question.
+    - Examples
+      - Will you please close my account, effective today.
+      - Will someone please give me a call if you need more forms.
+
 ### 58. Can You Hear Me Now?
 
 - Indirect Quotations
 
+- INCORRECT
+
+  - Trixy says that she "hates her job and plans to resign at the end of the year whether she has another job offer or not".
+
+- CORRECT
+
+  - Trixy says that "I hates my job and I am resigning at the end of the year whether I have another job offer or not".
+    (These were Trixy's exact words)
+
+- REMEMBER
+  - If you are going to write someone's actual words, DO PUT them in quotation marks.(Trixy Example)
+  - If you are just going to summarizing, DON'T PUT them in quotation marks
+
 ### 59. Inside or Outside?
 
 - Where, Oh Where, Do the Quotation Marks Go?
+
+- When PERIODS, COMMAS, COLONS, SEMICOLONS, and QUESTION MARKS fall next to Quotation Marks, you treat them differently.
+- 1.  `Periods` and `Commas` always go `INSIDE` quotation marks - regardless of the meaning.
+- 2.  `Semicolons` and `Colons` always go `OUTSIDE` quotation marks - regardless the meaning.
+- 3.  `Question Marks` and `Exclamation marks` can go INSIDE and OUTSIDE quotation marks - depending on the meaning.
+
+- EXAMPLES
+
+  - He hates signing "contracts."
+  - If the ad says "standard accomodations," be wary.
+  - Dilbert dislikes auditors trained in "best practices"; those "best practices" seems to be working for him.
+  - The brouchers says "Why go elsewhere for the best meal in town?"
+  - Is the real estate investing primarily about "location, location, location"?
+
+- Also, as a side note here, NEVER use double punctuation. When two punctuation marks fall at the same place,
+  use the STRONGER MARK.
+
+  - INCORRECT
+    - Spike yelled "I have the winning ticket!," but the emcee did not hear him.
+  - CORRECT
+    - Spike yelled "I have the winning ticket!" but the emcee did not hear him.
 
 ### 60. Ripley's Believe It or Not
 
