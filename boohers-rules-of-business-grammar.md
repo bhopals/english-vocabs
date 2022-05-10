@@ -1541,6 +1541,17 @@ EXAMPLES
 
 - Quotation Marks to Change the Tone or the Meaning
 
+- MEMORY TIP
+  - Consider some quotation marks ("") as winks. They change the meaning or tone of the actual word.
+  - Example
+    - They are just "friends".
+
 ### 61. Spare Tires
 
 - Single Quotation Marks
+
+- Usually you use Double Quotation Marks.
+- Single Quotation Marks are CORRECT only when they are INSIDE DOUBLE Quotation Marks
+
+- MEMORY TIP
+  - Use Single quotaion marks as you would spare tires - When the double quotation marks are UNAVAILABLE (Already in USE)
