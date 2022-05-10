@@ -1354,6 +1354,42 @@ EXAMPLES
   - In the first few months of the product launch, the sales people seem more highly motivated to call
     on inactive accounts than they do later in the campaign.
 
-### Punctuation Powerless
+### 52. Punctuation Powerless
 
 - RUN-ONS - Semicolons Slip-Sliding Away
+
+### 53. One Car, Two Cars, Three Cars, Four
+
+- Commas to Separate Equal Things
+
+### 54. The Alpha and the Omega
+
+- Enclosing Commas Come in Paris
+
+### 55. Colon Scope - Here's the scope
+
+- Colons Before a List
+
+### 56. Fragmented Thoughts
+
+- Unintentional Fragments
+
+### 57. Would You Send Me Your Address Please
+
+- Indirect Questions and Softened Commands
+
+### 58. Can You Hear Me Now?
+
+- Indirect Quotations
+
+### 59. Inside or Outside?
+
+- Where, Oh Where, Do the Quotation Marks Go?
+
+### 60. Ripley's Believe It or Not
+
+- Quotation Marks to Change the Tone or the Meaning
+
+### 61. Spare Tires
+
+- Single Quotation Marks
