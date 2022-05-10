@@ -1558,13 +1558,66 @@ EXAMPLES
 
 ## PART 7: PERPLEXING POSSESSIVES
 
+- cop's car
+- boss's front gate
+- children's bedroom
+- bosses' laptops
+- company's trade secrets
+- James Potts's
+
 ### 62. Whatever Possesed Me!
 
 - It's Versus Its
 
+- Apostrophes(') show ownership with NOUNS: `Jake's` Desk, `Ziggy's` Job
+- But PRONOUNS already have possessive forms without apostrophes:
+
+  - `his`, `her`, `hers`, `your`, `yours`, `my`, `mine`, `our`, `ours`, `their`, `theirs`, `whose`, `its`.
+
+- INCORRECT
+
+  - `their's`, `ours'`, `your's`, `hers'`, `his'`
+
+- INCORRECT
+
+  - The building was damaged; `it's` roof was leaking after the rain.
+
+- CORRECT
+  - The building was damaged; `its` roof was leaking after the rain.
+- When you are Confused between the two choices, substitute `it is`, and see if that makes sense.
+
+  - EXAMPLES
+    - It's tires are damaged.(Substitute `it's` with `It is` => IT is tires are damaged - DOESN'T Make any Sense - INCORRECT)
+    - Its tires are damaged. (Correct)
+
+- If the Substitution does not work, you're showing ownership and need no apostrophe - `his`, `hers`, `theirs`, `yours`, `ours`
+
+- MEMORY TIP
+  - Substitute `it is` in the sentence. If the Substitution works, use `it's`
+
 ### 63. Who's on First?
 
 - Whose versus Who's
+
+- These PRONOUNS are already POSSESSIVES without apostrophes:
+
+  - `his`, `her`, `hers`, `yours`, `your`, `my`, `mine`, `our`, `ours`, `their`, `theirs`, `whose`, `its`
+
+- The PRONOUN `Whose` shows Ownership: `Whose workbook is lying in the training room?`
+- `Who's` on the other hand, is a Contraction of `who is`.
+
+- INCORRECT
+
+  - Who's building is located across the freeway?
+  - Whose going to the seminar on Friday?
+
+- CORRECT
+
+  - Whose building is located across the freeway?
+  - Who's (who is) going to the seminar on Friday?
+
+- MEMORY TIP
+  - Substitute `who is` in the sentence. If the substitution works, use `who's`
 
 ### 64. Why Are You So Possessive?
 
