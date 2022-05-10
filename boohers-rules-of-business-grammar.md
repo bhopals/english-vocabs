@@ -1555,3 +1555,33 @@ EXAMPLES
 
 - MEMORY TIP
   - Use Single quotaion marks as you would spare tires - When the double quotation marks are UNAVAILABLE (Already in USE)
+
+## PART 7: PERPLEXING POSSESSIVES
+
+### 62. Whatever Possesed Me!
+
+- It's Versus Its
+
+### 63. Who's on First?
+
+- Whose versus Who's
+
+### 64. Why Are You So Possessive?
+
+- Plurals Confused With Possessives
+
+### 65. Your, Mine, and Ours
+
+- Joint Ownership - Who Gets the Apostrophe
+
+### 66. Do You Love Me - Or What I Can Do for You?
+
+- Possessive Before Gerunds
+
+### 67. It's About Time
+
+- Possessive With Time and Amounts
+
+### 68. Overly Possessive
+
+- Descriptive or Possessive?
