@@ -1730,3 +1730,29 @@ EXAMPLES
 ### 68. Overly Possessive
 
 - Descriptive or Possessive?
+
+- Should you use the possessive form in the situation like the following?
+
+  - `I have a copy of Universal's contract`.
+  - OR `I have a copy of Universal contract.`
+
+  - `Should we interrupt the attorneys' meething?`
+  - OR `Should we interrupt the attorneys meething?`
+
+- Actually you cannot go wrong here. Either is CORRECT - But with the due diligence.
+
+- Let's take on the lawyers first. The possessive form (with the apostrophe) means that the meeting belongs to the attorneys.
+  They arranged it; they control it; it's their sond and dance to do with as the please.
+
+- Without the apostrophe, this is a meeting of attorneys. For all we know, like a regular meetings with judge and other people.
+
+- Now about the Universal Contract: the possessive form (with apostrophe) means that Universal owns the contract - Unversal
+  originated the contract terms and the offer.
+
+- Without the apostrophe, Universal simply describes the contract. The writer is referring to the Universal contract.
+
+- Apostrophe may be a Small Marks, but they carry BIG MEANING.
+
+- MEMORY TIP
+  - Is the Noun DESCRIPTIVE or POSSESSIVE? If somebody owns or controls something, use the Possessive Form.
+  - If the word merely DESCRIBES Something, Don't use the Possessive Form
