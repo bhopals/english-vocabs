@@ -2408,6 +2408,22 @@ EXAMPLES
 
 - Hyphenate? Solid? Two Words?
 
+- Nouns are written as either a solid or a hypenated compound
+- Verbs are written as two words
+- Two related adjectives before a noun are hypenated.
+
+- Examples
+
+  - Pongo asked for client `follow-up` after the meeting (noun)
+  - Give me a `break-down` on the cost (noun)
+  - Please `break down` the costs for travel by individual (verb)
+  - The `break-dow`n instructions for the trade-show booth are sketchy (adjective)
+  - The `step-up` plan for payment seems reasonable.(adjective)
+  - Why don't you `step up` your efforts to close the deal (verb)
+
+- MEMORY TIP
+  - Think of the Movie: Ask yourself what role (NOUN, VERB, ADJECTIVE) the words play in the sentence. Then hypenate accordingly.
+
 ### 96. I Resemble That Remark
 
 - Affect Versus Effect
