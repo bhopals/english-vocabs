@@ -2194,10 +2194,10 @@ EXAMPLES
 
 - These pair should be used to join:
 
-  - Two verbs
-  - Two nouns,
-  - Two clauses,
-  - Two describing words (adjectives)
+  - Two VERBS
+  - Two NOUNS,
+  - Two CLAUSES,
+  - Two describing WORDS (ADJECTIVES)
 
 - INCORRECT
 - We can `either` "buy the house" `or` "the yatch" with the inheritance.
@@ -2205,10 +2205,10 @@ EXAMPLES
 - `Not only` "she is intelligent", "she's well liked".
 
 - CORRECT
+
   - We can buy `either` "the house" `or` "the yatch" with the inheritance.
   - They own `neither` "a Lexus" `or` "a BMW".
   - `Not only` "is she intelligent", `but also` "she is well liked".
-
 
 - MEMORY TIP
   - Visualize these links as handcuffs around matching `body parts` of the sentence like skeleton.
@@ -2216,6 +2216,17 @@ EXAMPLES
 ### 85. Up a Tree Without a Paddle
 
 - Mixed Metaphors
+
+- Examples
+
+  - If you work here, you have to learn to swim with sharks, or you will be taking enemy fire before you know it.
+    (Are the swimming or fighting a war? - Dont take it literrally - These are metaphors only)
+  - Our executives always run the ball themselves rather than pass it to staff.
+    (Are they playing football - Nopes, It was just a metaphor)
+
+- MEMORY TIP
+  - RULE 1 (In Any Sport) - Keep your head in the game until the final whistle.
+  - RULE 2 (With any Comparison) - Keep your metaphors in mind until you finish your thought
 
 ### 86. As Much or More Than Most
 

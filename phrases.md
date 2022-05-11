@@ -176,4 +176,8 @@ quite distant from the sitaution our partents were.
     - The new legislation is intended to stamp out child prostitution.
 - outsize sense of importance
 - Incoherent - (in-co-her-ent) - unclear, confused, unintelligentable, incomprehensible
+
   - He has gone incoherent
+
+- Keep your head in the game until the final whistle.
+- Keep your metaphors in mind until you finish your thought.
