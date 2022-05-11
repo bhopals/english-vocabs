@@ -2039,3 +2039,111 @@ EXAMPLES
 
 - MEMORY TIP
   - The Prepositions are unnecessary sometimes, and can be omitted.
+
+## PART 9: MISCELLANEOUS MATTERS
+
+### 76. Oh, Say Can you See?
+
+- Mispronunciation
+
+### 77. What Are the Odds to Start?
+
+- Starting a Sentence with a Number
+
+### 78. Nonsense
+
+- Nonwords, Fillers, and Colloquialisms
+
+### 79. "You Should of Known Better!"
+
+- Contractions That Aren't
+
+### 80. Got Trouble?
+
+- Have versus Got?
+
+### 81. Make a Dash for It
+
+- Distinct Uses for Hypens and Dashes
+
+### 82. Dash Away, Dash Away, Dash Away All
+
+- Dashes Versus Well-Organized Sentences
+
+### 83. No Death Knell for the Hypens
+
+- Hypens Before Related Adjectives
+
+### 84. Matching Body Parts
+
+- Correlative Links
+
+### 85. Up a Tree Without a Paddle
+
+- Mixed Metaphors
+
+### 86. As Much or More Than Most
+
+- Prepacked Comparisons
+
+### 87. Doing the Splits
+
+- Split Infinitives
+
+### 88. Without Just Cause
+
+- Without: What It Can and Can't Do
+
+### 89. Getting Top Billing
+
+- Phrasal Prepositions
+
+### 90. A Branding Issue
+
+- Capitalization Rules for the Road
+
+### 91. Name, Rank, and Serial Number
+
+- Capitalization With Titles and Positions
+
+### 92. Undercapitalized With No Regrets
+
+- The Case for Lowercase
+
+## PART 10: MISSPELLED AND MISUSED WORDS
+
+### 93. Would You Spell That for Me?
+
+- Frequently Misspelled Words?
+
+### 94. May I See Your REferences, Please?
+
+- Spelling Rules for Plural Forms
+
+### 95. Messing With My Head
+
+- Hyphenate? Solid? Two Words?
+
+### 96. I Resemble That Remark
+
+- Affect Versus Effect
+
+### 97. Do I Have Your Guarantee
+
+- Ensure, Insure, Assure?
+
+### 98. It's a Matter Of Principle
+
+- Principle Versus Principal
+
+### 99. A Good Example
+
+- e.g. Versus i.e.
+
+### 100. How Are You?
+
+- Nauseated Versus Nauseous
+
+### 101. Is Success Imminent?
+
+- Emminent Versus Imminent
