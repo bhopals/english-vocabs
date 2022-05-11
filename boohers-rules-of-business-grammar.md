@@ -1891,6 +1891,50 @@ EXAMPLES
 ### 70. Continue On
 
 - Redundant Verb Add-Ons
+- Another rung in the redundancy rundown involves tagging unnecessary word onto a verb - a word whose meaning
+  has already been captured in the verb itself.
+
+  - Example
+    - `continue on` - Continue itself means `to go on` or `to move ahead` so to say `continue on` states
+      the last word twice: `to go on on`
+    - `follow up on` - Why not just `follow` - `I am going to follow these stocks`
+
+- Take a look at following list for a few other such verb add-ons
+
+  - continue on
+  - refer back to
+  - consolidated together
+  - grouped together
+  - joined together
+  - open up
+  - cancel out
+  - delete out
+  - circulate aroung
+  - first began
+  - connect together
+  - combined together
+  - attach together
+  - add together
+  - link together
+  - add up
+  - try out
+  - plan ahead
+  - repeat again
+  - finish up
+  - distribute out
+  - send out
+  - continue to remain
+  - still remain
+  - still continue
+  - still persist
+  - start out
+  - balance against each other
+  - follow on
+  - follow up
+
+- MEMORY TIP
+- Visualize a collapsible drinking cup for travellers. The meaning of the second word has already been collapsed into
+  (incorporated in) the prior word.
 
 ### 71. A Subject Matter Worth Discussion
 
