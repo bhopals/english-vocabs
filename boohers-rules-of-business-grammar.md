@@ -2066,6 +2066,34 @@ EXAMPLES
 
 - Starting a Sentence with a Number
 
+- INCORRECT
+
+  - $45 is due on our invoice.
+
+- CORRECT
+
+  - Our invoice shows $45 due.
+
+- INCORRECT
+
+  - 320 employees participated in the survey.
+
+- CORRECT
+
+  - We have had 320 employees participate in the survey.
+  - The survey included 320 emloyee responses.
+
+- CORRECT but Looks ODD:
+
+  - Forty-six percent voted last year; only 36 percent voted this year.
+
+- BETTER
+
+  - Last year, 46 percent voted; this year, only 36 percent voted.
+
+- MEMORY TIP
+  - Do not start sentences with numbers. Why not? Decimals and periods are indistuinguishable dots.
+
 ### 78. Nonsense
 
 - Nonwords, Fillers, and Colloquialisms
