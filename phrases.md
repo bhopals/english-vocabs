@@ -175,3 +175,5 @@ quite distant from the sitaution our partents were.
     - He stamped out the flames before they could grow.
     - The new legislation is intended to stamp out child prostitution.
 - outsize sense of importance
+- Incoherent - (in-co-her-ent) - unclear, confused, unintelligentable, incomprehensible
+  - He has gone incoherent

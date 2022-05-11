@@ -2106,6 +2106,25 @@ EXAMPLES
 
 - Have versus Got?
 
+- Do you `have` trouble, or have you `got` trouble.
+- Replace `got` with `have` or `has` in situations when you mean having in possession.
+- If you mean `gotten` in the sense that someone has received or acquired something, then by all means, grab it and go with.
+
+- EXAMPLES
+
+  - CLUMBSY - Dilbert has `got` four engineers on his redesign team. (in possession)
+  - IMPROVED - Dilbert `has` four engineers on his redesign team.
+  - CLUMBSY - Ebeneezer has `got` money to spend for his vacation. (in possession)
+  - IMPROVED - Ebeneezer `has` money to spend for his vacation.
+  - CLUMBSY - Hortense has `got` a big decision to make this week.
+  - IMPROVED - Hortense `has` a big decision to make this week.
+  - CLUMBSY - I have `gotten` four complaints this month.
+  - IMPROVED - I have `received` four complaints this month.
+
+- MEMORY TIP
+  - Think of baseball: the center fielder sees a fly ball coming toward him and yells, `I've got it!` as he lunges
+    to make the catch. (He's acquiring the ball.) Once it's in his glove, he `has` it.
+
 ### 81. Make a Dash for It
 
 - Distinct Uses for Hypens and Dashes
