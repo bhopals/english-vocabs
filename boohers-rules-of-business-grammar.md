@@ -2000,12 +2000,42 @@ EXAMPLES
 
 ### 73. Going to Bat for Thats
 
-- Do You Need the That?
+- Do You Need the `That`?
+
+- INCORRECT
+
+  - The consultant warned us Thrusday sales leads might drop.
+    (Did the consultant warned them on Thrusday? OR was the consultant's warning about Thrusday sales leads?)
+
+- CORRECT
+
+  - The consultant warned us `that` Thrusday sales lead might drop.
+  - The consultant warned us Thrusday `that` sales lead might drop.
+
+- CONCLUSION
+  - You have choices about `that`.
+    - If clarity isn't an Issue, `that` CLUTTERS
+    - If you need `that` for CLARITY, by all means, USE it.
 
 ### 74. I Get Your Point - But Do You Get Mine?
 
 - Et Cetera and So Forth
 
+- `et cetera`
+- `so forth`
+- `yada-yada`
+
 ### 75. "Where's He At?"
 
 - Unnecessary perpositions
+- Omit prepositions that have nothing to add to the meaning of the sentence.
+- EXAMPLES [prepositions in `()` can be omitted.]
+
+  - Where did the e-mail go (`to`)?
+  - The crate fell off (`of`) the truck during our move.
+  - My boss wandered outside (`of`) the trade show lobby just before the client stopped by our booth.
+  - The cafeteria is located opposite (`of`) my office.
+  - Where's Ebeneezer (`at`) in terms of his sales career?
+
+- MEMORY TIP
+  - The Prepositions are unnecessary sometimes, and can be omitted.

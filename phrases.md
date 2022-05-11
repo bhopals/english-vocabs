@@ -174,3 +174,4 @@ quite distant from the sitaution our partents were.
   - EXAMPLES
     - He stamped out the flames before they could grow.
     - The new legislation is intended to stamp out child prostitution.
+- outsize sense of importance
