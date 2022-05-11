@@ -2273,6 +2273,30 @@ EXAMPLES
 
 - Split Infinitives
 
+- An `Infinitives` is the technical term for `to` + a `VERB` (An action word - What something does, has, or is).
+
+  - Examples
+    - `to go`, `to eat`, `to report`, `to murder`, `to review`, `to seize`, `to manage`, `to be`, `to enjoy`
+
+- Typically, it's taboo to tamper with these tidbits by putting words between the `to` and the action word if you can avoid it.
+  Of course, if you have a good reason, such as add emphasis, then go ahead and split the `to` from the `verb`.
+  We will let you be the judge of what you write - but English teachers everywhere are watching.
+
+- EXAMPLE
+
+  - `To` `control` this situation really, a supervisor must be at the plant site. (Awkward)
+  - Really `to` `control` this situation, a supervisor must be at the plant site. (Better)
+  - `To` really `control` this situation, a supervisor must be at the plant site. (Add Emphasis)
+
+  - That approach will help you `to` effectively `give` employee feedback. (Unnecessary split - A BIG NO)
+  - That approach will help you `to` `give` employee feedback effectively. (BETTER)
+
+  - Percival told me `to` periodically `delay` the project until our suppliers can catch up with shipments (Unnecessary split - A BIG NO)
+  - Percival told me `to` `delay` the project periodically until our suppliers can catch up with shipments (BETTER)
+
+- MEMORY TIP
+  - As surely a two plus two equals four, `to` plus `a verb` EQUALS one unit of THOUGHT. Don't SPLIT it.
+
 ### 88. Without Just Cause
 
 - Without: What It Can and Can't Do
