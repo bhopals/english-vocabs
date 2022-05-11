@@ -2231,6 +2231,43 @@ EXAMPLES
 ### 86. As Much or More Than Most
 
 - Prepacked Comparisons
+- Some comparisons come prepacked at conception so always ensure they are equal.(not UNEQUAL or INCOMPLETE)
+
+- To see why each of these comparisons is "UNEQUAL" or "INCOMPLETE", remove hald the comparison and you will notice the Gap.
+
+  - 1. `One of the best`
+    - "Bruno is one of the best, `if not the best`, criminal `lawyer` in the State."
+      - Remove "if not the best" because that represents the second part of the comparison, and read whats left:
+        "Bruno is one of the best criminal `lawyer` in the State."
+      - The writer is comparing Bruno to a group, but the group has been removed!
+      - REWORD (CORRECT): "Bruno is one of the best, if not the best, criminal `lawyers` in the State, `if not the best`."
+  - 2. `As bad or worse than`
+
+    - "The traffic in Houston is as bad `or worse than` in Chicago".
+      - Remove the second half of the comparison ("Or worse than"), and you will see whats missing:
+        "The traffic in Houston is as bad in Chicago"
+      - REWORD(CORRECT): "The traffic in Houston is `as bad as` in Chicago, `or worse`"
+      - REWORD(CORRECT): "The traffic in Houston is `as bad as` `or worse than` in Chicago"
+
+  - 3. `As good or better than`
+
+    - "Brunhilda is `as good` `or better than` most managers about giving feedback"
+      - Again the same, Remove the second half of the comparison ("or better than"), and you will see whats missing:
+        "Brunhilda is as good most managers about giving feedback"
+      - REWORD (CORRECT): "Brunhilda is `as good as` most managers about giving feedback, `or better`."
+      - REWORD (CORRECT): "Brunhilda is `as good as` `or better than` most managers about giving feedback."
+
+  - 4. `As much or more than`
+    - "Eldora likes that country `as much` `or more than` most places where she does business."
+      - Again the same issue surface, Remove the second half of the comparison ("or more than")
+        "Eldora likes that country `as much` most places where she does business."
+      - REWORD (CORRECT): "Eldora likes that country `as much as` `or more than` most places where she does business."
+      - REWORD (CORRECT): "Eldora likes that country `as much as` most places where she does business, `or more`"
+
+- When you are COMPARING TWO THINGS, BOTH Ideas have to be COMPLETE.
+
+- MEMORY TIP
+  - A Comparison requires TWO GROUPS or THINGS - No Shortcut
 
 ### 87. Doing the Splits
 
