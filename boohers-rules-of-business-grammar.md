@@ -1982,6 +1982,21 @@ EXAMPLES
 ### 72. "The Reason Is Because"
 
 - Double Speak
+- A `reason` is a `because`
+- A `reason` is a `why`
+- `The reason is because ...` is like saying
+
+  - `the report is the report`,
+  - `the storm is the storm`,
+  - `the decision is decision`
+
+- Simply state the reason and move on:
+
+  - The reason for his resignation was more money.
+  - The reason she moved to Michigan was to be near her family.
+
+- MEMORY TIP
+  - When you start to say, `the reason is because`, ask yourself if you're stalling for an excuse.
 
 ### 73. Going to Bat for Thats
 
