@@ -2356,6 +2356,26 @@ EXAMPLES
 
 - Phrasal Prepositions
 
+- Which of the following sentences are correct? Neither? Both?
+
+  - 1. Pudge and Brunhilda `have` a ticket to fly to New York. (CORRECT)
+  - 2. Pudge as well as Brunhilda `have` a ticket to fly to New York. (INCORRECT - Should be `has`)
+
+- If you choose only the first, you are correct. The verb in the second sentence should be `has` because
+  Pudge is the guy who is primarily concerned about getting on the Plane.
+
+- Consider the phrases `as well as`, `in addition to`, `together with`, and `along with` as AFTERTHOUGHTS
+  and not part of a Compound Subject. Technically, they are called PHRASAL PREPOSITIONS, meaning prepositions
+  of more than one word.
+- As an afterthought, they don't get equal ranking with true subject of the sentence.
+- Don't consider PHRASAL PREPOSITIONS as an equivalent of `and`
+
+- EXAMPLES
+  - Gertrude and Tiger `are` on the board of directors. (Correct - `and`)
+  - Gertrude in addition to Tiger `is` on the board of directors. (Correct - `in addition to` - Phrasal Preposition)
+  - Kilpatrick and his colleagues in Phoenix `have` been selected for the training. (Correct - `and`)
+  - Kilpatrick as well as his colleagues in Phoenix `has` been selected for the training. (Correct - `as well as` - Phrasal Preposition)
+
 ### 90. A Branding Issue
 
 - Capitalization Rules for the Road
