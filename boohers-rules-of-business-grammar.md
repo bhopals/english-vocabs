@@ -2301,6 +2301,57 @@ EXAMPLES
 
 - Without: What It Can and Can't Do
 
+- Words that link MAJOR Ideas are called COORDINATING Conjunctions
+
+  - `for`, `and`, `nor`, `but`, `or`, `yet`, `so` (FANBOYS)
+
+- Words that link MINOR Ideas to the MAJOR Ones(The way minor roads join the major interstates) are called SUBORDINATING Conjunctions.
+
+  - `if`, `although`, `until`, `because`, `unless`, `while`, `wheteher`, `after`, `before` (List of few, there are more...)
+
+- A COMMON MISTAKE is to use `without` as a subordinating link (A Conjunctions)
+
+- `Without` is not one of those bridges or linking words. It is a preposition like `in`, `to`, `among`, `between`, `over`, `under`.
+- `Without` cannot link two clauses (group of words with a subject and verb) in a sentence. Use `unless` instead a proper link.
+
+- INCORRECT
+
+  - Kilpatrick could not get a promotion `without` he spent time in Europe.
+
+- CORRECT
+
+  - Kilpatrick could not get a promotion `unless` he spent time in Europe.
+  - Kilpatrick could not get a promotion `without` spending time in Europe. (Just one Clause)
+
+- INCORRECT
+
+  - Orilla will flunk the test for a pilot's license `without` they change the criteria.
+
+- CORRECT
+
+  - Orilla will flunk the test for a pilot's license `unless` they change the criteria.
+
+- INCORRECT
+
+  - Fritz couldn't fly to Chicago `without` he asked his wife.
+
+- CORRECT
+
+  - Fritz couldn't fly to Chicago `untill` he asked his wife.
+  - Fritz couldn't fly to Chicago `unless` he asked his wife.
+
+- INCORRECT
+
+  - Ebeneezer cannot make a sale `without` he brags to everybody on the team. (Two clauses linked with `without`)
+
+- CORRECT
+
+  - Ebeneezer cannot make a sale `unless` he brags to everybody on the team. (Two clauses linked with `unless`)
+  - Ebeneezer cannot make a sale `without` bragging to everybody on the team. (One clause only)
+
+- MEMORY TIP
+  - `Without` is without the power to link main ideas (clauses).
+
 ### 89. Getting Top Billing
 
 - Phrasal Prepositions
