@@ -1762,6 +1762,131 @@ EXAMPLES
 ### 69. Past Experience - Is There Any Other Kind?
 
 - Little-Word Padding and Redundant Ideas
+- English have tremendous power if undiluted with superfluous words.
+
+- The wordy phrases in the following chart can often replaced by the word inside the parentheses.
+
+  - PADDING WITH NO PURPOSE
+
+    - in the amount of (`for`)
+    - for the purpose of (`for`)
+    - in reference to (`about`)
+    - with reference to (`about`)
+    - in connection with (`about`)
+    - on account of the fact that (`since`, `because`)
+    - for the reason that (`since`, `because`)
+    - to say nothing of (`and`)
+    - in view of the foregoing curcumstances (`because`)
+    - it is therefore apparent that (`so`)
+    - with regard to (`about`)
+    - pertaining to (`about`)
+    - to be in position to (`to`)
+    - in order to (`to`)
+    - in order that (`to`)
+    - with a view toward (`to`)
+    - for the express purpose of (`to`)
+    - in the event that (`if`)
+    - if it should turn out that (`if`)
+    - if and when (`if`)
+    - unless and until (`unless`)
+    - if it is assumed that (`if`)
+    - inasmuch as (`as`)
+    - in spite of the fact that (`although`)
+    - with the result that (`so`)
+    - by the same token (`similarly`)
+    - on a regular basis (`regularly`)
+    - along the lines of (`like`, `as`)
+    - in the nature of (`like`)
+    - by means of (`by`)
+    - until such time as you (`when`)
+    - with the exception of (`except`)
+    - the question as to whether(`whether`)
+    - in conjunction with (`with`)
+    - if at all possible (`if possible`)
+    - in all other cases (`otherwise`)
+    - a sufficient number of (`enough`)
+    - in the vincinity of (`near`)
+    - it would seem that (`it seems`)
+    - it would this appear that (`apparently`, `probably`)
+    - it may well be that (`perhaps`, `maybe`)
+    - in a satisfactory manner (`satisfactorily`)
+    - after this has been done (`then`)
+    - at this precise moment in time (`now`)
+    - in most cases (`usually`)
+    - in all cases (`always`, `all`)
+    - at all times (`always`)
+    - not infrequently (`often`)
+    - numerous times (`often`, `frequently`)
+    - until such time as (`until`, `when`)
+    - during the time that (`while`)
+    - a large number of (`many`)
+    - on two separate occasions (`twice`)
+    - at the present time (`now`)
+    - at this point in time (`now`)
+    - at this time (`now`)
+    - at an early date (`soon`)
+    - at a later date (`later`)
+    - whether or not (`whether`)
+    - of a confidential nature (`confidentially`)
+    - may or may not (`may`)
+    - in the very near future (`soon`)
+
+  - REDUNDANT IDEAS
+    - alternative choices
+    - desirable choices
+    - basic fundamentals
+    - important essentials
+    - basic essentials
+    - main essentials
+    - serious crisis
+    - necessary requisite
+    - conclusive proof
+    - true facts
+    - honest truth
+    - consensus of opinion
+    - final completion
+    - advance warning
+    - adequate enough
+    - disappear from sight
+    - close together
+    - end result
+    - current status
+    - few and far between
+    - final outcome
+    - future plans
+    - free gift
+    - past history
+    - early beginning
+    - new breakthrough
+    - separate entities
+    - different varities
+    - empty space
+    - close proximity
+    - surrounding circumstances
+    - joint partnership
+    - group meeting
+    - following after
+    - equally as effective as
+    - foreign imports
+    - any and all
+    - as a general rule
+    - in actual fact
+    - equally as well
+    - in two equal halves
+    - symptoms indicative of
+    - completely surrounded
+    - as you may or may not know
+    - on page 20-30 inclusive
+    - this particular instance
+    - regular weekely meetings
+    - exactly like
+    - percisely correct
+
+- Repetition of a KEY idea occasionally serves a purpose-to emphasizean idea or to bridge from one point to another.
+  But needless redundancy can ruin otherwise brilliant thinking.
+
+- MEMORY TIP
+  - Think of little-word padding as layers of onion skin before you get to the usable part. Peel them from your writing.
 
 ### 70. Continue On
 
