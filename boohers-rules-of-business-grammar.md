@@ -2046,6 +2046,22 @@ EXAMPLES
 
 - Mispronunciation
 
+  - relevant (`re-le-vant`)
+  - remuneration (`re-mu-ner-a-tion`)
+  - nuclear (`nu-cle-ar`)
+  - candidate (`can-di-date`)
+  - escape (`es-cape`)
+  - jewelry (`jew-el-ry`)
+  - supposedly (`sup-pos-ed-ly`)
+  - asterisk (`as-ter-risk`)
+  - mispronunciation (`mis-pro-nun-ci-a-tion`)
+  - February (`Feb-roo-air-y`)
+  - plentitude (`plen-i-tude`)
+  - across (`a-cross`)
+
+- MEMORY TIP
+  - Visualize each word spread apart with its syllables separated until the correct pronunciation becomes second nature.
+
 ### 77. What Are the Odds to Start?
 
 - Starting a Sentence with a Number
