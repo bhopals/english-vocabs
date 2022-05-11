@@ -2186,6 +2186,33 @@ EXAMPLES
 
 - Correlative Links
 
+- Some words are always PAIRED TOGETHER
+
+  - `either/or`, `neither/nor`, `not only/but also`, `if/whether`
+
+- When you use them together in same sentence, make sure you link them properly.
+
+- These pair should be used to join:
+
+  - Two verbs
+  - Two nouns,
+  - Two clauses,
+  - Two describing words (adjectives)
+
+- INCORRECT
+- We can `either` "buy the house" `or` "the yatch" with the inheritance.
+- `Neither` "owns a Lexus" `nor` "a BMW".
+- `Not only` "she is intelligent", "she's well liked".
+
+- CORRECT
+  - We can buy `either` "the house" `or` "the yatch" with the inheritance.
+  - They own `neither` "a Lexus" `or` "a BMW".
+  - `Not only` "is she intelligent", `but also` "she is well liked".
+
+
+- MEMORY TIP
+  - Visualize these links as handcuffs around matching `body parts` of the sentence like skeleton.
+
 ### 85. Up a Tree Without a Paddle
 
 - Mixed Metaphors
