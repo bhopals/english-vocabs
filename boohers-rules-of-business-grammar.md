@@ -2133,9 +2133,54 @@ EXAMPLES
 
 - Dashes Versus Well-Organized Sentences
 
+- Dashes should never substitute for a well-organized sentence. Instead, they server a good purpose.
+- Dashes highlight what's between them or what follows them.
+
+- MEMORY TIP
+  - A little DASH of dashes will do it. Sort the main ideas from the trivial so your reader does not have to.
+
 ### 83. No Death Knell for the Hypens
 
 - Hypens Before Related Adjectives
+
+- CONFUSING
+  - No smoking area available.
+- CORRECT (CLEAR and CONCISE)
+
+  - No-smoking area available.
+
+- HYPENATION RULES
+
+  - 1. Hypenates two related ADJECTIVES before a NOUN
+
+    - EXAMPLES
+      - The boss attended `two-days` workshop (Noun).
+      - Kilaptrick advertises himslef as a `high-caliber` motivational speaker (Noun).
+      - We follow a `10-year` cycle (Noun)mfor equipment replacement.
+      - Buy your `over-the-counter` medicines (Noun) at a nearby pharmacy.
+      - We navigated the `snow-covered` roards (Noun) to the airport.
+
+  - 2. Do not Hypenate related ADJECTIVES when they Follow the NOUN (unless they are in altered or inverted form)
+
+    - EXAMPLES
+      - The workshop laster two days.
+      - Kilaptrick advertises himslef as a motivational speaker of high caliber
+      - These medicines are avaialble over the counter, without prescription.
+      - Percival outlined his approach to investing in annuities that are tax-exempt.
+        (Inverted order - `tax-exempt annuities` is the typical order.)
+
+  - 3. Do not hypenate related adjectives that precede a NOUN if the phrase is so well known that it's immediately
+       recognizable and clear as a unit.
+
+    - EXAMPLES
+      - The rental car agency is liable for the damage. [`rental car` agency (NOUN) - obvious meaning ]
+      - The income tax form will be mailed to your home addesss. [`income tax` form (NOUN) - Obvious meaning]
+
+  - 4. Do not hypenate ADVERB-ADJECTIVE Combinations that precede a NOUN if the ADVERB ends in -ly:
+    - `selfishly`, `arrogant`, `modestly rich`, `highly knowledgeable`.
+
+- MEMORY TIP
+  - Related adjectives, like family members, work as a unit. So Link them.
 
 ### 84. Matching Body Parts
 
