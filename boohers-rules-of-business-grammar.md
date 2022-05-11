@@ -1940,6 +1940,45 @@ EXAMPLES
 
 - Redundant Nouns
 
+- Another redundant layer of onion skin invloves pairing two NOUNS or a NOUNS or an ADJECTIVES to convey the same idea,
+- Example
+
+  - Our executive will visit the factories in the summer `months`
+    - Why don't the visit `in the summer` Or is it possible to visit `in the summer years`?
+
+- REDUNDANCIES: PAIRED NOUNS, ADJECTIVES, and VERB EXPRESSING THE SAME IDEA
+
+  - subject matter
+  - goals and objectives
+  - in this day and age
+  - period of time
+  - facts and figures
+  - cost the sum of $389
+  - during the month of August
+  - during the years 2009-2029 inclusive
+  - point in time
+  - orange in color
+  - small in size
+  - cylindrical in shape
+  - a distance of 5,000 miles
+  - the time of day
+  - 1,500 words in length
+  - few in number
+  - cease and desist
+  - null and void
+  - winter months
+  - first and formost
+  - chief and primary
+  - valuable and important
+  - separate and distinct
+  - ways and means
+  - comings and goings
+  - worry and concern
+  - defend and protect
+
+- MEMORY TIP
+  - If the phrase seems to roll off your tongue, consider that a clue. Stop and chop.
+
 ### 72. "The Reason Is Because"
 
 - Double Speak
