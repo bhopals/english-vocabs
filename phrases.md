@@ -153,7 +153,24 @@ quite distant from the sitaution our partents were.
 ### 10 May
 
 - Pluralistic society
+
   - To say we a Pluralistic Society means that we have many interests, stemming from different backgrounds.
   - We live in Pluralistic Society
   - India is a pluralistic society, where people of different backgrounds (religion, caste, culture, language, ethnicity)
     live side by side.
+
+- Sullenly and without a word, he picked up a pen and started working.
+- Obliterate - destroy, demolish, wipe out, eliminate, eradicate
+
+  - Nothing could obliterate the memory of those tragic events.
+  - Could an asteroid obliterate Los Angeles?
+
+- Ideas have tremendous Power if undiluted with superfluous words
+
+- stamp out <something>
+  - MEANING
+    - to make a fire stop burning by putting your feet down hard on it
+    - to get rid of something that is wrong or harmful
+  - EXAMPLES
+    - He stamped out the flames before they could grow.
+    - The new legislation is intended to stamp out child prostitution.
