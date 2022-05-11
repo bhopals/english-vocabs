@@ -2380,9 +2380,15 @@ EXAMPLES
 
 - Capitalization Rules for the Road
 
+- MEMORY TIP
+  - Think "Brand Name" or generic. Capitalize Accordingly.
+
 ### 91. Name, Rank, and Serial Number
 
 - Capitalization With Titles and Positions
+
+- MEMORY TIP
+  - If the title precedes the name in lieu of the title such as Mr., Ms., or Dr., Capitalize it.
 
 ### 92. Undercapitalized With No Regrets
 
@@ -2410,13 +2416,53 @@ EXAMPLES
 
 - Ensure, Insure, Assure?
 
+- `Ensure` - (To guarantee or make certain - use in cases other than when referring to people).
+
+  - This new packaging will ensure that the product arrives safely.
+
+- `Insure` - (To make certain or protect against loss - use when refering to monetary payments.)
+
+  - This bond will insure payment up to $2,000
+
+- `Assure` - (To pledge or give confidence to people - use in the same way as assurance)
+  - He assured us that he would attend.
+  - Her e-mail assured the customer that our report would be submitted before the deadline.
+
 ### 98. It's a Matter Of Principle
 
 - Principle Versus Principal
 
+- `Principle` (noun: a rule or a guideline):
+
+  - Our organization operates by this general principle: Customer are reasonable.
+
+- `Principal` (adjective: chief, primary, main):
+
+  - Our principal product is running shoes.
+
+- `Principal` (noun: one who has control):
+
+  - Sarah, a principal in our accounting firm, works in the New York office.
+
+- MEMORY TIP
+  - A Principal way to remember principles is to post them on Placards.
+
 ### 99. A Good Example
 
 - e.g. Versus i.e.
+
+- `e.g.` (stands for the Latin phrase - exempli gratia - meaning `for example`)
+
+  - He takes too many supplements, e.g., vitamins, iron, calcium, beta-carotene
+
+- `i.e.` (stands for the Latin phrase - id est - meaning that is)
+
+  - He believes in reincarnation, i.e., a second life possibly as a tree.
+
+- REMINDER: Both phrases requir a COMMA Before and After them.
+
+- MEMORY TIP
+  - Both `e.g.` and `example` begin with the letter `e`
 
 ### 100. How Are You?
 
@@ -2425,3 +2471,16 @@ EXAMPLES
 ### 101. Is Success Imminent?
 
 - Emminent Versus Imminent
+
+- `Eminent` (adjective: outstanding, prominent)
+
+  - Franz is an imminent leader in the community because of his charitable work.
+
+- `Imminent` (adjective: impending, about to happen)
+
+  - According to all the rumours, your winning the promotion is imminent.
+
+- MEMORY TIP
+  - Link these pairs of ideas with the initial letters in each word:
+    - `eminent` and `evident` (prominent, outstanding)
+    - `imminent` and `immediate` (about to happen)
