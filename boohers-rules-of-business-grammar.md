@@ -2500,3 +2500,5 @@ EXAMPLES
   - Link these pairs of ideas with the initial letters in each word:
     - `eminent` and `evident` (prominent, outstanding)
     - `imminent` and `immediate` (about to happen)
+
+### COMPLETED
