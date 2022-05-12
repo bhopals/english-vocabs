@@ -192,6 +192,7 @@ quite distant from the sitaution our partents were.
   - Accent Neutralise - speak clear enough so that what is spoken is being understodd by everybody
 
 - MOUTH (MUSCLE) Exercise
+
   - Practice Order ==Row wise======>
   - ऊ ===== ओ == -owww = आ == आई === ई
   - OOKT - OHKT - AWKT - AHKT - AYKT - EEKT
@@ -202,3 +203,19 @@ quite distant from the sitaution our partents were.
   - OOLT - OHLT - AWLT - AHLT - AYLT - EELT
   - OOLD - OHLD - AWLD - AHLD - AYLD - EEYD
   - OOLZ - OHLZ - AWLZ - AHLZ - AYLZ - EELZ
+
+- Towering country
+- Russia is livid (furiously angry)
+- In many ways, history is repeating itseld
+- The morning time is very quiet and charming
+- There are so many good impacts of early morning in our body and mind.
+- It will help you in different ways to get a Productive life with so much energy.
+- A perfect plan can make your day awesome.
+- Physical Exercise
+- There are huge health benefits of early rising
+- Advertise can be decieving
+- Significant thing
+- Burning Calories
+- Attentiveness and Concentration
+- Physical and Mental Health
+- Early to bed and Early to rise makes a man healthy, wealthy, and wise.

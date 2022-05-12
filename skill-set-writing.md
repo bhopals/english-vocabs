@@ -946,3 +946,54 @@ Author - Lucia Engkent
   - Often phones ring at `inappropriate times`
 
 ### Chapter 5 - ESSAY WRITING SKILLS
+
+- Driving to work or schools is one of the most dangerous activities people undertake in their daily lives
+- The possibility of getting hurt or killed in a traffic accident is actually higher than getting killed by a terrorist
+- People do not take bad driving seriously
+- `over-cautious drivers` `insist` on going very slowly
+- `overly careful drivers` `delay` making left turns
+- transgression - (an act goes againt the law, rule, code of conduct, an offence)
+  - SYNONYMS - wrong, offence, crime, sin, wrongdoing, misdemeanor, felony
+  - Example
+    - Who is supposed to have committed those transgression?
+    - The most common transgression today is using a cellphone while driving
+- Other activities include eating or personal gromming, such as putting on a make-up
+- Below the speed limit
+- It would not be that bad if they restricted their movement to the slow lane
+- tailgate someone
+- They are also annoying because they follow so closly
+- They weave in and out of lanes
+- It is only luck and attentiveness of drivers that save them from the accidents
+- `Preoccupied drivers` put everyone at risk since it only takes `a split second` (means "a fraction of second") to `cause` a crash
+- The most dangerous hazards on the road are other drivers.
+- Carful drivers have to watch for those who are `overly cautious`, `preoccupied`, or `aggressive`
+- In order to `predict` other drivers behaviours
+- They have to be `vigilant` for signs of these driving behaviour
+- incivility is on the rise
+- impolite and disrespectful
+- have influenced human behaviour
+- making people less considerate of others
+- Computers and internet are the most obvious influence on behaviour
+- in road rage accidents, aggression and violence escalate between drivers
+- cutting other drivers off to obscene gestures
+- even physical confrontation between drivers who get out of their cars to fight
+- Cellphone intrude on pubic space as people talk loudly on their phone in restaurants or public places
+- change in attitude foster selfishness
+- The right-wing conservative viewpoint preaches lower taxes, fewer social programs, and the rightful dominance of the marketplace
+- The emphasis on individual needs has many manifestations in behaviour
+- A false sense of entitlement
+- Bad behaviour gets featured in the news - whether it be politicians heckling each other.
+- Why people behave with less consideration for other these days
+- We should not conclude today that the society is uncivil
+- We must also be careful to distinguish between casual and rude
+- decline of civility
+
+- CAUSES
+
+  - `because`, `since`, `as`, `for`, `to result from`, `to be the result of`, `due to`, `due to the fact that`,
+  - `because of`, `the effect of`, `the consequence of`, `as a result of`, `as a consequence of`, `one reason why`,
+  - `caused by`, `attributed to`, `on account of`, `owing to`
+
+- EFFECTS
+  - `so`, `as a result`, `as a consequence`, `therefore`, `thus`, `consequently`, `hence`, `to result in`,
+  - `to cause`, `to have an effect on`, `to affect`, `the cause of`, `the reason for`, `thereby`, `cause of`
