@@ -181,3 +181,24 @@ quite distant from the sitaution our partents were.
 
 - Keep your head in the game until the final whistle.
 - Keep your metaphors in mind until you finish your thought.
+
+### 12/MAY/2022
+
+- ACCENT NEUTRALIZATION
+
+  - Accent - A manner of Pronunciation OR articulating a Language
+  - MIT - Mother Tongue Influence
+  - Hurdle in communication - miscommunication / misunderstanding
+  - Accent Neutralise - speak clear enough so that what is spoken is being understodd by everybody
+
+- MOUTH (MUSCLE) Exercise
+  - Practice Order ==Row wise======>
+  - ऊ ===== ओ == -owww = आ == आई === ई
+  - OOKT - OHKT - AWKT - AHKT - AYKT - EEKT
+  - OOGD - OHGD - AWGD - AHGD - AYGD - EEGD
+  - OOPT - OHPT - AWPT - AHPT - AYPT - EEPT
+  - OOBD - OHBD - AWBD - AHBD - AYBD - EEBD
+  - OOMD - OHMD - AWMD - AHMD - AYMD - EEMD
+  - OOLT - OHLT - AWLT - AHLT - AYLT - EELT
+  - OOLD - OHLD - AWLD - AHLD - AYLD - EEYD
+  - OOLZ - OHLZ - AWLZ - AHLZ - AYLZ - EELZ
