@@ -999,4 +999,41 @@ Author - Lucia Engkent
   - `so`, `as a result`, `as a consequence`, `therefore`, `thus`, `consequently`, `hence`, `to result in`,
   - `to cause`, `to have an effect on`, `to affect`, `the cause of`, `the reason for`, `thereby`, `cause of`
 
-- forecase is drizzle/sleet/find/overcase/humid
+- forecast is drizzle/sleet/find/overcase/humid
+
+#### SAMPLE ESSAYS
+
+- 1. The Definition of Success
+
+  - Many people equate success with wealth.
+  - If someone has a mansion and a fleet of luxury cars, that person must be successful
+  - Even though few people ever attain a degree of affluence, many look proudly upon their many achievements
+  - Success means
+    - MAKING A WORTHWHILE CONTRIBUTION IN WORK
+    - FINDING A PLACE IN SOCIETY
+    - and GAINING CONTENTMENT IN LIFE
+  - Please need to do worthwhile job to considered successful.
+  - Does not matter what you do? All work contribute something to the society and need doing
+  - Artist contribute memorable performances,
+
+    - written works to educate and entertain
+    - sculptores and paintings to satisy the aesthetics (/esˈTHediks/) needs of their audience
+
+  - People need to take pride in their work and do it to the best of their ability to be deemed a success
+  - A successful life is one that also makes a mark on society
+  - People can do this through their work but also through other achievements such as participating
+    in political movements or doing volunteer work.
+  - Having friends and helping those in need are more important aspects of human existence.
+  - People are not successful if they have not `achieved` `some measure of contentment` in their own life.
+  - This may not involve vast sums of money or numerous possessions but enough to have their basic needs met
+    such as a home and a family.
+
+  - People who gripe and complain about every facet of their existence must be judged as failures.
+  - When people want to evaluate the success of their lives, they must look at what they have accomplished
+    - through work
+    - through their contributions to society
+    - in their individual existence
+  - A life well-lived is one that has made a mark as well as one that satisfies the person living it.
+  - People only get one chance at life - they must do what they can with the time they are given.
+
+- 2. The Success of Fast-Food Restaurants

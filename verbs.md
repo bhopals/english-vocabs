@@ -11,7 +11,28 @@
 - `delay` making turns
 - `commit` transgressions
 - `use` a cellphone while driving (The most common transgression/felony today)
-- `honured` with <some award>
+- `honoured` with <some award>
 - `stir` up a contoversy
 - `increased` supervision
 - `hurled` abuse at <someone>
+- `attain` affluence / `attain` a degree of affluence
+- `look` proudly upon achievements
+- `gain` contentment in life
+- `make` worthwhile contribution in work
+- `find` a place in society
+- `consider` successful
+- `contribute` something
+- `need` doing
+- `satisfy` the aesthetics need of their audience
+- written work to `educate` and `entertain`
+- people need to `take` pride in their work
+- `makes` a mark on society
+- `participating` in political movement
+- `doing` volunteer work
+- `contribute` to society
+- `achieve` some measure of contentment in their own lives
+- `earn` enough to have your basic needs met.
+- `gripe` about <something> (students `griped` about having too much homework.)
+- `complain` about <something> (gripe and complain about every facet of their existence)
+- `evaluate` <something>
+- `accomplish` <something>

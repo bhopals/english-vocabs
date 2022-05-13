@@ -223,3 +223,6 @@ quite distant from the sitaution our partents were.
 ### 13/MAY/2022
 
 - Situation is extremely volatile
+- Success is making a worthwhile contribution in work, finding a place in society, and gaining contentment in life.
+- Writtern work to educate and entertain
+- Sculptures and painitings to satisf the aesthetics need of their audience
