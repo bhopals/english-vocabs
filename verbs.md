@@ -36,3 +36,13 @@
 - `complain` about <something> (gripe and complain about every facet of their existence)
 - `evaluate` <something>
 - `accomplish` <something>
+- `influence` government policies
+- `strive` for <something> (she always strives for perfection) -
+- `strive` to do <something> (I will strive to achieve individuality in every project we do.)
+- `makes` it attaractive to most segments of society
+- `appeal` to the tast buds of human being
+- `master` the art of <something>
+- `satisfy` craving
+- `make` the food taste good
+- `struggle` with something (struggle with overloaded schedules)
+- `do` dishes

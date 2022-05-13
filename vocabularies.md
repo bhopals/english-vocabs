@@ -50,3 +50,25 @@
   - The effluent from the factory was dumped into the river.
   - Dangerous effluent from some chemical plants is being poured into the river through the town.
   - This is the largest recorded source of radioactive effluent in the world
+
+### Strive (Verb) - 1. attempt by employing effort 2. to exert much effort or energy
+
+- EXAMPLES
+  - We must continue to strive for greater efficiency.
+  - We must strive for the greatest authenticity possible.
+  - I will strive to overcome these problems.
+  - I will strive to achieve individuality in every project we do.
+  - Low cost makes it attractive to most segments of society
+
+#### Ubiquitous - [juː'bɪkwɪtəs] adj. - being present everywhere at once
+
+- EXAMPLES
+
+  - Sugar is ubiquitous in the diet.
+  - We were plagued by the ubiquitous mosquito.
+  - Coffee shops are ubiquitous these days.
+  - Is there no escape from the ubiquitous cigarette smoke in restaurants?
+  - She is one of the wealthiest, most ubiquitous media personalities around.
+
+- COLLOCATIONS
+  - ubiquitous mosquito/media personalities around/cigratee smoke

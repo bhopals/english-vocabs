@@ -1037,3 +1037,17 @@ Author - Lucia Engkent
   - People only get one chance at life - they must do what they can with the time they are given.
 
 - 2. The Success of Fast-Food Restaurants
+  - fast-food industry is a dominant player in the global economy
+  - influence government policies
+  - fast-food offer food that is cheap, tasty, and convenient.
+  - Price is an important consideration in the food industry
+  - The industry strives to keep the prices low by keeping wages low.
+  - The fast-food industry has mastered the art of offering food that appeals to the taste buds of human being.
+  - High fat content is one of the main characteristics of fast food, and fat makes food taste good
+  - despite the nutritional drawback
+  - high starch, salt, and sugar content also make the food taste good and satisy cravings.
+  - the fast-food restaurants are ubiquitous
+  - customers can either use drive-through or walk up to the counter to get a hot meal delivered in couple of minutes.
+  - do not have to cook or do dishes
+  - many families struggling with overloaded schedules
+  - the lure of quick and easy food is irresistable

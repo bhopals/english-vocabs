@@ -226,3 +226,4 @@ quite distant from the sitaution our partents were.
 - Success is making a worthwhile contribution in work, finding a place in society, and gaining contentment in life.
 - Writtern work to educate and entertain
 - Sculptures and painitings to satisf the aesthetics need of their audience
+- The lure of quick and easy food is irresistable
