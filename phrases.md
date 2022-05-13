@@ -219,3 +219,7 @@ quite distant from the sitaution our partents were.
 - Attentiveness and Concentration
 - Physical and Mental Health
 - Early to bed and Early to rise makes a man healthy, wealthy, and wise.
+
+### 13/MAY/2022
+
+- Situation is extremely volatile

@@ -995,5 +995,8 @@ Author - Lucia Engkent
   - `caused by`, `attributed to`, `on account of`, `owing to`
 
 - EFFECTS
+
   - `so`, `as a result`, `as a consequence`, `therefore`, `thus`, `consequently`, `hence`, `to result in`,
   - `to cause`, `to have an effect on`, `to affect`, `the cause of`, `the reason for`, `thereby`, `cause of`
+
+- forecase is drizzle/sleet/find/overcase/humid

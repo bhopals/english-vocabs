@@ -11,3 +11,7 @@
 - `delay` making turns
 - `commit` transgressions
 - `use` a cellphone while driving (The most common transgression/felony today)
+- `honured` with <some award>
+- `stir` up a contoversy
+- `increased` supervision
+- `hurled` abuse at <someone>
