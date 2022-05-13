@@ -79,3 +79,28 @@
 - Many economic problems in the region stem from the depletion of natural resources.
 - There is a Congolese proverb which states that great events may stem from words of no importance.
 - Most of the difficulties in their family stem from a simple lack of communication.
+
+#### Profoundly - (/prəˈfoundlē/) - adverb
+
+- MEANING
+  - to a profound extent; extremely.
+- SYNONYMS
+  - very, extremely, deeply, exceedingly, greatly
+- COLLOCATIONS
+
+- EXAMPLES
+  - Memory can be profoundly shaped by subsequent experience.
+  - Tom was born profoundly deaf .
+  - I am profoundly grateful to you all.
+  - The regime is profoundly divided against itself.
+  - This book influenced her profoundly.
+
+#### Entail (en·tail) - to require or involve
+
+- MEANING
+
+  - involve (something) as a necessary or inevitable part or consequence.
+
+- EXAMPLES
+  - What does the job actually entail?
+  - The journey will entail changing trains twice.

@@ -227,3 +227,12 @@ quite distant from the sitaution our partents were.
 - Writtern work to educate and entertain
 - Sculptures and painitings to satisf the aesthetics need of their audience
 - The lure of quick and easy food is irresistable
+- sophisticated vocabularies
+- They may read slowly and laboriously
+- increase level of comprehension
+- fiction (made-up stories), non-fiction (true stories)
+- profound shock/impact/implications/sorrow/story/hatred/thinker/knowledge/influence
+- profoundly anti-social
+- materialism is equated with happiness
+- deterrence against possible nuclear attack
+- causes a numbness in toes that can last for months

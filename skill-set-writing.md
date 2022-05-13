@@ -1083,3 +1083,37 @@ Author - Lucia Engkent
   - the most important skills I acquired is people skills
   - I had to deal with rude and picky customers
   - as a tour guide, I learn to project my voice and keep my audience interested
+
+### Chapter 6 - Rhetorical Skills
+
+- 1. The Hazard of Treeplanting
+  - logging companies reforest a certain percentage of their cut land so they subcontract to treeplanting companies
+  - put seeding into the grounds
+  - rough living and working conditions
+  - they have to endure the kind of searing heat that sparks forest fires
+
+### Chapter 7 - Proof Reading and Editing
+
+### Chapter 8 - Reading Skill
+
+- appearance is everything. we are constantly being judged by the way we look - to our advantage.
+- unattractive people may be viewed as inconsequential or ill-favoured, while very attractive
+  people may be thought of as all beauty and no brains.
+- people are cruder and less considerate to others
+- we should better behave
+- we make fewer class distinctions
+- overt racism is not socially accepted today
+- houses are elaborately decorated to resemble haunted houses with ghosts
+- adults wear constumes to scare and delight trick-or-treaters
+- an interest in the supernatural is reflected in the current popularity
+- the poor media coverage for women's team means that even their victories are buried in few paragraphs in the
+  sport section of the newspaper while losing men's teams get front-page coverage
+- where large factories are built they invariably increase road traffic, which makes neighbourhood more dangerous
+- it is understandable that materialism is equated with happiness
+- people are happy with material goods
+- the job itself entails bending over to put a seeing in the ground 2000 times a day
+- scrambling over obstacles and unfriendly terrain
+- repititive and high-impact nature of the work, planters are prone to injuries
+- kicking the ground to expose soil causes a numbness in the toes that can last for months
+- bruises and scrapes are inevitable in the rocky landscape
+- it is hard, miserable, and competitive work

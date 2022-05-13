@@ -63,3 +63,28 @@
 - `pick` up bartending skills
 - `deal` with rude and picky customers
 - `project` her voice
+- `reforst` a certain percentage of their cut land
+- `subcontract` to treeplanting companies
+- `subcontracted` with a smaller company
+- `put` seeding into the ground
+- `ensure` excruciating pain
+- `spark` forest fires
+- `determine` success
+- `alienate` <someone> (alienate voters/teenagers/his brother/himself/supporters)
+- `talk` down <someone> (belittle someone)
+- `despise` <someone> (he despise himself for being selfish/ I despise anyone who cruel to animals)
+- `generate` revenue
+- `resemble` haunted houses
+- `decorate` houses
+- `makes` neighborhood more dangerous
+- `determine` how much time you can put
+- `reflect` students achievements
+- `receive` a grade
+- `earn` a grade
+- `equated` with happiness
+- `entails` considerable risk
+- `prone` to injuries
+- `cause` numbness in the toes
+- `cut` down on <something> (cut down on unnecessary trips)
+- `develop` their abilities
+- `provide` <someone> with the opportunities of
