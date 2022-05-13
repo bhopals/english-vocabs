@@ -46,3 +46,10 @@
 - `make` the food taste good
 - `struggle` with something (struggle with overloaded schedules)
 - `do` dishes
+- `sports` tatoo / body piercings / long hair
+- `stem` from <something> (their disaggrement stemmed from a misunderstanding) - to be caused by <smthg> or <smone>
+- `promote` <something>
+- `inscribe` on/with <something> (his name was inscribed on the book)
+- `inscribe` <something> on/with <something>(she inscribed her own name on the textbook)
+- `express` <something>
+- `annoy` their parents

@@ -72,3 +72,10 @@
 
 - COLLOCATIONS
   - ubiquitous mosquito/media personalities around/cigratee smoke
+
+#### Stem from <something> or <someone>
+
+- Most of his problems stem from his drinking.
+- Many economic problems in the region stem from the depletion of natural resources.
+- There is a Congolese proverb which states that great events may stem from words of no importance.
+- Most of the difficulties in their family stem from a simple lack of communication.

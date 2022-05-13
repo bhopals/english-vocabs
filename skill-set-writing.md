@@ -1037,6 +1037,7 @@ Author - Lucia Engkent
   - People only get one chance at life - they must do what they can with the time they are given.
 
 - 2. The Success of Fast-Food Restaurants
+
   - fast-food industry is a dominant player in the global economy
   - influence government policies
   - fast-food offer food that is cheap, tasty, and convenient.
@@ -1051,3 +1052,12 @@ Author - Lucia Engkent
   - do not have to cook or do dishes
   - many families struggling with overloaded schedules
   - the lure of quick and easy food is irresistable
+
+- 3. Response for Body Art
+  - many people today sports body tatoo and body piercings
+  - the body art is stem from atistic pursuits, personal expression, image projection.
+  - a biker may have his gang inscribed on his body
+  - body art can express various attachments
+  - tatoos and body piercings promote a certain image that young people value.
+  - they still have some shock value in society
+  - earlier generations sporting long hairs to annoy their parents
