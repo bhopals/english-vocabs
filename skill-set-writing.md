@@ -1117,3 +1117,4 @@ Author - Lucia Engkent
 - kicking the ground to expose soil causes a numbness in the toes that can last for months
 - bruises and scrapes are inevitable in the rocky landscape
 - it is hard, miserable, and competitive work
+- implicit and explicit (not overtly stated) ideas
