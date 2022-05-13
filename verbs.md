@@ -53,3 +53,13 @@
 - `inscribe` <something> on/with <something>(she inscribed her own name on the textbook)
 - `express` <something>
 - `annoy` their parents
+- `procrastinate` <something>
+- `develop` valuable people skill
+- `develop` the emotional intelligence that
+- `serve` them well throughout life
+- `allow` students to grow and acquire skills
+- `acquire` <something> (acquire skills)
+- `teach` valuable skills
+- `pick` up bartending skills
+- `deal` with rude and picky customers
+- `project` her voice

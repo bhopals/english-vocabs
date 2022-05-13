@@ -1054,6 +1054,7 @@ Author - Lucia Engkent
   - the lure of quick and easy food is irresistable
 
 - 3. Response for Body Art
+
   - many people today sports body tatoo and body piercings
   - the body art is stem from atistic pursuits, personal expression, image projection.
   - a biker may have his gang inscribed on his body
@@ -1061,3 +1062,24 @@ Author - Lucia Engkent
   - tatoos and body piercings promote a certain image that young people value.
   - they still have some shock value in society
   - earlier generations sporting long hairs to annoy their parents
+
+- 4. The Benefits of McJobs
+  - McJob (/məkˈjäb/) - a low-paid job with few prospects
+  - students can learn time management, practical skills, and personal skills
+  - many people disdain such menial labour
+  - students balance their school and work responsibilities
+  - they cannot procrastinate with their academic assistant
+  - they learn to be punctual because bossess are less accepting of tardiness than teachers are.
+  - finally, they learn to get their work done effeciently and use their time productively
+  - there is a wide range of practical skills that can be acquired on the job.
+  - it involves dealing with people
+  - student develop valuable people skills
+  - they learn how to be polite and cheerful and how to listen to a complaint
+  - since the deal with such a wide range of people, they have a better understanding of humanity
+  - as a result, students develop an emotional intelligence that will server them well throughout life
+  - part-time and summer jobs allow students to grow and acquire skills.
+  - this job taught me valuable skills in time management, food and drink preparation, and speaking to the public.
+  - use your time and energy profitably
+  - the most important skills I acquired is people skills
+  - I had to deal with rude and picky customers
+  - as a tour guide, I learn to project my voice and keep my audience interested
