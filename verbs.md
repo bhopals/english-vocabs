@@ -88,3 +88,12 @@
 - `cut` down on <something> (cut down on unnecessary trips)
 - `develop` their abilities
 - `provide` <someone> with the opportunities of
+- `grow` warm
+- `cut` <someone> off <something> (internet cuts us off from real human interaction)
+- `lack` of formal manners
+- `make` claim
+- `attempt` to smooth out their surface after a disturbance
+- `assemble` the required documents
+- `visit` to community employment center
+- `lead` to meeting potential employers
+- `give` attention to their appearance

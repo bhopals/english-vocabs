@@ -1087,10 +1087,16 @@ Author - Lucia Engkent
 ### Chapter 6 - Rhetorical Skills
 
 - 1. The Hazard of Treeplanting
+
   - logging companies reforest a certain percentage of their cut land so they subcontract to treeplanting companies
   - put seeding into the grounds
   - rough living and working conditions
   - they have to endure the kind of searing heat that sparks forest fires
+  - people can cut down on unnecessary trips with their vehicles.
+
+  - the wind blows harder and harder
+  - as the rays of the sun beat down on the traveller, he grows very warm and takes off his cloak
+  - sometimes gentle persuasion works where force does not.
 
 ### Chapter 7 - Proof Reading and Editing
 
@@ -1118,3 +1124,31 @@ Author - Lucia Engkent
 - bruises and scrapes are inevitable in the rocky landscape
 - it is hard, miserable, and competitive work
 - implicit and explicit (not overtly stated) ideas
+
+- people are concerned that teenagers are disrespectful and impolite
+- today people point to such phenomenon as road rage, the lack of formal manners, and vulgarity on television
+  to make their claim that uncivility is on the rise.
+- influence human behaviour, make people less cosiderate
+
+- Tsunami
+
+  - Say tsunami and up pops a mental image of a single, gian wave rising out of the ocean to swallow cities whole.
+  - They are the result of oceans attempting to smooth out their surface after a disturbance.
+  - Tsunamis are triggered by any phenomenon that causes a large part of the water's surface to rise or drop
+    relative to normal sea level. These events are usually the result of earthquakes occuring along undersea
+    fault lines, the cracks in the Earth's crust between tectonic plates. When these plates collide and grind
+    against each other, they can elevate, lower, or tilt major sections of the ocean floor, suddenly offsetting
+    the level of water at the surface. The displaced water then rushes to level out, causing a tsunami.
+    The waves travel outward in all direction from the place where the earthquake occured, just like the ripples
+    created when a stone is thrown into a lake.
+
+- Looking for a Job
+  - Job hunting is a formidable task
+  - Not only is one's livelihood dependent on the outcome, but the hunt can be frustrating and demoralizing.
+  - job seekers must summarize their education, experience, and skills
+  - once the required documents are assembled, job hunters must start looking for possible openings
+  - using connections may gain them a foothold they might not otherwise be able to get
+  - a visit to community employement center
+  - they must also give importance to their appearance
+  - following all these steps make the job hunt a manageable task
+  - with a positive attitude and good preparation

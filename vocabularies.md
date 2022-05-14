@@ -104,3 +104,25 @@
 - EXAMPLES
   - What does the job actually entail?
   - The journey will entail changing trains twice.
+
+#### Formidable (adj) /ˈfôrmədəb(ə)l,fərˈmidəb(ə)l/
+
+- MEANING
+
+  - inspiring fear or respect through being impressively large, powerful, intense, or capable.
+
+- SYNONYMS
+
+  - initmidating, forbiding, daunting, alarming, firghtening
+
+- COLLOCATIONS
+
+  - a formidable opponent/task
+
+- EXAMPLES
+  - In debate he was a formidable opponent.
+  - Competition from established businesses can be formidable.
+  - The task was a formidable one.
+  - She has a formidable intellect.
+  - They had to overcome formidable obstacles.
+  - We have a formidable task ahead of us.

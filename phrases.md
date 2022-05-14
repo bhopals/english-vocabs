@@ -236,3 +236,10 @@ quite distant from the sitaution our partents were.
 - materialism is equated with happiness
 - deterrence against possible nuclear attack
 - causes a numbness in toes that can last for months
+- going through an intersection
+- I cleared the intersection
+- sometimes gentle persuasion works where force does not.
+- make claim that incivility is on the rise
+- make people less considerate
+- influence human behaviour
+- a popular misconception
