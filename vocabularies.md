@@ -126,3 +126,19 @@
   - She has a formidable intellect.
   - They had to overcome formidable obstacles.
   - We have a formidable task ahead of us.
+
+### tantrum - noun - /ˈtantrəm/
+
+- MEANING
+
+  - an uncontrolled outburst of anger and frustration, typically in a young child.
+
+- COLLOCATIONS
+  - throw a tantrum
+  - throw a temper tantrum
+- EXAMPLES
+  - Parents should never give in to their children's tantrum in stores when they do not get what they want.
+  - Whenever it's time for bed she throws a tantrum.
+  - You will not scream and throw a tantrum.
+  - He immediately threw a tantrum, screaming and stomping up and down like a child.
+  - A citizen assigned to jury duty is jailed for throwing a temper tantrum before a judge.

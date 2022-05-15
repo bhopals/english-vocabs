@@ -97,3 +97,10 @@
 - `visit` to community employment center
 - `lead` to meeting potential employers
 - `give` attention to their appearance
+- `strive` for improvements
+- `commit` a crime
+- `find` a problem
+- `teach` to be respectful of their elders
+- `give` in to <someone>/<something> - Parents should never give in to their children's tantrum
+- `throw` a tantrum - Whenever it's time for bed she throws a tantrum./ You will not scream and throw a tantrum.
+- `stomp` up and down like a children

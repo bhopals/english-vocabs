@@ -248,3 +248,8 @@ quite distant from the sitaution our partents were.
 - I want you to 86 an alram for me
 - 86 (slang) - "to throw out," "to get rid of," or "to refuse service to."
 - undo the cuffs
+
+- they did not have a sensible answers
+- the author is implying that the problem is government's fault.
+- people who choose luxxury cars often just want to show off their wealth
+- the food was inedible because it had sat out for too long
