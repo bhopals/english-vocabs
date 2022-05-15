@@ -283,3 +283,8 @@ quite distant from the sitaution our partents were.
 - to be qualified for something
 - to bring home the bacon
 - to be up for grabs
+
+- males are underperfoming in academics and therefor they have fewer career prospects
+- girls are more obedient and verbal
+- boys are more physical and hands on learner
+- lacking career

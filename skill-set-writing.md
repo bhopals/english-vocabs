@@ -1156,6 +1156,7 @@ Author - Lucia Engkent
 ### Chapter 9 - From School to Work
 
 - Essay - The New Heavyweight Champions
+
   - wives have become a major breadwinners
   - they have high-powered jobs in design, consulting, medicine, public affairs
   - share the household chores
@@ -1184,3 +1185,27 @@ Author - Lucia Engkent
   - men who are finalcially supported by women feel that their masculinity is threatened
   - traditional preferences for male chile has created a huge population imbalance
   - in many developing countries women are undervalued
+
+- Essay - Crushed By Potential
+  - at 26, I finished the school, but lacking a career
+  - life is a clean, bright canvas asking you to paint it the way you want.
+  - the minutiae of everyday life
+  - you can achieve anything you put your mind to
+  - students who are academically and artisticly gifted
+  - students who are academically gifted
+  - students who are learning disabled
+  - learning disabilities refer to a number of disorders which may affect the acquisition,
+    organization, retention, understanding or use of verbal or nonverbal information.
+  - students of differnt ethnics and religion
+  - women grew up to be a housewives and not use the schooling
+  - large-scale entry of women into the workforce
+  - now the pendulum has swung to the other side
+  - males are underperfoming in academics and therefore have fewer career prospects
+  - boys and girls behave and learn differently
+  - girls are more verbal and obedient
+  - boys are more physical and hands on learner
+  - it remains a contentious issue
+  - same-sex schooling
+  - parents who do too much to take care of their adult children are called `helicopter parents`. they hover.
+  - parents whose children have grown up and left are referred to as `empty nesters`
+  - adult children who return home after they have left for a period of uni. or work are called `boomerang children`
