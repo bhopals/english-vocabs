@@ -288,3 +288,7 @@ quite distant from the sitaution our partents were.
 - girls are more obedient and verbal
 - boys are more physical and hands on learner
 - lacking career
+- depression or social anxiety disorders
+- failed marriages, lost jobs, neglected children, sleep deprivation
+- social withdrawal
+- undermine their self-efficacy

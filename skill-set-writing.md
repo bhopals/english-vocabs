@@ -1209,3 +1209,24 @@ Author - Lucia Engkent
   - parents who do too much to take care of their adult children are called `helicopter parents`. they hover.
   - parents whose children have grown up and left are referred to as `empty nesters`
   - adult children who return home after they have left for a period of uni. or work are called `boomerang children`
+
+### Chapter 10 - Communication Technology
+
+- Essay - Internet Addiction: New-Age Diagnosis or Symptom of Age-old Problem
+  - the internet can be as destructive to a person's life as an addiction to alcohol or gambling.
+  - people who use computer excessively may suffer many of the same probles as other addicts:
+    failed marriages, lost jobs, neglected children, sleep deprivation
+  - people who spend 18 hours a day online may lead to physical problems - eye strain, back strain
+  - cause a detriment to your life
+  - internet has become a ubiquitous presence in modern society
+  - people praise technology as a means to eradicate drudgery and improve productivity
+  - the internet has inherent value and utlilty
+  - well-established treatment
+  - it should not generate false positives
+  - social withdrawal problem (Social withdrawal refers to the process whereby children remove themselves
+    from opportunities for peer interaction)
+  - internet has radically and irreversibly changed our lives
+  - scientific evidence is spotty and inconclusive
+  - the ease and appeal of substituting virtual relationship for real-world friendships
+  - by and large (to a greate extent) these relationshipds tend to be superficial
+  - a halo effect occurs when a positive impression in one area makes for a positive one in another

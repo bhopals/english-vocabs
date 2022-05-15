@@ -130,3 +130,11 @@
 - `create` a culture of colloboration
 - `require` a hight degree of people skill and nurturing
 - `operate` rationally
+- `stir` up a debate/controversy
+- `cause` a detriment to your life
+- `eradicate` drudgery
+- `improve` productivity
+- `perform` drudgery
+- `undermine` something - undermine their self-efficacy
+- `cause` impairment and distress
+- `generate` false positives
