@@ -1258,3 +1258,8 @@ Author - Lucia Engkent
   - young people spend more time looking at their phones than companion
   - communication technology changing lifestyle as well as social structure
   - too much reliance/dependence on communication devices
+  - the millennials are relying too much on technologies
+
+### Chapter 11 - The Environment
+
+- Essay - The case against Bottled Water
