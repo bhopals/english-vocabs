@@ -243,3 +243,8 @@ quite distant from the sitaution our partents were.
 - make people less considerate
 - influence human behaviour
 - a popular misconception
+
+- a canary in the coal mine - an early warning of danger
+- I want you to 86 an alram for me
+- 86 (slang) - "to throw out," "to get rid of," or "to refuse service to."
+- undo the cuffs
