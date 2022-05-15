@@ -305,3 +305,78 @@ https://www.youtube.com/watch?v=nkQ7lwEWeGA (01:25:20)
   - Study Courses
   - Focus on developing your listening skills
   - Try to slow down, and pause between thought groups
+
+### English Pronunciation and Speed Quality
+
+- Reference: https://www.youtube.com/watch?v=ttA1voiqIZ0
+- Focus and Content Word
+
+- WHICH WORDS ARE FOUCS WORDS?
+  - Often last CONTENT WORD (eg. Noun, Verb, Adj., Adverb) in thought group
+  - EXAMPLES (`` - focus word)
+    - Mark spends his weekends at `university`.
+    - She asked to `call` her.
+    - Do you want to `talk` about it?
+- FUNCTION WORDS
+
+  - `Function words` not usually focus words
+    (e.g. - Pronouns, Conjunctions, Articles)
+
+- FOCUS Words and Communication
+
+  - change focus words to change meaning
+  - EXAMPLES
+    - Sam drinks coffee every `morning` (It's in the `Morning`)
+    - `Sam` drinks coffee every morning (It's `Sam` not someone else)
+    - Sam drinks `coffee` every morning (It's `coffe` not some other drink)
+
+- COMMON CHANGE IN PATTERN
+
+  - To Show Contrast
+    - I can `speak` Chinese but I can't `read` it (Emphasizing on skill)
+  - Highilight new infromation
+
+    - I love `ice` cream especially `strawberry` ice cream. (emphasizin on typr of the ice cream)
+
+  - Correct Mistakes
+
+    - I am a `teacher` at this school, not a `student`
+
+  - General emphasis
+    - It was a `huge` mistake to say that
+
+- KEY POINTS ON FOCUS WORDS
+
+  - Focused words are used with thought groups to create the natural rhythm of
+    english that listener will be expecting.
+  - We can change the focus words to communicate meaning
+
+- EXAMPLES (/ - pause, `` - focus word)
+
+  - Good `afternoon` everyone./ I'd like to briefly introduce our `company`,/ for those of
+    you who don't `know` us./ we design and manufacture electronic `devices`./
+    For example `smart phones`,/ `tablets`,/ and `smart watches`./ We are proud to say that we now have offices in `ten` countries/ and over `10,000` employees.
+
+- RULE OF THUMB
+  - Mostly we will have focus on last content words (Noun, Verb, Adj., Adverb) of the sentence
+  - Sometimes to put emphasis we could focus on (other content words in the sentence)
+
+### Content Words and Function Words
+
+- CONTENT WORDS (More STRESS)
+
+  - Nouns (`paper`, `coffee`, `Mr. Smith`)
+  - Main Verbs (`talk`, `watched`, `need`, `find`)
+  - Adjectives (`tall`, `blue`, `enchanting`)
+  - Adverbs (`slowly`, `nervously`)
+  - Negation words (`no`, `not`, `isn't` `won't`)
+  - Possessive pronouns (Those are `hers`)
+  - `This`/`that` as pronouns (She wants `this`.)
+
+- FUNCTION WORDS (Less STRESS)
+  - Prepositions (it, on, for, with)
+  - Determiners (a, the, some)
+  - Helping Verbs (I'm `going` to leave, she `has` seen it.)
+  - Conjunctions (for, but, and, yet, etc.)
+  - Most Pronouns (she, it, they, them, him, etc.)
+  - The verb `be` (He`'s` a teacher, She `is` right, etc.)
