@@ -253,3 +253,33 @@ quite distant from the sitaution our partents were.
 - the author is implying that the problem is government's fault.
 - people who choose luxxury cars often just want to show off their wealth
 - the food was inedible because it had sat out for too long
+- the market has nearly dried up
+- conventional wisdom (a generally accepted theory or belief.)
+  - the conventional wisdom that soccer is a minor sport in America
+  - These days it has become conventional wisdom to question the role of science.
+  - the conventional wisdom is that the book is better than the movie.
+  - the conventional wisdom about cooking the Thanksgiving turkey is that none exists.
+  - the conventional wisdom is that individual investors panic more quickly than institutions.
+  - the conventional wisdom these days is to keep criminals in prison longer.
+  - the conventional wisdom is that welfare reform is tough on families.
+- welfare reform/politics reform
+- reversing a sedentary life style is always good for health
+- volunterring with people can ward off loneliness, depression, and anger
+- time spent in nature can reduce stress and anxiety and improves the mood
+- emotional intelligence
+  - In practical terms, this means being aware that emotions can drive our behavior and impact people
+    (positively and negatively), and learning how to manage those emotions – both our own and others.
+- give a sense of self-worth and achievements
+- as muscle job vanishes
+- requires a high degree of people skills and nurturing
+- apptitude for <somethings> (he has no apptitude for mathematics)
+
+- to keep the books
+- to dry up
+- to land a job
+- conventional wisdom
+- to be good at something
+- to have an aptitude for something
+- to be qualified for something
+- to bring home the bacon
+- to be up for grabs

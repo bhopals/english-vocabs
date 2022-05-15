@@ -1152,3 +1152,35 @@ Author - Lucia Engkent
   - they must also give importance to their appearance
   - following all these steps make the job hunt a manageable task
   - with a positive attitude and good preparation
+
+### Chapter 9 - From School to Work
+
+- Essay - The New Heavyweight Champions
+  - wives have become a major breadwinners
+  - they have high-powered jobs in design, consulting, medicine, public affairs
+  - share the household chores
+  - for them the market has nearly dried up
+  - major or sole breadwinner
+  - become the first country where women outnumbered man in the work force
+  - all evidence suggests that gender shift is permanent
+  - they outperform their brothers
+  - should not be too much concerned about getting the credentials
+  - the conventional wisdom is that welfare reform is tough on families.
+  - nearly all the fields that will yeild the most employment growth over the next couple of decadees
+    are once already dominated by women.
+  - people preferences are tilted towards girls
+  - sex preferences of parents has changed
+  - volunterring with people can ward off loneliness, depression, and anger
+  - workplaces have observed an unprecendent role reversal
+  - the modern post-industrial economy
+  - it rewards people with high degree of emotional intelligence who can navigate complex social network.
+  - it rewards people who are adaptable, flexible, cooperative
+  - good verbal skills and who can work diligently
+  - as muscle job vanishes, men are showing little and no interest in decoming teacher or dentist
+  - requires a high degree of people skill and nurturing
+  - it seems that women have more aptitude (inherent ability) for certain jobs than men
+  - if we operate rationally in an economic sense
+  - can the relationship between sexes be renegotiated
+  - men who are finalcially supported by women feel that their masculinity is threatened
+  - traditional preferences for male chile has created a huge population imbalance
+  - in many developing countries women are undervalued

@@ -104,3 +104,29 @@
 - `give` in to <someone>/<something> - Parents should never give in to their children's tantrum
 - `throw` a tantrum - Whenever it's time for bed she throws a tantrum./ You will not scream and throw a tantrum.
 - `stomp` up and down like a children
+- `share` household chores
+- `outnumber` <someone>
+- `outperform` <someone>
+- `yield` the most employment growth
+- `reverse` sedentary lifestyle
+- `ward` off <smth>/<smone> - He used his umbrella to ward off the fierce sun.
+- `reduce` stress and anxiety
+- `improves` the mood
+- `give` a sense of self-worth and achievements
+- `meet` new peopl
+- `develop` profesionl skills
+- `sharp` existing skills
+- `develop` new skills
+- `boost` confidence/performance
+- `build` a profile/resume
+- `imporve` life satisfaction and improve their health
+- `ease` up the restrictions
+- `allow` public gathering
+- `reward` people with something
+- `drive` our behaviour
+- `impact` other people
+- `resolve` conflicts
+- `motivate` people
+- `create` a culture of colloboration
+- `require` a hight degree of people skill and nurturing
+- `operate` rationally
