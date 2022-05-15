@@ -380,3 +380,21 @@ https://www.youtube.com/watch?v=nkQ7lwEWeGA (01:25:20)
   - Conjunctions (for, but, and, yet, etc.)
   - Most Pronouns (she, it, they, them, him, etc.)
   - The verb `be` (He`'s` a teacher, She `is` right, etc.)
+
+### TOOLS FOR CLEAR SPEECH
+
+#### REDUCED SPEECH
+
+Reference - https://tfcs.baruch.cuny.edu/reduced-speech/
+
+#### CONTRASTING INFORMATION
+
+Reference - https://tfcs.baruch.cuny.edu/contrasting--and-clarifying/
+
+#### SPEAKING RATE
+
+Reference - https://tfcs.baruch.cuny.edu/speaking-rate/
+
+#### LINKING AND CONNECTED SPEECH
+
+Reference - https://tfcs.baruch.cuny.edu/linking-and-connected-speech/
