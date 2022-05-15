@@ -142,3 +142,12 @@
   - You will not scream and throw a tantrum.
   - He immediately threw a tantrum, screaming and stomping up and down like a child.
   - A citizen assigned to jury duty is jailed for throwing a temper tantrum before a judge.
+
+### render - /ˈrendər/ - verb
+
+- MEANING
+  - provide or give (a service, help, etc.).
+- EXAMPLES
+  - Smart phones are rendering people more insulated and less social
+  - The rescue personnel will be here momentarily to render aid to the victims.
+  - Any assistance you can render him will be appreciated.

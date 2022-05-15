@@ -1213,6 +1213,7 @@ Author - Lucia Engkent
 ### Chapter 10 - Communication Technology
 
 - Essay - Internet Addiction: New-Age Diagnosis or Symptom of Age-old Problem
+
   - the internet can be as destructive to a person's life as an addiction to alcohol or gambling.
   - people who use computer excessively may suffer many of the same probles as other addicts:
     failed marriages, lost jobs, neglected children, sleep deprivation
@@ -1230,3 +1231,30 @@ Author - Lucia Engkent
   - the ease and appeal of substituting virtual relationship for real-world friendships
   - by and large (to a greate extent) these relationshipds tend to be superficial
   - a halo effect occurs when a positive impression in one area makes for a positive one in another
+
+- Essay - Using a Cellphone for Talking? That is so 2007
+
+  - what sets this particular phone apart, it seems, is the fact that it has ....
+  - iphone 4 has caused a media sensation
+  - smart phones are rendering people more insulated and less social
+  - but instead of bemoaning the decline of talk, we may be better off asking why exactly we
+    thought talking on the phone was a hot idea in the first place.
+  - a tool that can reconnect families despite the vast distance
+  - phones have always been profoundly anti-social and alienating inventions
+  - non-vocal cue (communication processes include gesture, facial expression, tone of voice,
+    and even physical appearance.)
+  - phones cut off every non-vocal cue (sign) we rely upon in conversation
+  - this is torture for people who are more expressive than verbose
+  - you can comfortably sit in silence with someone in person, but on the phone, it's completely excruciating.
+
+  - phone calls are invasion of personal space, hijacking your immediate attention, holding you the
+    hostage until the end of the conversation.
+  - they are inconvenient
+  - they are fleeing and don't leave written transcripts.
+
+  - young people today have grown up not only surrouned by communication technology but also tethered to it.
+  - we cannot imagine our lives without cellphonse
+  - why do we prefer to socialize throung a medium of screen rather than face-to-face
+  - young people spend more time looking at their phones than companion
+  - communication technology changing lifestyle as well as social structure
+  - too much reliance/dependence on communication devices

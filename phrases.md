@@ -292,3 +292,15 @@ quite distant from the sitaution our partents were.
 - failed marriages, lost jobs, neglected children, sleep deprivation
 - social withdrawal
 - undermine their self-efficacy
+
+- the very idea of something
+- stamp of approval
+- false positive
+- meet the test
+- if for no reason than
+
+- smart phones are rendering people more insulated and less social
+- non-vocal cue (communication processes include gesture, facial expression, tone of voice,
+  and even physical appearance.)
+- phone calls are invasion of personal space, hijacking your immediate attention, holding you a hostage until
+  the ends of the conversation.

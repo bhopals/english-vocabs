@@ -138,3 +138,7 @@
 - `undermine` something - undermine their self-efficacy
 - `cause` impairment and distress
 - `generate` false positives
+- `set` <smth> apart
+- `cause` a media sensation
+- `bemoan` <something> - bemoaning the decline of talk
+- `limit` cellphone usage in school classes
