@@ -175,3 +175,8 @@
 - `provide` strong evidence
 - `pose` a significant risk to <smth> - pose a significant risk to the safety of food safety
 - `discard` <smth> - discard reusable bags regularly
+- `follow` environmentally friendly living habits
+- `make` choice
+- `educate` <someone> about <smth> - consumers must educate themselves about the choices they make
+- `limit` environment damage
+- `reduce` use of toxic chemicals

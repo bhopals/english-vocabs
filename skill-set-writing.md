@@ -1312,6 +1312,7 @@ Author - Lucia Engkent
   - lessen environmental damage
 
 - Essay - Battle of the Bag
+
   - advocate of plastic shopping bags
   - the once-ubiquitous plastic bag has quickly become an environmental bogeyman in Canada
   - citing concerns over litter and landfill, they launched the first municipal bylaw requiring all
@@ -1329,3 +1330,16 @@ Author - Lucia Engkent
   - the study provides strong evidence that reusable bags could pose a significant risk to the safety of food supply
     if used to transport food from store to home
   - reusable bags should be washed and discarded regularly.
+
+- Essay - Living Green
+  - most people want to follow environmentally friendly living habits, but they do not know what to do.
+  - experts advice often coflicts and may not consider individual situations
+  - Green alternatives may be impractical
+  - For example, the weather, the design of cities, and long commuting distance often make cycling work
+    impractical in Canada.
+  - Citizens may dutifully separate recyclables from their garbage only to find out that city has no market for the
+    items and they end up in landfill anyway.
+  - Finally, the green alternatives are not always as good as advertised. For instance, compact fluroescent bulbs use
+    less electricity but contain toxic mercury. Lighter fuel-efficient cars may break down earlier and have to be
+    replaced sooner than heavier cars. It is clear that consumers must educate themselves about the choices the make.
+  - How Canadians limit environmental damage

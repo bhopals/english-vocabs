@@ -331,3 +331,8 @@ quite distant from the sitaution our partents were.
 - the plastic bag is a symbol of our wasteful and gluttenous lifestyle. It all has to change
 - marine litter
 - calling for a sweeping worldwide ban on plastic bags
+- follow environmentally friendly living habits.
+- citizens may dutifully separate recyclables from their garbage only to find out it end up in landfill anyway.
+- Finally, the green alternatives may be impractical and not always as good as advertised.
+- consumer must educate themselves about the choices they make
+- environmental effects of clearing rain-forest
