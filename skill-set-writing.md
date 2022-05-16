@@ -1263,6 +1263,7 @@ Author - Lucia Engkent
 ### Chapter 11 - The Environment
 
 - Essay - The case against Bottled Water
+
   - Canadians have long been proud of the mighty rivers and beautiful lakes that make this country
     one of the greatest repositories of fresh water on the planet
   - It is a sad statement about our society that we are increasingly choosing to drink bottled water,
@@ -1309,3 +1310,22 @@ Author - Lucia Engkent
     myriads of problems
   - bottled water companies
   - lessen environmental damage
+
+- Essay - Battle of the Bag
+  - advocate of plastic shopping bags
+  - the once-ubiquitous plastic bag has quickly become an environmental bogeyman in Canada
+  - citing concerns over litter and landfill, they launched the first municipal bylaw requiring all
+    the stores to charge a five cents per bag to discourage their use
+  - Tasked with uneviable job of defending plastic bags in the face of this momentum
+  - 8 out of 10 Canadians reused their plastic shopping bags for household garbage or pet waste
+  - it has become an emotional issue rather than a debate based on the facts
+  - municipal efforts would be better directed towards recycling plastic rather than discouraging it's use.
+  - the ardent environmentalist disputes the notion that bags are a minor issue.
+  - From disposable coffee lids to consumer electronics
+  - The plastic bag is a symbol of wasteful and gluttenous lifestyle. It all has to change
+  - plastic bags are accounted for 8 percent of total marine litter
+  - calling for a sweeping worldwide ban of "pointless" plastic bags
+  - examine health implications of replacing plastic bags with reusable green bags.
+  - the study provides strong evidence that reusable bags could pose a significant risk to the safety of food supply
+    if used to transport food from store to home
+  - reusable bags should be washed and discarded regularly.

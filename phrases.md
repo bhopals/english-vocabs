@@ -325,4 +325,9 @@ quite distant from the sitaution our partents were.
 - social, environmental, and economic perspective, the success of the bottled water has created a myriad of problems.
 - bottled water companies
 - it was galling ['gɔːlɪŋ] to have to apologize to a man she hated.
--
+- plastic shopping bags reused for household garbage or pet waste
+- it has become an emotional issue rather than a debate based on facts
+- from disposable coffee lids to conumer electronics (every day used electronics)
+- the plastic bag is a symbol of our wasteful and gluttenous lifestyle. It all has to change
+- marine litter
+- calling for a sweeping worldwide ban on plastic bags

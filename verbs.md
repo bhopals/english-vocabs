@@ -163,3 +163,15 @@
 - `draw` water from the tap
 - `create` myriads of problems
 - `detest` (/dəˈtest/ - dislike intensly) <someone> - crow is the most detested bird
+- `advocate` of <smth> (advocate of plastic shopping bags)
+- `cite` concerns over <somthing> (citing concerns over litter and landfill)
+- `discourage` <someone> from <something> - discourage my daughter from going/leaving
+- `require` to pay
+- `dispute` the notion of <smth> - dispute the notion of loyal opposition
+- `dispute` the notion that <smth> - dispute the notion that he is seeking more authority
+- `call` for a sweeping worldwide ban on plastic bags
+- `examine` health implications of replacing plastic bags
+- `replace` <smthg> with <smth> - replace plastiv bags with reusable woven green bags
+- `provide` strong evidence
+- `pose` a significant risk to <smth> - pose a significant risk to the safety of food safety
+- `discard` <smth> - discard reusable bags regularly
