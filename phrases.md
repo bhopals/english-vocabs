@@ -304,3 +304,25 @@ quite distant from the sitaution our partents were.
   and even physical appearance.)
 - phone calls are invasion of personal space, hijacking your immediate attention, holding you a hostage until
   the ends of the conversation.
+
+- <someone> have long been proud of <something>
+- We have long been proud of the mighty rivers and beautiful lakes
+- A recent study showed 3 in 10 people are ....
+- pristine glaciers and mountain streams
+- pristine images/landscape/glaciers/seas/white shirt/condition/snow
+- beaches are pristine and beautiful
+- there are no evidence to support that <something> is <something>
+- there are no evidence to support that the bottled water is any safer than tap water
+- something is stringetly tested
+- stringent (strict, firm, rigorous, harsh, tough, tight, severe)
+- stringent rules/safety/diet/traffic laws/visa rules/admission requirements/sentencing of drunk drivers/regulation
+- stringent safety regulation/security measures/economic reforms/budget-deficit cuts/auterity measures
+- serious environmental consequences of their choices
+- release of toxic chemicals/wastes/gases/fumes/substances/pollutants
+- buying bottled water is an incredibly expensive habit
+- exorbitant price
+- marketing perspective
+- social, environmental, and economic perspective, the success of the bottled water has created a myriad of problems.
+- bottled water companies
+- it was galling ['gɔːlɪŋ] to have to apologize to a man she hated.
+-

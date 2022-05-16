@@ -142,3 +142,24 @@
 - `cause` a media sensation
 - `bemoan` <something> - bemoaning the decline of talk
 - `limit` cellphone usage in school classes
+- `avoid` drinking bottled water
+- `institute` stringent austerity measures
+- `inspect` <something> - water supplies are inspected every day
+- `consider` the health risks and safety posed by bottle themselves
+- `pose` a threat to <something>
+- `leach` <smthg> from <smthg> (leach the toxic material from the soil)
+- `leach` <smthg> into <smthg> (leach a dangerous toxin into the water)/ (leach harmful substances into the water)
+- `contribute` to global warming
+- `release` of millions of tons of CO2 into the atmosphere
+- `release` of toxic chemicals into air, land and water
+- `produce` water bottles
+- `dispose` of the empty bottles
+- `takes` energy to fill the bottles
+- `bury` plastic wastes in the landfill
+- `incinerate` (/inˈsinəˌrāt/) plastic waste
+- `leak` toxic addictives into the groundwater
+- `enter` the food chain
+- `force` to admit <smth> - Pepsi was forced to admit that they add addictives in their drinks
+- `draw` water from the tap
+- `create` myriads of problems
+- `detest` (/dəˈtest/ - dislike intensly) <someone> - crow is the most detested bird

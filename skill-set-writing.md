@@ -1172,17 +1172,17 @@ Author - Lucia Engkent
   - people preferences are tilted towards girls
   - sex preferences of parents has changed
   - volunterring with people can ward off loneliness, depression, and anger
-  - workplaces have observed an unprecendent role reversal
+  - workplaces have observed an unprecendent(/ˌənˈpresədən(t)əd/) role reversal
   - the modern post-industrial economy
   - it rewards people with high degree of emotional intelligence who can navigate complex social network.
   - it rewards people who are adaptable, flexible, cooperative
   - good verbal skills and who can work diligently
-  - as muscle job vanishes, men are showing little and no interest in decoming teacher or dentist
+  - as muscle job vanishes, men are showing little and no interest in becoming teacher or dentist
   - requires a high degree of people skill and nurturing
   - it seems that women have more aptitude (inherent ability) for certain jobs than men
   - if we operate rationally in an economic sense
   - can the relationship between sexes be renegotiated
-  - men who are finalcially supported by women feel that their masculinity is threatened
+  - men who are finalcially supported by women feel that their masculinity(/ˌmaskyəˈlinədē/) is threatened
   - traditional preferences for male chile has created a huge population imbalance
   - in many developing countries women are undervalued
 
@@ -1263,3 +1263,49 @@ Author - Lucia Engkent
 ### Chapter 11 - The Environment
 
 - Essay - The case against Bottled Water
+  - Canadians have long been proud of the mighty rivers and beautiful lakes that make this country
+    one of the greatest repositories of fresh water on the planet
+  - It is a sad statement about our society that we are increasingly choosing to drink bottled water,
+    often from foreign companies.
+  - A recent study found that three in 10 Canadian households used bottled water as their main source of drinking water.
+  - The study is surprising, as there are so many good reasons to avoid drinking bottled water
+  - they think bottled water is safer and healthier than the tap water
+  - advertising by bottled water companies - dominated by images of pristine glaciers and mountain streams - leaves
+    consumers with that impression.
+  - The reality is Canada's water supply - with rare exception - is extremely safe.
+  - There are no evidence to support the belief that bottled water is any safer than tap water
+  - Indeed, if anything, our tap water may well be safer and healthier than bottled varities.
+  - The municipal water supply is more stringenty tested than bottled water supplies.
+  - Municipal water supplies are inspected every day while bottled-water plants are inspected just once every three years
+  - Consumers should also consider the safety and health risks posed by the bottles themselves.
+  - A study found that PET bottles leach a dangerous toxin called antinomy into the water they contain.
+  - The study found the rise of antinomy rise the longer water stays in the bottle
+  - Before reaching out to the bottled water, people need to think about the serious environmental
+    consequences of their water choice.
+  - this includes release of millions of tons of carbon dioxide into the atmosphere from manufacturing, transport,
+    and marketing, which contributes to global warming; depleting of scarce energy and water resources;
+    release of toxic chemicals into our air, land and water; and absorption of poisons into the food chain.
+  - the energy required to produce water bottles in 2006 alone was so high - almost 17 million barrel of oil
+    and created 2.5 million tons of carbon dioxide (in 2006 alone)
+  - Producing water bottles consumes a huge amount of water too. its almost 3 liters water to produce a bottle.
+  - it also takes energy to fill the bottles; ship them by truck, train, boat, or place to the consumer;
+    refrigrate them; and recover, recycle, or dispose of the empty bottles
+  - The total amount of energy used to provide a bottle of water to the consumer could be equal
+    to filling 25 percent of that bottle with oil.
+  - unfortunately, most empty bottles are thrown into the trash
+  - these bottles don't just disappear - they either buried in the landfill or they are incenarted (/inˈsinəˌrātəd/)
+  - the buried bottles take up to 1000 years to biodegrade and may leak toxic addictives into the groundwater
+  - the incinarated bottles release toxic chemicals into our air.
+  - moreover, some bottles make their way into our oceans, where they break into increasingly tiny pieces
+    and can enter the food chain where they are eaten by marine animals and birds
+  - the economics of bottled water are also as startling as the health and environmental considerations.
+  - buying bottled water is an incredibly expensive habit.
+  - As Pepsi was forced to admit last year, it takes the water they bottle directly from municipal water systems.
+  - What is perhaps more galling is that not only is the consumer paying exorbitant prices for filtered tap water
+    but the taxpayer is also heavily subsidizing these companies on the back end by allowing them to draw water
+    from municipal systems that were build with their tax monies.
+  - From a marketing perspective, bottled water is unquestionably one of the greatest success stories of modern times.
+  - However, from a social, environmental, and economics perspective, the success of bottled water has created
+    myriads of problems
+  - bottled water companies
+  - lessen environmental damage
