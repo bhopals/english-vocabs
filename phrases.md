@@ -336,3 +336,12 @@ quite distant from the sitaution our partents were.
 - Finally, the green alternatives may be impractical and not always as good as advertised.
 - consumer must educate themselves about the choices they make
 - environmental effects of clearing rain-forest
+
+- It is a natural tendency for <smthg>
+- It is a natural tendency to do <smthg>
+- surviving on paulty salary/paycheck
+- relentless poverty pushed him to prostitution
+- economic downturn
+- Canadian birth rate below replacement level
+- second-generation immigrants
+- clash of wills and desires can create resentment

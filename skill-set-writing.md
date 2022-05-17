@@ -1346,4 +1346,31 @@ Author - Lucia Engkent
 
 ### Chapter 12 - Migration
 
-- Essay - Immigrants Isolated? Tell that to Their Children
+- Essay
+  - it is the natural tendency for immigrants venturing into a new world.
+  - a niche where people speak your language and eat your food, share your beliefs and understand your
+    cultural otherness
+  - native born offsprings of immigrants
+  - I am not broadly convince of this
+  - Canada has devalued the concept of assimilation
+  - I didn't recall any resentment
+  - Relentless poverty in their home countries will continue to drive people to leave for a paltry salary
+    that is much more than what they could ever hope to earn back home.
+  - many white-collar expats dig themselves deeper in debt, and everyone else counts how much they have lost
+    in the economic downturn
+  - these people earn a fraction of proper salary, yet they manage to save and send whatever they can back home
+  - move to a place that is so relies on immigrant labours
+  - With Canadian Birthrate below replacement level, the country counts on immigration for demographic
+    and therefore economic growth.
+  - Moreover, immigrants are motivated to work hard and to work at jobs that canadians are reluctant to do.
+  - Immigrants leave family and friends to come to a strange land.
+  - They must change their lifestyle to adapt to Canadian language, laws, and culture.
+  - The second-generation immigrants have such high academic achievements
+  - The second generation is often caught between Canadian Lifestyle and values and those of their parents.
+  - Many walk the tightrope between two different cultures
+  - sometimes results in terrible conflict
+  - clash of wills and desires can create resentment between both first and second generation immigrants
+  - Should there be any amnesty for illegal immigrants.
+  - what kind of adjustment should immigrants make
+  - what factors determine how well immigrants assimilate
+  - what factors determine whether second-generation immigrants will keep their mother tongue?

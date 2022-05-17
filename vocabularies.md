@@ -85,7 +85,9 @@
 - MEANING
   - to a profound extent; extremely.
 - SYNONYMS
+
   - very, extremely, deeply, exceedingly, greatly
+
 - COLLOCATIONS
 
 - EXAMPLES
@@ -151,3 +153,36 @@
   - Smart phones are rendering people more insulated and less social
   - The rescue personnel will be here momentarily to render aid to the victims.
   - Any assistance you can render him will be appreciated.
+
+### Relentless - adj - /rəˈlen(t)ləs/
+
+- MEANING
+
+  - oppressively constant; incessant.
+
+- COLLOCATIONS
+  - relentless poverty/pressure/music/rain/storm/change/sun/determination/passion/questioning
+- EXAMPLES
+  - The relentless heat of the desert
+  - You have to focus with a kind of relentless determination on keeping your grip.
+  - I know him to be nothing but a man of pleasure, a dandy who has given himself up
+    to the relentless pursuit of sensual pleasure.
+  - If you are relentless in pursuit of your dreams, you will achieve them.
+  - The relentless marshal pursued the escaped prisoner for ten years.
+
+### Paltry - adj - /ˈpôltrē/
+
+- MEANING
+
+  - (of an amount) small or meager.
+  - petty, trivial
+
+- SYNONYMS
+  - small, meager, insignificant, negligible, inadequate, trivial, petty, worthless
+- COLLOCATIONS
+  - paltry raise/wages/salary/allowance
+- EXAMPLES
+  - She made some paltry excuse and left.
+  - Last year workers were offered a paltry raise of only one percent.
+  - My teenage son often complains about what he considers to be a paltry allowance.
+  - Although I paid a great deal for the gourmet meal, I only received a paltry amount of food on my plate.

@@ -180,3 +180,9 @@
 - `educate` <someone> about <smth> - consumers must educate themselves about the choices they make
 - `limit` environment damage
 - `reduce` use of toxic chemicals
+- `share` your beliefs
+- `understand` your culture otherness
+- `eat` your food
+- `pursuit` of your dreams
+- `drive` people to leave
+- `walk` the tightrope between <A> and <B>
