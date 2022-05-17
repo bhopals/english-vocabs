@@ -1343,3 +1343,7 @@ Author - Lucia Engkent
     less electricity but contain toxic mercury. Lighter fuel-efficient cars may break down earlier and have to be
     replaced sooner than heavier cars. It is clear that consumers must educate themselves about the choices the make.
   - How Canadians limit environmental damage
+
+### Chapter 12 - Migration
+
+- Essay - Immigrants Isolated? Tell that to Their Children
