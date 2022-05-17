@@ -187,3 +187,20 @@
 - `drive` people to leave
 - `walk` the tightrope between <A> and <B>
 - `keep` their mother tongue
+- `brew` coffee
+- `grill` chicken/tuna
+- `launder` clothes - (these pieces are easy to launder and stain resistant.)
+- `improvise` recipes
+- `call` ahead
+- `commit` to date of arrival and departure
+- `change` plan
+- `arrive` with present
+- `offer` some tokens everyday
+- `roast` chicken
+- `toss` salad
+- `whisk` sabayon
+- `indulge` in <smth> - I don't indulge in idle gossip
+- `indulge` <someone> with <something> - Do you think the CEO would indulge me with a few minutes of his precious time?
+- `converse` charmingly
+- `remain` private
+- `venture` an opinion

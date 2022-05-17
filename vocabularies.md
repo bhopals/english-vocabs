@@ -186,3 +186,44 @@
   - Last year workers were offered a paltry raise of only one percent.
   - My teenage son often complains about what he considers to be a paltry allowance.
   - Although I paid a great deal for the gourmet meal, I only received a paltry amount of food on my plate.
+
+### Remedial - adj - /rəˈmēdēəl/
+
+- MEANING
+  - tending or intended to rectify or improve / designed to improve something
+- COLLOCATIONS
+  - remedial steps/advice/classes/surgery/work/measures
+- EXAMPLES
+  - Remedial steps will be taken to improve the damaged highway.
+  - Students who failed math during the regular school year will automatically be registered for a remedial classes
+  - According to the doctor, a remedial surgery on my knee will improve my mobility.
+  - The building needs urgent remedial work to make it safe.
+
+### impending - adjective - /imˈpendiNG/
+
+- MEANING
+  - (of an event regarded as threatening or significant) about to happen; forthcoming; close in time; about to occur.
+- COLLOCATIONS
+  - impending disaster/famine/invasion/divorce/tax-cut/visit/meeting
+- SYNONYMS
+  - nearing, imminent, at hand, close, near
+- EXAMPLES
+  - It seemed that nothing could prevent the impending disaster.
+  - They received intelligence of an impending invasion.
+  - A red morning sky is a sign of an impending storm.
+  - She demanded that I reschedule my mother's impending visit.
+
+### Unstinting - adj - /ˌənˈstin(t)iNG/
+
+- MEANING
+  - given or giving without restraint; unsparing; generously giving
+- SYNONYMS
+  - free, free-handed, ready, generoud
+- COLLOCATIONS
+  - unstinting support/devotion/generosity/help
+- EXAMPLES
+  - He was unstinting in his praise.
+  - Display unstinting generosity when it comes to food.
+  - Michelle Obama is known for her generous and unstinting support of military families.
+  - We would like to thank Edna Hales for her unstinting support over the years.
+  - We all appreciate your unstinting help.

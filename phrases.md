@@ -346,3 +346,21 @@ quite distant from the sitaution our partents were.
 - second-generation immigrants
 - clash of wills and desires can create resentment
 - frustraion for both first and second generation immigrants
+- laundering clothes
+- stain resistant
+- these piecese are easy to launder and stain resistant
+- I was on my best behavior
+- Gifts that your host expressly like
+- If your host is minimalist, don't clutter his space.
+- It is axiomatic (self-evident) that dividends have to be financed
+- If I don't know, you don't know. It is axiomatic (self-evident)
+- It has seen better days.
+  - If you say that something has seen better days, you mean that it is old and in poor condition)
+- I was too weary to cook
+- Never be weary of well doing
+- Display unstinting generosity when it comes to food.
+- I don't indulge in idle gossip
+- Indlge him the way he is indulging you.
+- Take the map, and venture out on your own
+- conventional greeting - good morning/afternoon/evening
+- parting rituals - good bye,

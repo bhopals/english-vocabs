@@ -1374,3 +1374,50 @@ Author - Lucia Engkent
   - what kind of adjustment should immigrants make
   - what factors determine how well immigrants assimilate
   - what factors determine whether second-generation immigrants will keep their mother tongue?
+
+### Chapter 13 - Etiquetter and Culture
+
+- Essay - Those Mooching, Deadbeat Guests
+
+  - Being a perfect house-guest requires talent and act
+  - As a perfect host, I brewed coffee in the morning and grilled tuna for dinner
+  - I kept towel laundered and bathroom clean
+  - I was on my best behaviour
+  - All summer, I improvised curry recipes and pasta sauces to please my hosts.
+  - I was grateful
+  - Some of my friends need remedial advice on guesting
+  - She wanted to stay longer.
+  - A perfect guest calls ahead, commits to dates of arrival and departure, and does not whimsically change plans
+  - She demanded that I reschedule my mother's impending visit.
+  - The unwanted guest stayed for 24 more days.
+  - I operate on the `on gift a day` principle.
+  - The perfect guest arrives with a present and offer some token every day thereafter.
+  - The gift doesn't have to be extravagant, just a sign of appreciation
+  - Appropriate gift falls into four categories: things to eat, things to drink, things to amuse, things your
+    guest expressly like
+  - Do not tell your host that his taste sucks.
+  - Your carpet has seen better days! I can't believe you still have that thing.
+  - If I hated it, I would not have it on my floor, would I?
+  - It is far better to flatter your host than critique his interior decorating.
+  - Your home is beautiful and functional at the same time
+  - I roasted chicken, tossed salad, whisked sabayon
+  - I was too weary to cook
+  - Withing minutes, queasiness overcame her, and she took to her bad.
+  - I foraged in the kitchen
+  - Fifteen minutes later, she weakly suggested I go to the restaurant alone.
+  - I have nibbled on leftovers
+  - Withing minutes, my guest had recovered her health and good spirits.
+  - Be grateful for what you get
+  - Display unstinting generosity when it comes to food.
+  - If your host leads you to a pricey restaurant, indulge him the way he is indulging you.
+  - Take the map, and venture out on your own
+  - converse charmingly
+  - few things should remain private
+  - house guest etiquette varies from culture to culture
+
+  - Linguistic custom requires them to produce `thank you`
+  - thanking in english is like greeting, apologizing, and politely requesting
+  - they often become more like one word than a phrase
+  - conventional greeting - good morning/afternoon/evening
+  - parting rituals - good bye,
+  - Etiquette means polite behaviour in society
