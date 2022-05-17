@@ -186,3 +186,4 @@
 - `pursuit` of your dreams
 - `drive` people to leave
 - `walk` the tightrope between <A> and <B>
+- `keep` their mother tongue

@@ -345,3 +345,4 @@ quite distant from the sitaution our partents were.
 - Canadian birth rate below replacement level
 - second-generation immigrants
 - clash of wills and desires can create resentment
+- frustraion for both first and second generation immigrants
