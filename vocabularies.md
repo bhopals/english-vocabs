@@ -260,3 +260,37 @@
   - As they hid in the attic, the mother tried to stifle the baby’s cry so the Nazis wouldn't find them.
   - She managed to stifle a yawn.
   - He struggled to stifle a yawn.
+
+### douse - verb - /dous/
+
+- MEANING
+  - pour a liquid over; drench. - drench, soak, drown, flood
+- EXAMPLES
+  - "he doused the car with gasoline and set it on fire"
+  - douse <someone>/<something> with <something>
+  - You just sit on the ground, chant, douse yourself with gasoline and light a match
+- MEANING
+  - extinguish (a fire or light).
+- EXAMPLES
+  - "stewards appeared and the fire was doused"
+  - The announcement of the lottery winner is sure to douse the dreams of millions of people.
+  - If you want to be successful as an actress, you cannot let one rejection douse your dream of becoming a star.
+
+### Spring - spriNG - verb
+
+- MEANING
+
+  - move or jump suddenly or rapidly upward or forward.
+
+- EXAMPLES
+  - "I sprang out of bed"
+
+### Subdue - /səbˈd(y)o͞o/ - verb
+
+- MEANING
+  - overcome, quieten, or bring under control (a feeling or person).
+
+-EXAMPLES
+
+- "she managed to subdue an instinct to applaud"
+- Richard subdued his opponent fourth time.

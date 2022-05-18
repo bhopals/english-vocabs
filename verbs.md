@@ -233,3 +233,30 @@
 - `require` <smone> to do <smthg> - requiring students to wear uniforms
 - `conform` to society's expectations.
 - `dictate` clash with other rules and regulations
+- `pull` down signs
+- `tear` doors off their hinges
+- `topple` newsstands and telephone booths
+- `douse` (soak) <someone>/<something> with <something> - he doused the car with gasoline and set it on fire
+- `carry` away <smthg> - looters carried away everything portable
+- `spring` at someone
+- `suffer` body bruises and face wounds
+- `toss` a blood-stained towel at referee
+- `complain` bitterly
+- `apply` the rules strictly
+- `permit` rough play
+- `ignore` rules
+- `perceive` everything in microscopic details
+- `bodycheck` <someone>
+- `hang` on to <smth> - I think I'll hang on to the documents for a bit longer.
+- `set` a hearing
+- `ascertain` all the facts
+- `decide` on <smth> - decide on what punishment to give to those who are late today
+- `ignore` red lights
+- `become` upset by <smth> - Alen became upset by court's decision
+- `give` verdict
+- `add` fuel to the fire
+- `hope` of <smth> go up in smoke - He saw his hopes of a league championship go up in the smoke.
+- `appear` restless and upset
+- `rub` eye
+- `scratch` nose/left ear
+- `tug` his tie

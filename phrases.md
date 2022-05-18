@@ -386,3 +386,8 @@ quite distant from the sitaution our partents were.
 - environmental degradation
 - Whether or not to conform to society's expectations.
 - Accomodations and compromises have generally been made
+- our patience is exhausted
+- the windows of street cars were smashed for no apparent reason.
+- opposing teams recognize Richard's talents and use rugged methods to stop him.
+- he ignored falshing railway-level-crossing signal
+- many prominent people added fuel to the fire

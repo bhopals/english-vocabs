@@ -1483,3 +1483,57 @@ Author - Lucia Engkent
     especially when religion dictate clash with other rules and regulations.
   - Accomodations and compromises have generally been made
   - Muslim women's donning of hijab (head scarf), niqab (face veil), or burka (the complete body covering)
+
+### Chapter 15 - Sport
+
+- Essay - The Strange Forces Behind the Richard Hocket Riot
+  - A lynching might even be attempted.
+  - The windows of passing streetcards were smashed for no apparent reason
+  - The mob smashed hundereds of windows in the Forum by throwing bricks and bottles of beer.
+  - They pulled down signs and tore doors off their hinges
+  - They toppled corner newsstands and telephone booths
+  - They doused them in oil and left them burning
+  - when the mob grew weary of the Forum, they moved eastward down.
+  - they left in their path a swath of destruction
+  - it looked like the aftermath of a wartime blitz in London.
+  - hardly a store was spared
+  - private automobiles were damaged
+  - Display windows were smashed, and looters carried away everything portable
+  - The outbreak was symptomatic of racial ill-feeling
+  - French and English relationship were deteriotated badly over the past 10 years and they have never been worse.
+  - Lifting his stick high over his head with both hands Richard pounded Alen over the face and shoulder with all
+    his strengths. Alen dropped his gloves and sticks and motioned to Richard to come and fight with his fists.
+  - More than two sticks slashed at the man who had injured him.
+  - Thompson subdued Richard for the fourth time.
+  - Richard ragained his feet and sprang at him, bruising his face and blackening his eyes.
+  - Alen suffered body bruises and face wounds
+  - He was given 10-minutes penalty for tossing a blood-stained towel at the referee.
+  - It was merely(only) another example of how lawlessness can spread from players to spectators.
+  - Team owners, coaches promoted disrespect for law and authority in hockey by their attitude.
+  - They complain bitterly when referees apply the rules strictly
+  - In this new brand of hockey which permits rough play and often ignores the rule.
+  - His intense, penetrating eyes seem to perceive everything in microscopic details.
+  - opposing teams recognize Richard's talents and use rugged methods to stop him.
+  - They regularly hand on to him, put hockey sticks between his legs, bodycheck him, and
+    board him harder then necessary.
+  - He set a hearing to ascertain all the facts and decide on what punishment to given to the players involved.
+  - The attack on Alen and Richard was deliberate and persistent
+  - No sports decision ever hit the Montreal public with such impact.
+  - It seemed to strike at very heart and soul of the city.
+  - A bus driver became was so upset by the news that he ignored a falshing railway-level-crossing signal
+    and almost killed his passengers.
+  - The strong racial feelings engendered by the decision should have sounded an omnious warning.
+  - The people were not happy with the verdict given in Richard's case
+  - Many prominent people added fuel to the fire
+  - Canadians saw their hopes of a league championship go up in smoke.
+  - He could not have choosen the worst time.
+  - He seated in front of a battery of microphones
+  - Richard was still asleep when reporters knocked his door.
+  - No further harm will be done
+  - Get behind the team and help them win the title/game
+  - He appeared restless and upset
+  - He rubbed his eyes, tugged at his tie and scratched his left ear
+  - The question of suspension was laid aside for the time being.
+  - Other leaders followed Richard with strong pleas for law and order.
+  - There was to be no further violence for the remainder of the season, despite the fact that
+    the Canadiens lost the Championship.
