@@ -204,3 +204,20 @@
 - `converse` charmingly
 - `remain` private
 - `venture` an opinion
+- `make` a practice of doing something
+- `wear` a institutinal uniform
+- `wear` a generic hairstyle
+- `eliminate` individuality
+- `adopt` institutional uniform
+- `enable` <smone> to do <smthg> - enable women to work in private sector
+- `allow` <smone> to do <smth> - allow students to work harder
+- `reduce` the basic right of self-expression
+- `regiment` <smth> - a practive of imposing dress codes to regiment people's self-expression.
+- `develop` clothing aspirations
+- `conform` (obey/follow) to <smth> - the kitchen does not conform to hygience regulations
+- `desire` to <do> <smth> - desire to conform to appearance norms influences their shopping behaviour.
+- `acquire` norms and information needed to make informed clothing decisions
+- `make` informed clothing/<smth> decision
+- `gain` recognition
+- `forge` common bonds
+- `share` interests within peer group cultures

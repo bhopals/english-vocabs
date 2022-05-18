@@ -364,3 +364,12 @@ quite distant from the sitaution our partents were.
 - Take the map, and venture out on your own
 - conventional greeting - good morning/afternoon/evening
 - parting rituals - good bye,
+- made a practice of doing something
+- wear a makeup/generic hairstyle/institutional uniform
+- reduce the basic right of self-expression
+- appearance norms
+- social norms
+- appearance norms are gendered - like many other social norms
+- gendered occupations
+- Many of us conform to the outdated customs laid down by our forebears.
+- A desire to conform to appearance norms influence their shopping behavior.

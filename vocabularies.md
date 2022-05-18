@@ -227,3 +227,19 @@
   - Michelle Obama is known for her generous and unstinting support of military families.
   - We would like to thank Edna Hales for her unstinting support over the years.
   - We all appreciate your unstinting help.
+
+### Conform - verb - /kənˈfôrm/
+
+- MEANING
+  - comply with rules, standards, or laws;behave according to socially acceptable conventions or standards.
+- SYNONYMS
+  - obey, observe, follow, keep to, hold to, fit in
+- COLLOCATIONS
+
+  - conform to rules/safety regulations/outdated customs/fashion/hygiene regulations/strict dress-codes
+  - conform to internation standards/the rules of society/the usual stereotype/
+
+- EXAMPLES
+  - All students must conform to the rules.
+  - Many of us conform to the outdated customs laid down by our forebears.
+  - I did not conform to the usual stereotype of an industrial city.

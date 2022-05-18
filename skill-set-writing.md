@@ -1421,3 +1421,41 @@ Author - Lucia Engkent
   - conventional greeting - good morning/afternoon/evening
   - parting rituals - good bye,
   - Etiquette means polite behaviour in society
+
+### Chapter 14 - Clothing and Fashion
+
+- Essay - Appearance: Its Social Meaning
+  - a practice of imposing dress codes
+  - not to belittle people
+  - keep that off the record
+  - inmate to wear intitutional uniform
+  - Whiile removing all individual identifiers such as jewellery or personal assets.
+  - Often the inmates are forced to wear a generic hairstyle
+  - to eliminate individuality
+  - The loss of one own's clothing signifies the loss of an old identity and social status
+  - The adoption of institutional uniform represents entry into a low status community of identical mates and subjects
+  - Salvation Army practised spiritual warfare on establishments that promoted sin and verse.
+  - Adoption of plain, unfashionable clothes enable women to enter public places such as saloon
+    to their work without criticism.
+  - Their uniform, dramatically severe, came to represent traditional service and old-fashioned virtue.
+  - The connection between appearance, clothing, and self has been known and commented for a long time.
+  - Society affects both what we reveal and conceal of our bodies.
+  - Social pressure constantly undermine our realm of choice and reduce the basic right of self-expression
+  - No wonder, appearance normas are gendered - like many other social norms
+  - underwear is also gendered, though, usually unseen except by their wearers and intimate acquaintance
+  - Men's underwear tends to be sturdy and plain
+  - Women's underwear tends to be flimsy and decorative
+  - In multicultural urban areas, women's fashion choices are closely tied to issue of self-definition.
+  - This has been evident in the history of fashion in fascist countries.
+  - A practice of imposing dress codes to regiment people's self-expression - brings up a variety
+    of issues that include safety, egalitarianism, social inclusion, and marketing that encourages
+    students to dress competitively.
+  - Left on their own, and unless required to wear uniforms, young people
+    develop clothing aspirations very early in life.
+  - A desire to conform to appearance norms influence their shopping behavior.
+  - As preadolscents age, they acquire more of the norms and information needed to make informed clothing decisions.
+  - Clothing is an expression of both individuals and collective identity
+  - Relaxing the enforcement of school appearance norms (i.e. dress code) allow pupils to use clothing to
+    gain recognition, forge common bonds, and share interests withing peer group cultures
+  - Out tendency to conform to appearance norms, learned from childhood onward, largely continues throught life.
+    The result is widespread interest in fasion.
