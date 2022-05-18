@@ -1425,6 +1425,7 @@ Author - Lucia Engkent
 ### Chapter 14 - Clothing and Fashion
 
 - Essay - Appearance: Its Social Meaning
+
   - a practice of imposing dress codes
   - not to belittle people
   - keep that off the record
@@ -1459,3 +1460,26 @@ Author - Lucia Engkent
     gain recognition, forge common bonds, and share interests withing peer group cultures
   - Out tendency to conform to appearance norms, learned from childhood onward, largely continues throught life.
     The result is widespread interest in fasion.
+
+- Essay - White Tops, Grey Bottoms
+
+  - my son received a detention.
+  - He had to stay after school not for inappropriate language or behavior, but because his shirttail was untucked.
+  - I usually allow room for some embellishment - and even, at times truth-twisting- in his version of events.
+  - Go to a school with strict dress codes
+  - I have never been completely in favour of all this uniformity.
+  - After some years, school abandon strict dress codes
+  - wearing a unifrom stifled self-expression and creativity
+  - uniforms are supposed to create an environment conducive to learning and a sense of community among students
+  - Which style of shirt they deem acceptable
+  - It function as an invisible tax/fee, over and above the taxes we pay
+  - The surprising truth is most parents I speak with feel the uniforms are a blessing: they are relieved to not
+    have a daily arguments about appropriate dress.
+
+  - learn to say No that is not appropriate
+  - When you are a responsible adult, you can choose whether or not to conform to society's expectations.
+
+  - While canadians generally have fairly liberal standards toward clothing, some controversial issues have surfaced
+    especially when religion dictate clash with other rules and regulations.
+  - Accomodations and compromises have generally been made
+  - Muslim women's donning of hijab (head scarf), niqab (face veil), or burka (the complete body covering)

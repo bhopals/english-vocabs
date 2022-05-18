@@ -221,3 +221,15 @@
 - `gain` recognition
 - `forge` common bonds
 - `share` interests within peer group cultures
+- `run` a risk of <smth>
+- `receive` a detention
+- `allow` room for improvements
+- `abondan` strict dress codes
+- `enable` strict dress codes
+- `stifle` self-expression and creativity
+- `create` an environment conducive to learning
+- `create` a sense of community among students
+- `deem` (consider/adjudge/jidge) acceptable - the event was deemed a great success.
+- `require` <smone> to do <smthg> - requiring students to wear uniforms
+- `conform` to society's expectations.
+- `dictate` clash with other rules and regulations

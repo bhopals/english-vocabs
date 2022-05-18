@@ -373,3 +373,16 @@ quite distant from the sitaution our partents were.
 - gendered occupations
 - Many of us conform to the outdated customs laid down by our forebears.
 - A desire to conform to appearance norms influence their shopping behavior.
+- inappropriate language or behavior
+- in his/my version of events
+- embellishment and truth-twisting
+- strict dress codes
+- wearing a unifrom stifled self-expression and creativity of
+- create an environment conducive to learning
+- create a sense of community among students
+- over and above of taxes we pay
+- the surprising truth is most parents find it useful.
+- they are relieved to not have a daily arguments about appropriate dress.
+- environmental degradation
+- Whether or not to conform to society's expectations.
+- Accomodations and compromises have generally been made

@@ -243,3 +243,20 @@
   - All students must conform to the rules.
   - Many of us conform to the outdated customs laid down by our forebears.
   - I did not conform to the usual stereotype of an industrial city.
+
+### Stifle - verb - /ˈstīfəl/
+
+- MEANING
+
+  - make (someone) unable to breathe properly; suffocate; restrain (a reaction) or stop oneself acting on (an emotion).
+
+- SYNONYMS
+
+  - suffocate, choke, supress. hold back
+
+- EXAMPLES
+  - Wearing a unifrom stifled students' self-expression and creativity
+  - Dr. Long gave the patient medication to try and stifle the disease during the early stages
+  - As they hid in the attic, the mother tried to stifle the baby’s cry so the Nazis wouldn't find them.
+  - She managed to stifle a yawn.
+  - He struggled to stifle a yawn.
