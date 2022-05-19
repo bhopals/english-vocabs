@@ -322,3 +322,18 @@
   - The huge dog closed its eyes and appeared oblivious to the crawling baby
   - The absent-minded couple acted oblivious to the mess their child made in the restaurant.
   - She was oblivious to our warnings.
+
+### Prod - verb - /präd/
+
+- MEANING
+
+  - poke (someone) with a finger, foot, or pointed object.
+  - stimulate or persuade (someone who is reluctant or slow) to do something.
+
+- SYNONYMS
+
+  - poke, jab, nudge, elbow, push
+  - stimulate, stir
+
+- EXAMPLES
+  - He prodded her in the ribs to stop her snoring

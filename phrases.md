@@ -412,3 +412,4 @@ quite distant from the sitaution our partents were.
   - little did I know you'd need me again
 - stare blankly at something
 - Agony of humiliation
+- I poured myself a tall glass

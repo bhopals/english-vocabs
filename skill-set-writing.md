@@ -1615,3 +1615,9 @@ Author - Lucia Engkent
   - malicious smile
 
 - Essay - The Squatter
+  - His eyelids did not even flicker
+  - I prodded him in ribs
+  - He murmured and turned, throwing his lege over mine
+  - I poured myself a tall glass
+  - I could have phoned police
+  - If the police were to pull in here, everybody would be out on their balconies in no time

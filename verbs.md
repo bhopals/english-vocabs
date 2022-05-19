@@ -287,3 +287,6 @@
 - `display` temper and a vindictive spirit
 - `learn` to control temper
 - `control` temper
+- `prod` someone
+- `phone` police
+- `escort` <smone> out of <smth> - Security pesonals escorted drunk guy out of the bar
