@@ -391,3 +391,17 @@ quite distant from the sitaution our partents were.
 - opposing teams recognize Richard's talents and use rugged methods to stop him.
 - he ignored falshing railway-level-crossing signal
 - many prominent people added fuel to the fire
+- cultivate culture of voilence in professional hockey.
+- end of fighting would reduce head injuries
+- Attend an NHL game in my Arena
+- Fighting, however, is to professional hockey as hearts are to Valentine's day.
+- although the case against fighting, rationally speaking, is overwhelmingly
+- High-level atheletes
+- technological innovation
+- constitutes an unfair advantage
+- fairness and Sportsmanship
+- players indulge into trash talk and physical intimidation
+- he was unapologetic of his acts
+- be gracious and accept the outcome of the match.
+
+- counter the growing threat poised by China

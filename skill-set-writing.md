@@ -1487,6 +1487,7 @@ Author - Lucia Engkent
 ### Chapter 15 - Sport
 
 - Essay - The Strange Forces Behind the Richard Hocket Riot
+
   - A lynching might even be attempted.
   - The windows of passing streetcards were smashed for no apparent reason
   - The mob smashed hundereds of windows in the Forum by throwing bricks and bottles of beer.
@@ -1537,3 +1538,41 @@ Author - Lucia Engkent
   - Other leaders followed Richard with strong pleas for law and order.
   - There was to be no further violence for the remainder of the season, despite the fact that
     the Canadiens lost the Championship.
+
+- Essay - Fighting Hockey Violence Will Give You a Concussions
+  - Specialists in diagnosing and treating concussions should know about the perils of bashing heads against a brick wall
+  - numerous rules in hockey that leave heads inadequately protected
+  - cultivated culture of voilence in professional hockey
+  - Attend an NHL game in any arena. When a fight starts, fan througout the building rise, shout,
+    and gesticulate as vigoursly as when a goal is scored
+  - Fighting, however, is to professional hockey as hearts are to Valentine's day.
+  - although the case against fighting, rationally speaking, is overwhelmingly
+  - watch football palyers smash each other and where television is overrun with violence
+  - Alas, such an argument merely refelects Canadian conceit about Americans in general
+  - Fights break out even more frequently
+- Essay - Fair Play and Sportsmanship
+
+  - At issue is every contest in the question of fair play and sprotsmanship.
+  - We want sport to be pure - to reflect actual skill and achievement.
+  - However, this ideal is rarerly realized.
+  - Sports can be a huge money-making proposition.
+  - It is no wonder that atheletes are motivated to win at any cost - even if that requires cheating at the game.
+  - High-level atheletes train for thousands of hours, and they look for any boost they can get.
+  - Some go beyond vitamins and protein powder to performance-enhancing drugs such as steroids.
+  - These drugs have been banned, not only because of the edge they give athletes but because of the harm
+    they do to the body.
+  - In addition, every technological innovation in equipment, from clap skates to skintight swimsuits that
+    increase buoyancy, is scrutinized to determine whether it is just a step in the evolution of the sport
+    or whether it constitutes an unfair advantage
+  - On the field of play, other actions call into question fairness and sportsmanship
+  - Players indulge in trash talk and physical intimidation to improve their chance at victory.
+  - Other times result can be fixed, either by the judges and referees or by the athletes themselves
+  - Especially when high-stakes gambling is involved or when the honour of a nation stirs
+    patriotic fervour (passion, emotion), the tempetation to break the rules to win overpowers atheletics participants.
+
+  - Some times what is perceived as cheating differs. For instance, the soccer "dive" when players pretend
+    that they have been fouled, is considered part of the game by some players despite the rule against it.
+  - They are unapologetic whether they get away with it or are caught
+  - Such antics are usually criticized.
+  - We have high expectations of sport, expecting both winners and losers to be gracious and accept the outcome
+    of the match

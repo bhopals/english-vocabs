@@ -260,3 +260,18 @@
 - `rub` eye
 - `scratch` nose/left ear
 - `tug` his tie
+- `leave` your head inadequately protected
+- `cultivate` culture of violence in professional hockey
+- `attend` a game
+- `gesticulate`(gesture/sign/wave/motion) vigoursly
+- `break` out fight
+- `help` <smone> to gain <smth> - helping a company gain customers or sales
+- `pay` for advertise
+- `reflect` actual skill and achievements
+- `counter` the growing threat poised by China
+- `require` cheating at the game
+- `constitute` an unfair advantage
+- `indluge` into trash talk and physical intimidation
+- `improve` their chance at victory.
+- `fix` result of the match
+- `accept` the outcome of the match

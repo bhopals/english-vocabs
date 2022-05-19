@@ -294,3 +294,13 @@
 
 - "she managed to subdue an instinct to applaud"
 - Richard subdued his opponent fourth time.
+
+### Peril - noun/verb - /ˈperəl/
+
+- MEANING
+
+  - serious and immediate danger
+
+- EXAMPLES
+  - I never felt that my life was in peril.
+  - The economy is now in grave peril.
