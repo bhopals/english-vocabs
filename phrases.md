@@ -402,6 +402,12 @@ quite distant from the sitaution our partents were.
 - fairness and Sportsmanship
 - players indulge into trash talk and physical intimidation
 - he was unapologetic of his acts
-- be gracious and accept the outcome of the match.
-
+- be gracious and accept the outcome of the match
 - counter the growing threat poised by China
+- little you now
+- little did I know
+  - little did I know that I'd need that help
+  - little did I know she was from the same hometown as me
+  - little did I know that I was selected for the team
+  - little did I know you'd need me again
+- stare blankly at something

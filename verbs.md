@@ -275,3 +275,10 @@
 - `improve` their chance at victory.
 - `fix` result of the match
 - `accept` the outcome of the match
+- `cut` back on <smth> - govt is cutting back on old age pensions
+- `cut` down <smth> - she is trying to cut down on the amount of suger she eats
+- `cut` <smthg> down - cut the tree down
+- `resist` <smth>
+- `stare` blankly at <smth>
+- `gather` dust - (remain unused) - some professors let their computers gather dust
+- `make` a sound - made horrified sound

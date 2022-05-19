@@ -1576,3 +1576,23 @@ Author - Lucia Engkent
   - Such antics are usually criticized.
   - We have high expectations of sport, expecting both winners and losers to be gracious and accept the outcome
     of the match
+
+### Chapter 16 - Fiction Readings
+
+- Essay - Why My Mother Can't Speak English
+  - overtures
+  - diversify procurement
+  - maintain strategic autonomy
+  - I am gonna be truthful here
+  - Widowed for five years now
+  - I come home to tidy my mother's household stuff
+  - Traditional indian money-gift given to person who do things for you.
+  - As a dutiful son, I am responsible for the welfare of my widowed mother. So I took here to citizenship court.
+  - I do not want to take in the sorrow, the pain and the anguinsh
+  - little you know
+  - There is no point in letting dumbells gather dust in your bedroom.
+  - blood was dripping through his fingers
+  - I need to put my cat to sleep
+  - stain comes out easily with soap and water
+  - people with severe allergies
+  - His grandmother passed away
