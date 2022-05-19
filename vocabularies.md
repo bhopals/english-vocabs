@@ -304,3 +304,21 @@
 - EXAMPLES
   - I never felt that my life was in peril.
   - The economy is now in grave peril.
+
+### Oblivious - adjective -/əˈblivēəs/
+
+- MEANING
+
+  - not aware of or not concerned about what is happening around one.
+  - lacking remembrance, memory, or mindful attention.
+  - lacking active conscious knowledge or awareness —usually used with of or to.
+
+- SYNONYM
+  - unheeding, unmindful, unaware, insensible, unheeding
+- COLLOCATIONS
+  - oblivious to <smth>
+- EXAMPLES
+  - She became absorbed, oblivious to the passage of time
+  - The huge dog closed its eyes and appeared oblivious to the crawling baby
+  - The absent-minded couple acted oblivious to the mess their child made in the restaurant.
+  - She was oblivious to our warnings.

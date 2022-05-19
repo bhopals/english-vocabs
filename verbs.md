@@ -282,3 +282,8 @@
 - `stare` blankly at <smth>
 - `gather` dust - (remain unused) - some professors let their computers gather dust
 - `make` a sound - made horrified sound
+- `make` <smone> look at <smth/smone>
+- `stare` open-mouthed at <smone/smth>
+- `display` temper and a vindictive spirit
+- `learn` to control temper
+- `control` temper

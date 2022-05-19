@@ -411,3 +411,4 @@ quite distant from the sitaution our partents were.
   - little did I know that I was selected for the team
   - little did I know you'd need me again
 - stare blankly at something
+- Agony of humiliation

@@ -1580,6 +1580,7 @@ Author - Lucia Engkent
 ### Chapter 16 - Fiction Readings
 
 - Essay - Why My Mother Can't Speak English
+
   - overtures
   - diversify procurement
   - maintain strategic autonomy
@@ -1596,3 +1597,21 @@ Author - Lucia Engkent
   - stain comes out easily with soap and water
   - people with severe allergies
   - His grandmother passed away
+
+- Essay - Tempest in the School Teapot
+
+  - Mr. Phillips was back in the corner explainig a problem in algebra to students
+  - All the scholars were doing pretty much as they pleased.
+  - Driving crickets harnassed to strings up and down in the aisle
+  - Gilbert was trying to make Anne look at him and failing utterly
+  - Anne was at that moment totally oblivious
+  - With her chin propped on her hands and her eyes fixed on the blue glimpse of the Lake of Shinning Waters.
+  - She was far away in her gorgeous dreamland, hearing and seeing nothing save her own wonderful visions.
+  - He stared open-mouthed at her
+  - Agony of humiliation
+  - passion-red cheeks
+  - resentful eyes
+  - sympathetic gaze
+  - malicious smile
+
+- Essay - The Squatter
