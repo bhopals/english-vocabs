@@ -1621,3 +1621,18 @@ Author - Lucia Engkent
   - I poured myself a tall glass
   - I could have phoned police
   - If the police were to pull in here, everybody would be out on their balconies in no time
+
+### Revision
+
+- reduce global warming
+- consider drafting a new deal that all of the world's nations can get behind
+- the deal to cut greenhouse-gas emissions has gone up in the smoke
+- curb emission
+- continents disappearing under ocean
+- skin frying the moment you step outside
+- the world is devasted by global warming
+- we are all united in a belief that ...
+- we are just plain wrong about how dangerous these greenhouse gases reaally are
+- committed to the financial well-being of our citizens
+- strict environmental rule stifle economic growth
+- substantial campaign donation
