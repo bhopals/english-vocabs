@@ -289,6 +289,30 @@ Author - Lucia Engkent
     - politics, politicize, political, politically,
     - softness, soften, soft, softly
 
+- PREFIXES OF SIZE AND QUANTITY
+
+  - 0.  PREFIX || MEANING || EXAMPLES
+  - 1.  `ambi-` || both || ambiguous, ambibalent
+  - 2. ` bi-`, `bin-` || two || bicycle, bilingual, binoculars
+  - 3.  `cent-` || hundred || centigrade, centipede, century
+  - 4.  `dec`-, deca- || ten || decage, decathlon, decibel, decimate
+  - 5.  `di-` || two || diode, dioxide
+  - 6.  `hyper-` || over || hyperactive, hyperbole
+  - 7.  `macro-` || large || macrocosm, macroeconomics
+  - 8.  `mega-` || great || megabyte, mega-city, magalomania
+  - 9.  `micro-` || small || microbe, microbiology, microfibre
+  - 10. `mill-` || thousand || millennium, millisecond
+  - 11. `mono-` || one || monogamy, monologue
+  - 12. `multi-` || many || miltifaced, multiplex
+  - 13. `omni-` || all || omnipresent, omnipotent, omniscient
+  - 14. `pan-` || all || Pan-American, pandemic, pandemonium
+  - 15. `poly-` || many || polyglot, ploygamous, ploygon
+  - 16. `quasi-` || partly || quasi-intellectual, quais-professional
+  - 17. `semi-` || half || semi-detached, semi-sweet
+  - 18. `tri-` || three || trio, triangle
+  - 19. `ultra-` || beyond || ultra-conservative, ultrasound
+  - 20. `uni-` || one || unicorn, unification
+
 - RECOGNIZE COLLOCATION
 
   - Words that goes together. Also refers to PROBABLE WORD COMBINATIONS.
