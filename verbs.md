@@ -290,3 +290,7 @@
 - `prod` someone
 - `phone` police
 - `escort` <smone> out of <smth> - Security pesonals escorted drunk guy out of the bar
+- `cut` greenhouse-gas emission
+- `draft` a new deal
+- `curb` emissions
+- `stifle` economic growth

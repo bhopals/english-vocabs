@@ -313,7 +313,27 @@ Author - Lucia Engkent
   - 19. `ultra-` || beyond || ultra-conservative, ultrasound
   - 20. `uni-` || one || unicorn, unification
 
-- RECOGNIZE COLLOCATION
+- PREFIXES OF LOCATION AND DIRECTION
+
+  - 0.  PREFIX || MEANING || EXAMPLES
+  - 1.  `ante-` || before || antedate, antechamber, anterior
+  - 1.  `circum-` || around || circumference, circumstance, circumvent
+  - 1.  `co-(com/n/l/r)` || together || cooperate, connect, co-worker
+  - 1.  `ex-` || out || exit, explode, exhale
+  - 1.  `in-(li-, im-, ir-)` || in || incision, imprison
+  - 1.  `inter-` || between || interfere, interrupt, interview
+  - 1.  `intra` || within || intravenous
+  - 1.  `intro-` || within || introvert
+  - 1.  `peri-` || around || perimeter, peripheral, periscope
+  - 1.  `pre-` || before || predict, pre-emptive, preview
+  - 1.  `post-` || after || postpartum, post-secondary
+  - 1.  `re-, retro-` || again, back || recite, retrograde, return
+  - 1.  `sub-` || under || subliminal, subtitle, subzero
+  - 1.  `super-, sur-` || above || superior, supreme, surcharge
+  - 1.  `syn-, sym-` || with || symphony, symposium, synchronize
+  - 1.  `trans-` || across || transform, translate, transportaion
+
+- RECOGNIZE COLLOCATION:
 
   - Words that goes together. Also refers to PROBABLE WORD COMBINATIONS.
   - Collacation can include:
