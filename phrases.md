@@ -413,3 +413,4 @@ quite distant from the sitaution our partents were.
 - stare blankly at something
 - Agony of humiliation
 - I poured myself a tall glass
+- they guy was staring blankly at the window
