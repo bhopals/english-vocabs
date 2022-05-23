@@ -414,3 +414,22 @@ quite distant from the sitaution our partents were.
 - Agony of humiliation
 - I poured myself a tall glass
 - they guy was staring blankly at the window
+
+- shameful stigma
+- bordom can spur children on to create their own game
+- unsanitise and unsafe place
+- working with partners fosters both cooperation/coodrination and competition
+- offer a bit of small talk to people
+- have a disposable side-income
+- cost of desired item/desired cloth
+- gain valuable skill
+- reap the many benefits of a job
+- economics of professional sports
+- savvy consumers
+- high-tech bust
+- this game offers a right balance of challanges and fun
+- they learn to compromise and negotiate with others
+- child should not controlled by adults
+- let me put it in a friendly way
+- unaddressed issue
+- people are less likely to start a conversation
