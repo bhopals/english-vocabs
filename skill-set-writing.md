@@ -965,7 +965,7 @@ Author - Lucia Engkent
   - The `economics of professional sport` is `determental` to the fan base
   - Games often `start` later in the evening so that they can be broadcasted in the
     `more Lucrative prime-time spots` even though that is often too late for young viewers.
-  - Violence should be `better controlled` in the gamse so that it does not set a bad examole for children.
+  - Violence should be `better controlled` in the gamse so that it does not set a bad example for children.
   - The pace of baseball is too slow for fans `accustomed` to fast action
   - Games are paused so the broadcasters can insert `commercial breaks`.
   - Professional athletes often sign `multi-million-dollar endorsement contracts`.
@@ -1680,3 +1680,7 @@ Author - Lucia Engkent
 - committed to the financial well-being of our citizens
 - strict environmental rule stifle economic growth
 - substantial campaign donation
+
+- the shared family meal is yet another casualty of the hectic modern lifestyle.
+- children's after-school and evening hours care filled with sports and music lessons
+- partents return home may also be delayed because of the long commute

@@ -433,3 +433,6 @@ quite distant from the sitaution our partents were.
 - let me put it in a friendly way
 - unaddressed issue
 - people are less likely to start a conversation
+- I have a bigger appetite than other competitors
+- degaradation in water quality
+- it is so traditional and beautiful at the same time
