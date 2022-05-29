@@ -294,3 +294,7 @@
 - `draft` a new deal
 - `curb` emissions
 - `stifle` economic growth
+- `relieve` discomfort
+- `gain` awareness of <smth>
+- `pick` up an awareness of <smth>
+- `absorb` knowledge
