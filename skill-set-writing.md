@@ -973,7 +973,7 @@ Author - Lucia Engkent
   - Only billionaires can afford to buy sports franchises
   - Amateur (am·a·teur, /ˈamədər,ˈaməˌtər,ˈaməCHər/) atheletes are struggling to survive on very little money
   - Writers need to help readers `follow` `the development of ideas`
-  - Weeded out the out-of-the-date perpers and checked accuracy of the information in the system.
+  - Weeded out the out-of-the-date papers and checked accuracy of the information in the system.
   - Computer games can give children an opportunity to `exercise` their `problem-solving skills`.
   - Many drivers `exhibit` `unnecessary aggressive behavior` on the highway.
   - Some drivers `weave` `in and out of lanes` looking for any space to `advance`.
@@ -992,10 +992,11 @@ Author - Lucia Engkent
 ### Chapter 5 - ESSAY WRITING SKILLS
 
 - Driving to work or schools is one of the most dangerous activities people undertake in their daily lives
-- The possibility of getting hurt or killed in a traffic accident is actually higher than getting killed by a terrorist
+- The possibility of getting hurt or killed in a traffic accident is actually higher than getting
+  killed by a terrorist attack
 - People do not take bad driving seriously
 - `over-cautious drivers` `insist` on going very slowly
-- `overly careful drivers` `delay` making left turns
+- `overly careful drivers` `delay` making their turns
 - transgression - (an act goes againt the law, rule, code of conduct, an offence)
   - SYNONYMS - wrong, offence, crime, sin, wrongdoing, misdemeanor, felony
   - Example
