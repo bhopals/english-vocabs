@@ -436,3 +436,4 @@ quite distant from the sitaution our partents were.
 - I have a bigger appetite than other competitors
 - degaradation in water quality
 - it is so traditional and beautiful at the same time
+- be the change you want to be
