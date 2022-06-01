@@ -298,3 +298,12 @@
 - `gain` awareness of <smth>
 - `pick` up an awareness of <smth>
 - `absorb` knowledge
+- `establish` a rapport
+- `offer` a mentorship program
+- `absorb` a lot of informations
+- `appear` confident
+- `ease` the tension
+- `pay` a compliment
+- `deliver` feedback
+- `receive` feedback
+- `produce` conflicts
