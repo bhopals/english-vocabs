@@ -307,3 +307,5 @@
 - `deliver` feedback
 - `receive` feedback
 - `produce` conflicts
+- `dispel` ease
+- `afflict` pain
