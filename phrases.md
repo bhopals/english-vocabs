@@ -437,3 +437,7 @@ quite distant from the sitaution our partents were.
 - degaradation in water quality
 - it is so traditional and beautiful at the same time
 - be the change you want to be
+- greatest strength
+- deepest regret
+- If she is amazaing, she won't be easy
+- If she is easy, she won't be amazaing
