@@ -441,4 +441,4 @@ quite distant from the sitaution our partents were.
 - deepest regret
 - If she is amazaing, she won't be easy
 - If she is easy, she won't be amazaing
-- He bested (defeated/) his opponent in just two rounds.
+- He bested (defeated) his opponent in just two rounds.
