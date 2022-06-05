@@ -442,3 +442,4 @@ quite distant from the sitaution our partents were.
 - If she is amazaing, she won't be easy
 - If she is easy, she won't be amazaing
 - He bested (defeated) his opponent in just two rounds.
+- overton window

@@ -309,3 +309,16 @@
 - `produce` conflicts
 - `dispel` ease
 - `afflict` pain
+- `obtain` credit card
+- `reduce` waste
+- `save` energy
+- `encourage` recycling
+- `demonstrate` your knowledge
+- `convey` enthusiasm
+- `delineate` special information
+- `weigh` merit
+- `toss` out idea
+- `call` a meeting
+- `make` a suggestion
+- `generate` ideas
+- `appraise` (assess) <smth> - appraise yourself
